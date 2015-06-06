@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<div class="card">
+
+  <header class="card-header">
+    <h1 class="card-title">{{ page.title }}</h1>
+    {{page.personalitytype}}
+  </header>
+
+  <article class="card-content">
+    <img src="{{page.image}}">
+    {{ content }}
+<span class="costs">
+  <h2>Costs</h2>
+
+    {% if page.staffcost %}
+    Staff: {{page.staffcost}}
+    {% endif %}
+
+    {% if page.qualitycost %}
+    Quality: {{page.qualitycost}}
+    {% endif %}
+
+    {% if page.rdcost %}
+    R&D: {{page.rdcost}}
+    {% endif %}
+
+    {% if page.marketingcost %}
+    Marketing: {{page.marketingcost}}
+    {% endif %}
+
+    {% if page.longevitycost %}
+    Longevity: {{page.longevitycost}}
+    {% endif %}
+
+    {% if page.moneycost %}
+    Money: {{page.moneycost}}
+    {% endif %}
+
+    {% if page.loyaltycost %}
+Loyalty: {{page.loyaltycost}}
+    {% endif %}
+
+    {% if page.specialcost %}
+    Special: {{page.specialcost}}
+    {% endif %}
+  </span>
+
+<span class="scores">
+  <h2>Scores</h2>
+
+{% if page.loyaltyscore %}
+Loyalty: {{page.loyaltyscore}}
+{% endif %}
+
+{% if page.profitscore %}
+Profit: {{page.profitscore}} for {{page.profitlength}} turns
+{% endif %}
+
+{% if page.longevityscore %}
+Longevity: {{page.longevityscore}}
+{% endif %}
+
+{% if page.rdscore %}
+R&D: {{page.rdscore}}
+{% endif %}
+
+{% if page.specialscore %}
+Special: {{page.specialscore}}
+{% endif %}
+</span>
+<p class="legal">{{page.legal}}</p>
+
+  </article>
+
+</div>

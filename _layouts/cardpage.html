@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {% assign approvedCards = site.cards | where:"approved", "Y" %}
+
+  {% for card in approvedCards %}
+  <h2>{{ card.title }}</h2>
+  <a href="{{card.url}}">View</a>
+  {% endfor %}
+</div>
