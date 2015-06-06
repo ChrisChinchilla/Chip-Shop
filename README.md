@@ -33,7 +33,7 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `personalitytype`: If this is a personality then there are three sub-types of personality - expert, genius and giant. Choose one and enter that value.
 
-`image`: If you want to supply an image, add it to the top level images folder and link to it here in the format images/filename.filextension.
+`image`: If you want to supply an image, add it to the top level images folder and link to it here in the format _assets/images/cardsfilename.filextension_.
 
 `staffcost`: How many staff resources does this card cost, if any.
 
