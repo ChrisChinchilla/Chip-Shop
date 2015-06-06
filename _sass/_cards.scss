@@ -1,0 +1,12 @@
+.card-content {
+  .costs, .scores {
+    display: block;
+    margin-bottom:$spacing-unit / 4;
+    h2 {
+      margin-bottom:0;
+    }
+  }
+  .legal {
+    font-size:$small-font-size;
+  }
+}
