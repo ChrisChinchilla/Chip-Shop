@@ -9,7 +9,7 @@ layout: default
   </header>
 
   <article class="card-content">
-    <img src="{{page.image}}">
+    {% picture mediumscreen {{page.image}} alt="{{page.title}}" %}
     {{ content }}
 <span class="costs">
   <h2>Costs</h2>
