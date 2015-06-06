@@ -11,8 +11,6 @@ github_username:  chrischinchilla
 collections:
   cards:
     output: true
-    # TODO: How to get this to work?
-    layout: card
   manual:
     output: true
     # TODO: How to get this to work?
@@ -21,6 +19,16 @@ collections:
     output: true
     # TODO: How to get this to work?
     layout: concept
+
+defaults:
+  -
+    scope:
+      type: cards
+    values:
+      layout: card
+      region: USA
+      era: 80s
+      approved: N
 
 # Build settings
 markdown: kramdown

@@ -1,9 +1,6 @@
 ---
-layout: card
-title: Test Card
-realtitle: Test Card
-region: USA
-era: 80s
+title: Template Card
+realtitle: Template Card
 cardtype: product
 personalitytype: null
 image: /images/test.png
@@ -21,7 +18,6 @@ profitlength: 2
 longevityscore: 1
 rdscore: null
 specialscore: null
-approved: 'Y'
 legal: Blah is a Trademark of Blah Inc
 ---
 
