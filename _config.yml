@@ -30,5 +30,36 @@ defaults:
       era: 80s
       approved: N
 
+picture:
+  source: /assets/images
+  output: generated
+  markup: picture
+  presets:
+    default:
+      # ppi: [1, 1.5]
+      attr:
+        class: default-image
+        itemprop: image
+      source_lrg:
+        media: "(min-width: 40em)"
+        width: 700
+      source_med:
+        media: "(min-width: 30em)"
+        width: 450
+      source_default:
+        width: 350
+        height: 200
+    mediumscreen:
+      # ppi: [1, 1.5]
+      attr:
+        class: medium-screen
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        width: 400
+        height: 200
+      source_default:
+        width: 200
+
 # Build settings
-markdown: kramdown
+markdown: redcarpet
