@@ -14,7 +14,8 @@ layout: default
   {% assign approvedCards = site.cards | where:"approved", "Y" %}
 
   {% for card in approvedCards %}
-  <h2>{{ card.title }}</h2>
-  <a href="{{card.url}}">View</a>
+  <p>
+    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
+  </p>
   {% endfor %}
 </div>
