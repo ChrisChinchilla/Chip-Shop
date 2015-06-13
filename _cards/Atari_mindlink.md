@@ -1,19 +1,20 @@
 ---
-title: 3D Glasses Card
-realtitle: 3D Glasses Card
+title: Atari mindlink
+realtitle: Atari mindlink
 cardtype: product
 image: cards/test.png
-staffcost: 1
-rdcost: 2
-marketingcost: 3
-
+staffcost: 3
+qualitycost: 3
+rdcost: 5
+marketingcost: null
+loyaltycost: -1
+specialcost: null
 loyaltyscore: 1
-
-profitlength: 2 for 2
-longevityscore: 2
-
-specialscore: Accessory
-legal: Blah is a Trademark of Blah Inc
+longevityscore: 4
+profitscore: -2
+profitlength: 1
+legal: "Atari and Mindlink are registered Trademarks of Atari Interactive, Inc"
+approved: 'Y'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
