@@ -8,8 +8,9 @@ staffcost: 3
 rdcost: 2
 marketingcost: 5
 loyaltyscore: 3
+profitscore: 5
+profitlength: 2
 longevityscore: 4
-specialscore: 5 for 2
 legal: Vectex is a Trademark of Blah Inc
 ---
 
