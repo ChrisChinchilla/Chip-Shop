@@ -2,14 +2,12 @@
 title: Console adapter Card
 realtitle: Template Card
 cardtype: product
-
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
 staffcost: 2
 rdcost: 2
 marketingcost: 1
-
 specialcost: Search discard pile and draw first console products equal to your R&D score, choose one and return the others.
-
 specialscore:  Original player receives money equal to 1\5 of original R&D value and one loyalty. Receive profit per turn at 1/2 loyalty, turns equal to half loyalty. 
 legal: Blah is a Trademark of Blah Inc
 ---
