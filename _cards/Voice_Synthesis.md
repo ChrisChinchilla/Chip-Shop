@@ -9,7 +9,6 @@ marketingcost: 3
 loyaltyscore: 1
 profitscore: 2 for 1
 longevityscore: 1
-
 specialscore: Accessory
 legal: Blah is a Trademark of Blah Inc
 ---
