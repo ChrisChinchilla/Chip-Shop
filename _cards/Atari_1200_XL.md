@@ -2,15 +2,14 @@
 title: Atari 1200 XL Card
 realtitle: Atari 1200 XL Card
 cardtype: product
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes. Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime laudat? Tum ille timide vel potius verecunde: Facio, inquit. Duo Reges: constructio interrete. Non quam nostram quidem, inquit Pomponius iocans;
 image: cards/test.png
 staffcost: 3
 qualitycost: 3
 marketingcost: 3
-
 loyaltyscore: 4
 profitscore: 2 for 1
 longevityscore: 1
-
 legal: Atari and Atari 1200XL are registered Trademarks of Atari Interactive, Inc
 
 ---
