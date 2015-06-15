@@ -2,17 +2,15 @@
 title: Halcyon
 realtitle: Halcyon
 cardtype: product
-personalitytype: null
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
 staffcost: 2
-
 rdcost: 3
-marketingcost: null
-
+marketingcost: 0
 loyaltyscore: 2
+profit: -2
+profit length: 1
 longevityscore: 4
-
-specialscore: null
 legal: Blah is a Trademark of Blah Inc
 ---
 
