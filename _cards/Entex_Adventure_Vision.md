@@ -1,14 +1,11 @@
 ---
-title: Endex Card
-realtitle: Endex Card
+title: Endex Adventure Vision
+realtitle: Endex Adventure Vision
 cardtype: product
-
 image: cards/test.png
 staffcost: 2
-
 rdcost: 3
 marketingcost: 3
-
 loyaltyscore: 2
 profitscore: 2 for 1
 longevityscore: 2
