@@ -3,10 +3,8 @@ title: Extended Warranty Card
 realtitle: Extended Warranty Card
 cardtype: product
 image: cards/test.png
-
 rdcost: 2
 marketingcost: 1
-
 longevityscore: 1
 rdscore: null
 specialscore:  Pick any current built product and receive profit for its life equal to 1\5 of its profit. 
