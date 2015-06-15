@@ -6,7 +6,6 @@ image: cards/test.png
 staffcost: 2
 rdcost: 1
 marketingcost: 1
-
 specialscore: Accessory Attach to any built computer product and for the length of its life + 1 turn you receive 1/4 of that products profit per turn 
 legal: Blah is a Trademark of Blah Inc
 ---
