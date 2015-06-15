@@ -8,7 +8,8 @@ staffcost: 3
 rdcost: 4
 marketingcost: 4
 loyaltyscore: 3
-profitscore: 2 for 3
+profitscore: 2
+profit length 3
 longevityscore: 2
 
 legal: Atari and Atari 7800 are registered Trademarks of Atari Interactive, Inc
