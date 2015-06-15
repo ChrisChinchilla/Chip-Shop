@@ -1,3 +1,4 @@
+---
 title:CES Hit!
 realtitle:CES Hit!
 cardtype event
