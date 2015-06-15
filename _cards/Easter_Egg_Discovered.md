@@ -2,6 +2,7 @@
 title: Easter Egg Discovered
 realtitle: Easter Egg Discovered
 cardtype: Event
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: 
 loyaltyscore: 2
 profitscore: 1/4
