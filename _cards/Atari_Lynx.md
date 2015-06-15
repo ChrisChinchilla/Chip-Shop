@@ -2,7 +2,7 @@
 title: Atari Lynx
 realtitle: Atari Lynx
 cardtype: Product
-carddetails: **The First handheld**
+cardtext: **The First handheld**
 image: 
 staffcost: 3
 qualitycost: 4
