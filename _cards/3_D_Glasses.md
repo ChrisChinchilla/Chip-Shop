@@ -2,16 +2,15 @@
 title: 3D Glasses Card
 realtitle: 3D Glasses Card
 cardtype: product
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
 staffcost: 1
 rdcost: 2
 marketingcost: 3
-
 loyaltyscore: 1
-
-profitlength: 2 for 2
+profit score: 2
+profitlength: 2 
 longevityscore: 2
-
 specialscore: Accessory
 legal: Blah is a Trademark of Blah Inc
 ---
