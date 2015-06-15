@@ -1,5 +1,5 @@
-title:ces_flop.md
-realtitle: ces_flop.md 
+title:CES_flop.md
+realtitle: CES_flop.md 
 cardtype: event
 marketingcost: 1
 longevitycost: 
