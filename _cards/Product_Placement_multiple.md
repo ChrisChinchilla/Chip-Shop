@@ -2,6 +2,7 @@
 title: Product placement (mutiple)
 realtitle: Product placement (multiple)
 cardtype: Event
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: 
 profitscore: 2
 profitlength: 1
