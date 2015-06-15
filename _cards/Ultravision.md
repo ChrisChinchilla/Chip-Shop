@@ -4,12 +4,9 @@ realtitle: Ultravision
 cardtype: product
 image: cards/test.png
 staffcost: 2
-
 rdcost: 2
 marketingcost: 2
-
 loyaltyscore: 2
-
 longevityscore: 2
 profit: -2 for 2
 ???
