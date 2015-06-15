@@ -2,6 +2,7 @@
 title: Control Pad Card
 realtitle: Control Pad Card
 cardtype: product
+cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
 staffcost: 1
 rdcost: 1
