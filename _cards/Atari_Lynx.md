@@ -1,17 +1,17 @@
 ---
-title: Colecovision
-realtitle: Colecovision
-cardtype: product
-image: cards/test.png
-staffcost: 4
-rdcost: 4
-marketingcost: 5
+title: Atari Lynx
+realtitle: Atari Lynx
+cardtype: Product
+cardtext: **The First handheld**
+image: 
+staffcost: 3
+qualitycost: 4
+rdcost: 5
+marketingcost: 3
 loyaltyscore: 4
-profitscore: 6
-profitlength: 3
-longevityscore: 4
-legal: Coleco and ColecoVision are registered Trademarks of River West Brands LLC
-approved: 'Y'
+profitscore: 3
+profitlength: 5
+longevityscore:5
+legal: 
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?

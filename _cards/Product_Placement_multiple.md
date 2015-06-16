@@ -1,14 +1,13 @@
 ---
-title: Extended Warranty
-realtitle: Extended Warranty
-cardtype: product
+title: Product placement (mutiple)
+realtitle: Product placement (multiple)
+cardtype: Event
 cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
-image: cards/test.png
-rdcost: 2
-marketingcost: 1
-longevityscore: 1
-specialscore: Pick any current built product and receive profit for its life equal to 1/5 of its profit.
-approved: 'Y'
+image: 
+profitscore: 2
+profitlength: 1
+longevityscore:1
+specialscore: On a product of your choice.
+legal: 
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?

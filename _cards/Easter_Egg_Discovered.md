@@ -1,14 +1,15 @@
 ---
-title: Extended Warranty
-realtitle: Extended Warranty
-cardtype: product
+title: Easter Egg Discovered
+realtitle: Easter Egg Discovered
+cardtype: Event
 cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
-image: cards/test.png
-rdcost: 2
-marketingcost: 1
-longevityscore: 1
-specialscore: Pick any current built product and receive profit for its life equal to 1/5 of its profit.
-approved: 'Y'
+image: 
+loyaltyscore: 2
+profitscore: 1/4
+profitlength: 1
+longevityscore:
+rdscore: 
+specialscore: Gain 1/4 extra profit per turn for one turn on a product of your choice. Also gain two points of loyalty.
+legal: 
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?

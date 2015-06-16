@@ -1,13 +1,17 @@
 ---
-title: Extended Warranty
-realtitle: Extended Warranty
+title: Ultravision
+realtitle: Ultravision
 cardtype: product
 cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
+staffcost: 2
 rdcost: 2
-marketingcost: 1
-longevityscore: 1
-specialscore: Pick any current built product and receive profit for its life equal to 1/5 of its profit.
+marketingcost: 2
+loyaltyscore: 2
+longevityscore: 2
+profitscore: -2
+profitlength: 2
+legal: Ultravision is a Trademark of Blah Inc
 approved: 'Y'
 ---
 

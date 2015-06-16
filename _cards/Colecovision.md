@@ -1,13 +1,17 @@
 ---
-title: Extended Warranty
-realtitle: Extended Warranty
+title: Colecovision
+realtitle: Colecovision
 cardtype: product
 cardtext: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.
 image: cards/test.png
-rdcost: 2
-marketingcost: 1
-longevityscore: 1
-specialscore: Pick any current built product and receive profit for its life equal to 1/5 of its profit.
+staffcost: 4
+rdcost: 4
+marketingcost: 5
+loyaltyscore: 4
+profitscore: 6
+profitlength: 3
+longevityscore: 4
+legal: Coleco and ColecoVision are registered Trademarks of River West Brands LLC
 approved: 'Y'
 ---
 
