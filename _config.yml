@@ -4,31 +4,12 @@ email: info@gregariousmammal.com
 description: > # this means to ignore newlines until "baseurl:"
   Build your Silicon Empire.
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://chipshopgame.com" # the base hostname & protocol for your site
+url: "http://chipshopgame.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
 
-collections:
-  cards:
-    output: true
-  manual:
-    output: true
-    # TODO: How to get this to work?
-    layout: manual
-  concepts:
-    output: true
-    # TODO: How to get this to work?
-    layout: concept
-
-defaults:
-  -
-    scope:
-      type: cards
-    values:
-      layout: card
-      region: USA
-      era: 80s
-      approved: N
+# Build settings
+markdown: redcarpet
 
 picture:
   source: /assets/images
@@ -61,5 +42,38 @@ picture:
       source_default:
         width: 200
 
-# Build settings
-markdown: redcarpet
+collections:
+  cards:
+    output: true
+  manual:
+    output: true
+    # TODO: How to get this to work?
+    layout: manual
+  concepts:
+    output: true
+    # TODO: How to get this to work?
+    layout: concept
+
+defaults:
+  -
+    scope:
+      type: cards
+    values:
+      layout: card
+      region: USA
+      era: 80s
+      approved: N
+      image: cards/test.png
+
+gems: [jekyll-pandoc-multiple-formats, jekyll-picture-tag]
+
+pandoc:
+  skip: true
+  impose: false
+  output: assets
+  # flags: '--smart --bibliography=ref.bib'
+  # site_flags: '--toc'
+  outputs:
+    pdf: '--latex-engine=pdflatex'
+    # epub:
+    # markdown:
