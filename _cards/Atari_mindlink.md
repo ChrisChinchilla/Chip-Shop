@@ -2,7 +2,6 @@
 title: Atari mindlink
 realtitle: Atari mindlink
 cardtype: product
-image: cards/test.png
 staffcost: 3
 qualitycost: 3
 rdcost: 5
@@ -13,7 +12,7 @@ loyaltyscore: 1
 longevityscore: 4
 profitscore: -2
 profitlength: 1
-legal: "Atari and Mindlink are registered Trademarks of Atari Interactive, Inc"
+legal: 'Atari and Mindlink are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 ---
 

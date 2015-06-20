@@ -2,7 +2,6 @@
 title: Commodore 64
 realtitle: Commodore 64
 cardtype: product
-image: cards/test.png
 staffcost: 5
 rdcost: 7
 marketingcost: 7

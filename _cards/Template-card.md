@@ -3,7 +3,6 @@ title: Template Card
 realtitle: Template Card
 cardtype: product
 personalitytype: null
-image: cards/test.png
 staffcost: 2
 qualitycost: 3
 rdcost: 2

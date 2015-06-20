@@ -2,7 +2,6 @@
 title: Entex
 realtitle: Entex
 cardtype: product
-image: cards/test.png
 staffcost: 2
 rdcost: 3
 marketingcost: 3

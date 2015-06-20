@@ -2,7 +2,6 @@
 title: Atari 1200 XL
 realtitle: Atari 1200 XL
 cardtype: product
-image: cards/test.png
 staffcost: 3
 qualitycost: 3
 marketingcost: 3

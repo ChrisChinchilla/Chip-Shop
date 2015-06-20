@@ -2,7 +2,6 @@
 title: Atari 800 XL
 realtitle: Atari 800 XL
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 2
 marketingcost: 3

@@ -2,7 +2,6 @@
 title: Magnavox Odyssey 3
 realtitle: Magnavox Odyssey 3
 cardtype: product
-image: cards/test.png
 staffcost: 2
 rdcost: 3
 loyaltycost: 2

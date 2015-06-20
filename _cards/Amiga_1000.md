@@ -2,7 +2,6 @@
 title: Amiga 1000
 realtitle: Amiga 1000
 cardtype: product
-image: cards/test.png
 staffcost: 4
 rdcost: 6
 loyaltyscore: 4

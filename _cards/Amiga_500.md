@@ -2,7 +2,6 @@
 title: Amiga 500
 realtitle: Amiga 500
 cardtype: product
-image: cards/test.png
 staffcost: 4
 rdcost: 5
 marketingcost: 4

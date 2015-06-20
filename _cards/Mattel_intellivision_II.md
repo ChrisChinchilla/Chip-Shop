@@ -2,7 +2,6 @@
 title: Mattel Intellivision II
 realtitle: Mattel Intellivision II
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 3
 marketingcost: 3

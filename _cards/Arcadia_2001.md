@@ -2,7 +2,6 @@
 title: Arcadia 2001
 realtitle: Arcadia 2001
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 3
 marketingcost: 3

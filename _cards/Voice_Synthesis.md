@@ -2,7 +2,6 @@
 title: Voice Synthesis
 realtitle: Voice Synthesis
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 3
 marketingcost: 3

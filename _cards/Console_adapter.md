@@ -2,7 +2,6 @@
 title: Console adapter Card
 realtitle: Template Card
 cardtype: product
-image: cards/test.png
 staffcost: 2
 rdcost: 2
 marketingcost: 1

@@ -2,7 +2,6 @@
 title: Halcyon
 realtitle: Halcyon
 cardtype: product
-image: cards/test.png
 staffcost: 2
 rdcost: 3
 loyaltyscore: 2
