@@ -68,11 +68,11 @@ defaults:
 gems: [jekyll-pandoc-multiple-formats, jekyll-picture-tag]
 
 pandoc:
-  skip: true
+  skip: false
   impose: false
   output: assets
-  # flags: '--smart --bibliography=ref.bib'
-  # site_flags: '--toc'
+  flags: '--template=/Users/chrisward/Workspace/cs_jk/assets/card.latex -V geometry:paperwidth=5.7cm -V geometry:paperheight=9.0cm -V geometry:margin=0.5cm -V fontsize=8pt'
+  site_flags: ''
   outputs:
     pdf: '--latex-engine=pdflatex'
     # epub:
