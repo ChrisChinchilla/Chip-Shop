@@ -13,7 +13,7 @@ loyaltyscore: 1
 longevityscore: 4
 profitscore: -2
 profitlength: 1
-legal: "Atari and Mindlink are registered Trademarks of Atari Interactive, Inc"
+legal: 'Atari and Mindlink are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 ---
 

@@ -13,11 +13,9 @@ collections:
     output: true
   manual:
     output: true
-    # TODO: How to get this to work?
     layout: manual
   concepts:
     output: true
-    # TODO: How to get this to work?
     layout: concept
 
 defaults:
