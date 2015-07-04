@@ -33,7 +33,15 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `personalitytype`: If this is a personality then there are three sub-types of personality - expert, genius and giant. Choose one and enter that value.
 
-`image`: If you want to supply an image, add it to the top level images folder and link to it here in the format _assets/images/cardsfilename.filextension_.
+`hardwaretype`: If this is a product is it a _console_, _computer_ or _accessory_?
+
+`image`: If you want to supply an image, add it to the _assets/images/cards_ folder and link to it here in the format _cards/filename.filextension_.
+
+`imageattribution`: Name of person or company who the ownership of the image belongs to.
+
+`imagelicense`: License type
+
+`imagelink`: Where did this image come from?
 
 `staffcost`: How many staff resources does this card cost, if any.
 
@@ -65,7 +73,11 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `legal`: Add any trademark information here. We are happy to handle this for you.
 
-The Flavour text should kept short.
+`yearofrelease`: Add as much detail as possible regarding the release date here, this isn't used right now, but might be in the future.
+
+`originalprice`: Add the original price in USD here, this isn't used right now, but might be in the future.
+
+The Flavour text should kept short. Try to stick to it's place in history at time of release and not what might or might not have happened later. Feel free to say that a product was bad if it really was!
 
 ### Saving and Submitting your Changes
 Once you are done, you need to commit and push your changes to gitHub (The exact steps for this will depend on your preferred tools, but a quick search should get you a solution) and then [submit a pull request](https://help.github.com/articles/creating-a-pull-request/).
