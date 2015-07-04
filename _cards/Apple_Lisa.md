@@ -2,6 +2,10 @@
 title: Apple Lisa
 realtitle: Apple Lisa
 cardtype: product
+image: cards/apple_lisa.jpg
+imageattribution: null
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'
 staffcost: 6
 qualitycost: 4
 rdcost: 6
@@ -11,5 +15,8 @@ profitscore: 2
 profitlength: 3
 longevityscore: 5
 legal: null
+yearofrelease: 'January 19, 1983'
+originalprice: $9995
 ---
-You release the Apple Lisa computer in 1983 to the business market after spending more than $50 million on development. It retails at US$9,995 and is the very first personal computer system with a graphical user interface (GUI) to be sold commercially.
+
+After spending $50 million on development, the Apple Lisa is the very first personal computer system with a graphical user interface (GUI) and many other advanced features to be sold commercially.

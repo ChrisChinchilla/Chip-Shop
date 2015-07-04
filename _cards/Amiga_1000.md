@@ -2,16 +2,22 @@
 title: Amiga 1000
 realtitle: Amiga 1000
 cardtype: product
-image: cards/test.png
+hardwaretype: computer
+image: cards/amiga_1000.jpg
+imageattribution: null
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Amiga_1000DP.jpg'
 staffcost: 4
 rdcost: 6
+marketingcost: 4
 loyaltyscore: 4
 profitscore: 4
 profitlength: 2
 longevityscore: 3
 legal: 'Amiga and Amiga 1000 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
+yearofrelease: 'July 23, 1985'
+originalprice: $1295
 ---
 
-The Commodore Amiga 1000 is released in July 1985,  the first multi media personal computer released by Commodore International in the Amiga line. The launch is held during a star-studded gala featuring Andy Warhol and Debbie Harry held in New York City. 
-
+A powerful personal computer with some of the most advanced graphics and sound systems in its class. The launch is held during a star-studded gala featuring Andy Warhol and Debbie Harry held in New York City.
