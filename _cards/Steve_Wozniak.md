@@ -3,6 +3,7 @@ title: Steve Wozniak
 realtitle: Steve Wozniak
 cardtype: personality
 personalitytype: null
+image: null
 staffcost: 1
 qualitycost: null
 rdcost: 2

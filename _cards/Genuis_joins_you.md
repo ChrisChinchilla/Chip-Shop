@@ -2,6 +2,7 @@
 title: Genius joins you
 realtitle: Genius joins you
 cardtype: Event
+cardtext: null
 legal: null
 ---
 

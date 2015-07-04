@@ -2,19 +2,12 @@
 layout: default
 ---
 <div class="card">
-  <ul>
-    {% for format in site.pandoc.outputs %}
-    {% capture extension %}{{ format | first }}{% endcapture %}
-    <li>
-      <a href="/assets/{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">
-        {{ extension }}
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+
   <header class="card-header">
-    <h1 class="card-title">{{ page.title }}</h1>
+    <h1 class="card-title">{{page.title}}</h1>
+    {% if page.personalitytype %}
     {{page.personalitytype}}
+    {% endif %}
   </header>
 
   <article class="card-content">
@@ -82,7 +75,9 @@ layout: default
       Special: {{page.specialscore}}
       {% endif %}
     </span>
+    {% if page.legal %}
     <p class="legal">{{page.legal}}</p>
+    {% endif %}
 
   </article>
 

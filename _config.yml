@@ -3,13 +3,30 @@ title: Chip Shop
 email: info@gregariousmammal.com
 description: > # this means to ignore newlines until "baseurl:"
   Build your Silicon Empire.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://chipshopgame.com" # the base hostname & protocol for your site
+#baseurl: ".." # the subpath of your site, e.g. /blog/
+# url: "http://chipshopgame.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
 
-# Build settings
-markdown: redcarpet
+collections:
+  cards:
+    output: true
+  manual:
+    output: true
+    layout: manual
+  concepts:
+    output: true
+    layout: concept
+
+defaults:
+  -
+    scope:
+      type: cards
+    values:
+      layout: card
+      region: USA
+      era: 80s
+      approved: N
 
 picture:
   source: /assets/images
@@ -42,38 +59,5 @@ picture:
       source_default:
         width: 200
 
-collections:
-  cards:
-    output: true
-  manual:
-    output: true
-    # TODO: How to get this to work?
-    layout: manual
-  concepts:
-    output: true
-    # TODO: How to get this to work?
-    layout: concept
-
-defaults:
-  -
-    scope:
-      type: cards
-    values:
-      layout: card
-      region: USA
-      era: 80s
-      approved: N
-      image: cards/test.png
-
-gems: [jekyll-pandoc-multiple-formats, jekyll-picture-tag]
-
-pandoc:
-  skip: false
-  impose: false
-  output: assets
-  flags: '--template=/Users/chrisward/Workspace/cs_jk/assets/card.latex -V geometry:paperwidth=5.7cm -V geometry:paperheight=9.0cm -V geometry:margin=0.5cm -V fontsize=8pt'
-  site_flags: ''
-  outputs:
-    pdf: '--latex-engine=pdflatex'
-    # epub:
-    # markdown:
+# Build settings
+markdown: redcarpet

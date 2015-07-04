@@ -2,6 +2,10 @@
 title: Apple Lisa
 realtitle: Apple Lisa
 cardtype: product
+image: cards/apple_lisa.jpg
+imageattribution: null
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'
 staffcost: 6
 qualitycost: 4
 rdcost: 6
@@ -11,6 +15,8 @@ profitscore: 2
 profitlength: 3
 longevityscore: 5
 legal: null
+yearofrelease: 'January 19, 1983'
+originalprice: $9995
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+After spending $50 million on development, the Apple Lisa is the very first personal computer system with a graphical user interface (GUI) and many other advanced features to be sold commercially.

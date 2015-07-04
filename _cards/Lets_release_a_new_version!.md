@@ -1,6 +1,6 @@
 ---
-title: "Let's Release a New Version!"
-realtitle: "Let's Release a New Version!"
+title: 'Lets Release a New Version!'
+realtitle: 'Lets Release a New Version!'
 cardtype: Event
 personalitytype: null
 staffcost: 1

@@ -2,6 +2,7 @@
 title: Osborne 1
 realtitle: Osborne 1
 cardtype: Product
+image: null
 staffcost: 2
 qualitycost: 3
 rdcost: 4

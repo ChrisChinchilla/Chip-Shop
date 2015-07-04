@@ -2,6 +2,7 @@
 title: Product placement (mutiple)
 realtitle: Product placement (multiple)
 cardtype: Event
+image: null
 profitscore: 2
 profitlength: 1
 longevityscore: 1

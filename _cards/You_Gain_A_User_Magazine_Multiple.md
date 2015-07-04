@@ -2,6 +2,7 @@
 title: You gain a User Magazine (Multiple)
 realtitle: You gain a User Magazine (Multiple)
 cardtype: Event
+image: null
 legal: null
 ---
 

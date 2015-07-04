@@ -2,6 +2,7 @@
 title: Extended Warranty
 realtitle: Extended Warranty
 cardtype: product
+image: cards/test.png
 rdcost: 2
 marketingcost: 1
 longevityscore: 1

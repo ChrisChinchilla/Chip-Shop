@@ -3,6 +3,7 @@ title: Steve Ballmer
 realtitle: Steve Ballmer
 cardtype: personality
 personalitytype: null
+image: null
 staffcost: 1
 profitlength: says x ??
 longevityscore: 1

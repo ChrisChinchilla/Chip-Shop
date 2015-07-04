@@ -2,6 +2,7 @@
 title: Supplier Closes (Multiple)
 realtitle: Supplier Closes (Multiple)
 cardtype: Event
+image: null
 legal: null
 ---
 

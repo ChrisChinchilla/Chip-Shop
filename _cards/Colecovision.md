@@ -2,6 +2,8 @@
 title: Colecovision
 realtitle: Colecovision
 cardtype: product
+cardtext: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.'
+image: cards/test.png
 staffcost: 4
 rdcost: 4
 marketingcost: 5
