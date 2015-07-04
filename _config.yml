@@ -3,7 +3,7 @@ title: Chip Shop
 email: info@gregariousmammal.com
 description: > # this means to ignore newlines until "baseurl:"
   Build your Silicon Empire.
-baseurl: ".." # the subpath of your site, e.g. /blog/
+#baseurl: ".." # the subpath of your site, e.g. /blog/
 # url: "http://chipshopgame.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
