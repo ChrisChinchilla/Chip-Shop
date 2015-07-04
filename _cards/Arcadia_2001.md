@@ -13,4 +13,4 @@ legal: Emerson and Emerson Arcadia are registered Trademarks of Emerson Radio Co
 approved: 'N'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Arcadia 2001 is released in 1982, a second-generation 8-bit console. It's powered by a standard 12-volt power supply so it can be used in a boat or a vehicle, despite the rareity of portable televisions.

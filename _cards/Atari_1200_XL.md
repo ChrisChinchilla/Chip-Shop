@@ -14,4 +14,4 @@ legal: 'Atari and Atari 1200XL are registered Trademarks of Atari Interactive, I
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Atari 1200XL is released in early 1982. Notable features are 64 KB of RAM, built-in self test, redesigned keyboard (featuring four function keys and a HELP key), and a price of $899

@@ -12,5 +12,4 @@ profitlength: 3
 longevityscore: 5
 legal: null
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+You release the Apple Lisa computer in 1983 to the business market after spending more than $50 million on development. It retails at US$9,995 and is the very first personal computer system with a graphical user interface (GUI) to be sold commercially.
