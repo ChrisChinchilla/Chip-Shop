@@ -61,3 +61,14 @@ picture:
 
 # Build settings
 markdown: redcarpet
+
+gems: [ 'jekyll-pandoc-multiple-formats' ]
+
+pandoc:
+  skip: false
+  impose: false
+  output: ./tmp
+  flags: '--template ./_layouts/cards.latex'
+  site_flags:
+  outputs:
+    pdf: '--latex-engine=pdflatex'
