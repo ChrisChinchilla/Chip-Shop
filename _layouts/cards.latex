@@ -1,5 +1,5 @@
 \documentclass{minimal}
-\usepackage[a5paper,margin=1cm]{geometry}
+\usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0cm]{geometry}
 \usepackage{tikz}
 \usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
@@ -12,15 +12,8 @@
 \begin{center}
   \begin{tikzpicture}[background rectangle/.style = {draw=black, fill=white,
         rounded corners}, show background rectangle, node distance=0.3cm]
-    \node (side) [textstyle, fill=red, rotate=90, text width=4cm, scale=1.4, text centered] {%
-        \begin{tabular}{r}
-            TIME
-        \end{tabular}
-    };
-    \node (kind) [textstyle, right=of side, scale=1.5] {\textbf{KEEPER}};
-    \node (desckind) [textstyle, below=of kind] {
-        When you play this card, bla bla bla.
-    };
+    \node (kind) [textstyle, scale=1.5] {\textbf{$title$}};
+    \node (desckind) [textstyle, below=of kind] {$body$};
     \node (title) [textstyle, below=of desckind, scale=1.3] {Time};
     \node (separator) [thick, fill=black, below=of title, text width=3.5cm] {};
     \node (description) [textstyle, below=of separator] {
