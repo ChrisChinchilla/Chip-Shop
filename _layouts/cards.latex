@@ -4,25 +4,25 @@
 \usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{graphicx}
 \usetikzlibrary{positioning,shapes,shadows,arrows,backgrounds,fit}
 \usepackage[utf8]{inputenc}
 \begin{document}
-\tikzstyle{textstyle}=[rectangle, text width=3.5cm, text badly ragged, scale=0.8]
-\begin{multicols}{3}
-\begin{center}
-  \begin{tikzpicture}[background rectangle/.style = {draw=black, fill=white,
+  \tikzstyle{textstyle}=[rectangle, text width=3.5cm, text badly ragged, scale=0.8]
+  \begin{multicols}{3}
+    \begin{center}
+      \begin{tikzpicture}[background rectangle/.style = {draw=black, fill=white,
         rounded corners}, show background rectangle, node distance=0.3cm]
-    \node (kind) [textstyle, scale=1.5] {\textbf{$title$}};
-    \node (desckind) [textstyle, below=of kind] {$body$};
-    \node (title) [textstyle, below=of desckind, scale=1.3] {Time};
-    \node (separator) [thick, fill=black, below=of title, text width=3.5cm] {};
-    \node (description) [textstyle, below=of separator] {
-        The player bla bla bla bla
-        \[ H \Psi = \nabla \Psi \]
-        \[ J \Phi = \nabla \Phi \]
-        and then bla bla bla.
-    };
-  \end{tikzpicture}
-\end{center}
-\end{multicols}
+        \node (title) [textstyle, scale=1.5] {\textbf{$title$}};
+        $if(image)$
+        \graphicspath{ {/Users/chrisward/Workspace/cs_jk/assets/images/cards/} };
+        \includegraphics{$image$};
+        $endif$
+        \node (body) [textstyle, below=of title] {$body$};
+        $if(legal)$
+        \node (legal) [textstyle] {$legal$};
+        $endif$
+      \end{tikzpicture}
+    \end{center}
+  \end{multicols}
 \end{document}
