@@ -1,6 +1,6 @@
 ---
-title: Quiet Year (multiple)
-realtitle: Quiet Year (multiple)
+title: Quiet Year
+realtitle: Quiet Year
 cardtype: Event
 cardtext: Nothing Happens
 image: null

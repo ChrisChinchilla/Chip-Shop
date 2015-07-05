@@ -3,7 +3,7 @@ title: Apple Macintosh
 realtitle: Apple Macintosh
 cardtype: Product
 hardwaretype: computer
-image: cards/apple_mac.png
+image: apple_mac.png
 imageattribution: allaboutapple.com
 imagelicense: CC BY-SA 2.5 IT
 imagelink: 'https://en.wikipedia.org/wiki/File:Macintosh_128k_transparency.png'

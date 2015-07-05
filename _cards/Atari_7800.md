@@ -2,7 +2,7 @@
 title: Atari 7800 Card
 realtitle: Atari 7800 Card
 cardtype: product
-image: cards/test.png
+image: test.png
 staffcost: 3
 rdcost: 4
 marketingcost: 4

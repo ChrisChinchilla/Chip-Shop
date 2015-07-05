@@ -3,7 +3,7 @@ title: Arcadia 2001
 realtitle: Arcadia 2001
 cardtype: product
 hardwaretype: console
-image: cards/emerson_arcadia_2001.png
+image: emerson_arcadia_2001.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'

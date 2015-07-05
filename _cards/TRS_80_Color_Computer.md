@@ -3,7 +3,7 @@ title: TRS-80 Color Computer
 realtitle: TRS-80 Color Computer
 cardtype: product
 personalitytype: null
-image: cards/test.png
+image: test.png
 staffcost: 3
 qualitycost: 3
 rdcost: 2

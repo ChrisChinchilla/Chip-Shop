@@ -2,7 +2,7 @@
 title: Untitled
 realtitle: 3D Glasses
 cardtype: product
-image: cards/test.png
+image: test.png
 staffcost: 1
 rdcost: 2
 marketingcost: 3

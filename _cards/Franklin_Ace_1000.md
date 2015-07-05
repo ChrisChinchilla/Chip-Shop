@@ -3,7 +3,7 @@ title: Franklin Ace 1000
 realtitle: Franklin Ace 1000
 cardtype: product
 personalitytype: null
-image: cards/test.png
+image: test.png
 staffcost: 2
 qualitycost: 2
 rdcost: 2
