@@ -29,7 +29,7 @@ defaults:
       approved: N
 
 picture:
-  source: /assets/images
+  source: /assets/images/cards
   output: generated
   markup: picture
   presets:
@@ -62,13 +62,13 @@ picture:
 # Build settings
 markdown: redcarpet
 
-gems: [ 'jekyll-pandoc-multiple-formats' ]
-
-pandoc:
-  skip: false
-  impose: false
-  output: ./tmp
-  flags: '--template ./_layouts/cards.latex'
-  site_flags:
-  outputs:
-    pdf: '--latex-engine=pdflatex'
+# gems: [ 'jekyll-pandoc-multiple-formats' ]
+#
+# pandoc:
+#   skip: false
+#   impose: false
+#   output: ./tmp
+#   flags: '--template ./_layouts/cards.latex'
+#   site_flags:
+#   outputs:
+#     pdf: '--latex-engine=pdflatex'
