@@ -35,7 +35,7 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `hardwaretype`: If this is a product is it a _console_, _computer_ or _accessory_?
 
-`image`: If you want to supply an image, add it to the _assets/images/cards_ folder and link to it here in the format _cards/filename.filextension_.
+`image`: If you want to supply an image, add it to the _assets/images/cards_ folder and link to it here in the format _filename.filextension_.
 
 `imageattribution`: Name of person or company who the ownership of the image belongs to.
 
