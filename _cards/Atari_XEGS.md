@@ -15,4 +15,4 @@ legal: 'Atari and Atari XEGS are registered Trademarks of Atari Interactive, Inc
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Atari XEGS can operate as either a stand-alone console or full computer with the addition of its specially designed keyboard. In computer mode, it may utilize the majority of peripherals released for Atari's 8-bit computer line. 
