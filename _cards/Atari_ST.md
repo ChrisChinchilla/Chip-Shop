@@ -14,4 +14,4 @@ legal: 'Atari and Atari ST are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Atari ST is a home computer that enjoys success for running music-sequencer software and as a controller of musical instruments among both amateurs and well-known musicians.
