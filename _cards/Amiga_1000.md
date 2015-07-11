@@ -3,7 +3,7 @@ title: Amiga 1000
 realtitle: Amiga 1000
 cardtype: product
 hardwaretype: computer
-image: amiga_1000.jpg
+image: amiga1000.jpg
 imageattribution: null
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga_1000DP.jpg'
