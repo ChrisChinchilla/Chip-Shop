@@ -1,28 +1,65 @@
-\documentclass{minimal}
-\usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0cm]{geometry}
+\documentclass{article}
+\usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
 \usepackage{tikz}
-\usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage[protrusion=true,expansion=true]{microtype}
 \usepackage{graphicx}
+\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
+\usepackage{float}
 \usetikzlibrary{positioning,shapes,shadows,arrows,backgrounds,fit}
 \usepackage[utf8]{inputenc}
 \begin{document}
-  \tikzstyle{textstyle}=[rectangle, text width=3.5cm, text badly ragged, scale=0.8]
-  \begin{multicols}{3}
-    \begin{center}
-      \begin{tikzpicture}[background rectangle/.style = {draw=black, fill=white,
-        rounded corners}, show background rectangle, node distance=0.3cm]
-        \node (title) [textstyle, scale=1.5] {\textbf{$title$}};
-        $if(image)$
-        \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}};
-        \includegraphics{$image$};
-        $endif$
-        \node (body) [textstyle, below=of title] {$body$};
-        $if(legal)$
-        \node (legal) [textstyle] {$legal$};
-        $endif$
-      \end{tikzpicture}
-    \end{center}
-  \end{multicols}
+  \begin{flushright}
+    {$title$}
+  \end{flushright}
+  \begin{center}
+    $if(image)$
+    \begin{figure}[H]
+      \includegraphics[width=4cm]{$image$}
+    \end{figure}
+    $endif$
+    {$body$}
+
+Costs
+    $if(staffcost)$
+    Staff: {$staffcost$}
+    $endif$
+
+    $if(rdcost)$
+    RandD: {$rdcost$}
+    $endif$
+
+    $if(marketingcost)$
+    Marketing: {$marketingcost$}
+    $endif$
+
+    $if(longevitycost)$
+    Longevity: {$longevitycost$}
+    $endif$
+
+    $if(moneycost)$
+    Money: {$moneycost$}
+    $endif$
+
+Scores
+    $if(loyaltyscore)$
+    Loyalty: {$loyaltyscore$}
+    $endif$
+
+    $if(profitscore)$
+    Profit: {$profitscore$} for {$profitlength$} turns
+    $endif$
+
+    $if(longevityscore)$
+    Longevity: {$longevityscore$}
+    $endif$
+
+    $if(specialscore)$
+    Special: {$specialscore$}
+    $endif$
+
+    $if(legal)$
+    {$legal$}
+    $endif$
+  \end{center}
 \end{document}
