@@ -1,6 +1,6 @@
 ---
-title: Irrelevant (multiple)
-realtitle: Irrelevant (multiple)
+title: Irrelevant
+realtitle: Irrelevant
 cardtype: Event
 legal: null
 ---

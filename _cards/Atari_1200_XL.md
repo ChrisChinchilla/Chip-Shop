@@ -2,7 +2,11 @@
 title: Atari 1200 XL
 realtitle: Atari 1200 XL
 cardtype: product
-image: cards/test.png
+hardwaretype: computer
+image: atari_1200xl.png
+imageattribution: Daniel Schwen
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1200XL.jpg'
 staffcost: 3
 qualitycost: 3
 marketingcost: 3
@@ -12,6 +16,8 @@ profitlength: 1
 longevityscore: 1
 legal: 'Atari and Atari 1200XL are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
+yearofrelease: March 1983
+originalprice: $899
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+As part of Atari's attempt to enter the home computer market, this computer includes 64 KB of RAM, built-in self test, redesigned keyboard (featuring four function keys and a HELP key) and the first custom co-processor to allow for more advanced graphics and sound capabilities.

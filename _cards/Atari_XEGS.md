@@ -2,7 +2,6 @@
 title: Atari XEGS
 realtitle: Atari XEGS
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 2
 marketingcost: 2

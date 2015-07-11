@@ -1,6 +1,6 @@
 ---
-title: You gain a user group (multiple)
-realtitle: You gain a user group (multiple)
+title: You gain a user group
+realtitle: You gain a user group
 cardtype: Event
 image: null
 legal: null

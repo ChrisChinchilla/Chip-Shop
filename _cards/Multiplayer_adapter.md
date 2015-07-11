@@ -2,7 +2,6 @@
 title: Multiplayer Adapter
 realtitle: Multiplayer Adapter
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 2
 marketingcost: 2

@@ -2,7 +2,7 @@
 title: Ultravision
 realtitle: Ultravision
 cardtype: product
-image: cards/test.png
+image: test.png
 staffcost: 2
 rdcost: 2
 marketingcost: 2

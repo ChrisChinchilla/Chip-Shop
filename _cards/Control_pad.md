@@ -2,7 +2,6 @@
 title: Control Pad
 realtitle: Control Pad
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 1
 marketingcost: 1

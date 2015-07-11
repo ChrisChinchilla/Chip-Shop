@@ -2,7 +2,6 @@
 title: Superior keyboard
 realtitle: Superior keyboard
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 2
 marketingcost: 1

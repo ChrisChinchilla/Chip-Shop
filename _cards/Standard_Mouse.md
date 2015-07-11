@@ -2,7 +2,6 @@
 title: Standard Mouse
 realtitle: Standard Mouse
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 1
 marketingcost: 1
