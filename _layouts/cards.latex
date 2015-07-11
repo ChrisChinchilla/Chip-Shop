@@ -15,7 +15,7 @@
         rounded corners}, show background rectangle, node distance=0.3cm]
         \node (title) [textstyle, scale=1.5] {\textbf{$title$}};
         $if(image)$
-        \graphicspath{ {/Users/chrisward/Workspace/cs_jk/assets/images/cards/} };
+        \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}};
         \includegraphics{$image$};
         $endif$
         \node (body) [textstyle, below=of title] {$body$};
