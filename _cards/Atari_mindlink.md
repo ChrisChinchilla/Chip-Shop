@@ -17,4 +17,4 @@ legal: 'Atari and Mindlink are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Atari Mindlink is "The State of the Art for the State of your Mind".  A combination of headband with Infrared Transmitter and Infrared Receiver, the Atari Mindlink system could connect to your Atari VCS 2600, Atari 7800 and Atari Home Computers. Using specially written software you can control the action on the screen.

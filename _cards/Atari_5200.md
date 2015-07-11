@@ -13,5 +13,4 @@ longevityscore: 1
 legal: 'Atari and Atari 5200 are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Atari 5200, is a home video game console that is a higher-end complementary console for the popular Atari 2600.The 5200's controllers have an analog joystick and a numeric keypad along with start, pause and reset buttons. 

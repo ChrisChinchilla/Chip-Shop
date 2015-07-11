@@ -12,4 +12,4 @@ legal: 'Atari and Atari 600XL are registered Trademarks of Atari Interactive, In
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Atari 600 XL was launched at the 1983 Summer CES. The machines had Atari BASIC built into the ROM of the computer and the PBI at the back that allowed external expansion. The machines looked similar to the 1200XL, but were smaller back to front,
