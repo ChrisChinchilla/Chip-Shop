@@ -2,7 +2,6 @@
 title: Standard keyboard
 realtitle: Standard keyboard
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 1
 marketingcost: 1

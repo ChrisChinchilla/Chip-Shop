@@ -1,6 +1,6 @@
 ---
-title: Hit Software (multiple)
-realtitle: Hit Software (multiple)
+title: Hit Software
+realtitle: Hit Software
 cardtype: Event
 legal: null
 ---

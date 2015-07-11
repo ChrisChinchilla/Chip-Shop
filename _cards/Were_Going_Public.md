@@ -1,8 +1,7 @@
 ---
-title: "We're going public!"
-realtitle: "We're going public!"
+title: Going public
+realtitle: Going public
 cardtype: Event
-image: null
 legal: null
 ---
 

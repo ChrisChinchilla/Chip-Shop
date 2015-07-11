@@ -2,8 +2,6 @@
 title: 'Video Game Crash!'
 realtitle: 'Video Game Crash!'
 cardtype: Event
-cardtext: null
-image: null
 ---
 
 Any players with games console products released or in production lose:

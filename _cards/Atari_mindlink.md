@@ -2,7 +2,6 @@
 title: Atari mindlink
 realtitle: Atari mindlink
 cardtype: product
-image: cards/test.png
 staffcost: 3
 qualitycost: 3
 rdcost: 5

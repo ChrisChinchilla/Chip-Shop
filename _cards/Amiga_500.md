@@ -3,7 +3,7 @@ title: Amiga 500
 realtitle: Amiga 500
 cardtype: product
 hardwaretype: computer
-image: cards/amiga_500.jpg
+image: amiga_500.jpg
 imageattribution: Bill Bertram 2006
 imagelicense: CC-BY-2.5 — Attribution
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga500_system.jpg'

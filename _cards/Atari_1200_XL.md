@@ -3,7 +3,7 @@ title: Atari 1200 XL
 realtitle: Atari 1200 XL
 cardtype: product
 hardwaretype: computer
-image: cards/atari_1200xl.png
+image: atari_1200xl.png
 imageattribution: Daniel Schwen
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1200XL.jpg'

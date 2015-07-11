@@ -2,7 +2,6 @@
 title: Atari 600XL
 realtitle: Atari 600XL
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 3
 marketingcost: 3

@@ -2,7 +2,6 @@
 title: Atari 5200 Card
 realtitle: Atari 5200 Card
 cardtype: product
-image: cards/test.png
 staffcost: 4
 rdcost: 3
 marketingcost: 3

@@ -2,7 +2,6 @@
 title: 3D Glasses
 realtitle: 3D Glasses
 cardtype: product
-image: cards/test.png
 staffcost: 1
 rdcost: 2
 marketingcost: 3

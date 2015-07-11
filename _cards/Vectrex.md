@@ -2,7 +2,6 @@
 title: Vectrex
 realtitle: Vectrex
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 2
 marketingcost: 5

@@ -2,7 +2,6 @@
 title: Commodore 128
 realtitle: Commodore 128
 cardtype: product
-image: cards/test.png
 staffcost: 4
 rdcost: 6
 marketingcost: 4

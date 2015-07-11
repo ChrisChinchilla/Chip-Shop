@@ -1,6 +1,6 @@
 ---
-title: Product placement (mutiple)
-realtitle: Product placement (multiple)
+title: Product placement
+realtitle: Product placement
 cardtype: Event
 image: null
 profitscore: 2

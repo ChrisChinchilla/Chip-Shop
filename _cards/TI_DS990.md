@@ -2,7 +2,7 @@
 title: Texas Instruments DS990
 realtitle: Texas Instruments DS990
 cardtype: product
-image: cards/test.png
+image: test.png
 staffcost: 3
 qualitycost: 3
 rdcost: 3

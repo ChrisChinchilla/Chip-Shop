@@ -2,7 +2,6 @@
 title: Superior Mouse
 realtitle: Superior Mouse
 cardtype: product
-image: cards/test.png
 staffcost: 2
 rdcost: 1
 marketingcost: 1

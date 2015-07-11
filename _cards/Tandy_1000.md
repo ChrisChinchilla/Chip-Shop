@@ -2,7 +2,6 @@
 title: Tandy 1000
 realtitle: Tandy 1000
 cardtype: product
-image: cards/test.png
 staffcost: 3
 rdcost: 4
 marketingcost: 2
