@@ -20,21 +20,27 @@
   $if(image)$
   \begin{figure}[H]
     \centering
-    \includegraphics[width=4.7cm]{$image$}
+    \includegraphics[height=2cm]{$image$}
   \end{figure}
   $endif$
-  \begin{center}
+  \begin{flushleft}
     \scriptsize{$body$}
-
-    \begin{tabular}{ l l }
-      Costs & Scores \\
-      $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
-      $if(rdcost)$ RandD: {$rdcost$} $endif$ & $if(profitscore)$ Profit: {$profitscore$} for {$profitlength$} turns $endif$ \\
-      $if(marketingcost)$ Marketing: {$marketingcost$} $endif$ & $if(longevityscore)$ Longevity: {$longevityscore$} $endif$ \\
-      $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
-      $if(moneycost)$ Money: {$moneycost$} $endif$ &
-    \end{tabular}
-    $if(specialscore)$ Special: {$specialscore$} $endif$
+  \end{flushleft}
+  \scriptsize
+  \begin{tabular}{ l l }
+    Costs & Scores \\
+    $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
+    $if(rdcost)$ RandD: {$rdcost$} $endif$ & $if(profitscore)$ Profit: {$profitscore$} for {$profitlength$} turns $endif$ \\
+    $if(marketingcost)$ Marketing: {$marketingcost$} $endif$ & $if(longevityscore)$ Longevity: {$longevityscore$} $endif$ \\
+    $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
+    $if(moneycost)$ Money: {$moneycost$} $endif$ &
+  \end{tabular}
+  \begin{flushleft}
+    $if(specialscore)$
+    Special: {$specialscore$}
+    $endif$
+  \end{flushleft}
+  \begin{center}
     $if(legal)$
     \tiny{$legal$}
     $endif$
