@@ -1,12 +1,32 @@
+.card-header {
+  .card-title {
+    text-align:right;
+  }
+}
 .card-content {
+  display: table;
+
+  picture {
+    display: table-cell;
+    vertical-align: top;
+    padding-right: 30px;
+    padding-bottom: 30px;
+  }
+  .flavour {
+
+  }
   .costs, .scores {
     display: block;
     margin-bottom:$spacing-unit / 4;
+    p {
+      margin-bottom:0;
+    }
     h2 {
       margin-bottom:0;
     }
   }
   .legal {
+    margin-top:$spacing-unit;
     font-size:$small-font-size;
   }
 }
