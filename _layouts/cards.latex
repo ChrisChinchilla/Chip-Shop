@@ -1,65 +1,42 @@
 \documentclass{article}
 \usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
-\usepackage{tikz}
+\usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
-\usepackage[protrusion=true,expansion=true]{microtype}
+% \usepackage[protrusion=true,expansion=true]{microtype}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
 \usepackage{float}
-\usetikzlibrary{positioning,shapes,shadows,arrows,backgrounds,fit}
 \usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\setmainfont{VT323}
+% \setlength{\textfloatsep}{5.0pt plus 2.0pt minus 4.0pt}
+% \setlength{\floatsep}{3.0pt plus 2.0pt minus 2.0pt}
+% \setlength{\intextsep}{3.0pt plus 2.0pt minus 2.0pt}
+% \linespread{0.7}
 \begin{document}
   \begin{flushright}
     {$title$}
   \end{flushright}
+  $if(image)$
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=4.7cm]{$image$}
+  \end{figure}
+  $endif$
   \begin{center}
-    $if(image)$
-    \begin{figure}[H]
-      \includegraphics[width=4cm]{$image$}
-    \end{figure}
-    $endif$
-    {$body$}
+    \scriptsize{$body$}
 
-Costs
-    $if(staffcost)$
-    Staff: {$staffcost$}
-    $endif$
-
-    $if(rdcost)$
-    RandD: {$rdcost$}
-    $endif$
-
-    $if(marketingcost)$
-    Marketing: {$marketingcost$}
-    $endif$
-
-    $if(longevitycost)$
-    Longevity: {$longevitycost$}
-    $endif$
-
-    $if(moneycost)$
-    Money: {$moneycost$}
-    $endif$
-
-Scores
-    $if(loyaltyscore)$
-    Loyalty: {$loyaltyscore$}
-    $endif$
-
-    $if(profitscore)$
-    Profit: {$profitscore$} for {$profitlength$} turns
-    $endif$
-
-    $if(longevityscore)$
-    Longevity: {$longevityscore$}
-    $endif$
-
-    $if(specialscore)$
-    Special: {$specialscore$}
-    $endif$
-
+    \begin{tabular}{ l l }
+      Costs & Scores \\
+      $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
+      $if(rdcost)$ RandD: {$rdcost$} $endif$ & $if(profitscore)$ Profit: {$profitscore$} for {$profitlength$} turns $endif$ \\
+      $if(marketingcost)$ Marketing: {$marketingcost$} $endif$ & $if(longevityscore)$ Longevity: {$longevityscore$} $endif$ \\
+      $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
+      $if(moneycost)$ Money: {$moneycost$} $endif$ &
+    \end{tabular}
+    $if(specialscore)$ Special: {$specialscore$} $endif$
     $if(legal)$
-    {$legal$}
+    \tiny{$legal$}
     $endif$
   \end{center}
 \end{document}
