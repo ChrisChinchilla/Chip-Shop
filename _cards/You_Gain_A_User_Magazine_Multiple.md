@@ -7,4 +7,4 @@ image: null
 legal: null
 ---
 
-COngratulations! You now own a user magazine, a great way to boost your branding! 
+Congratulations! You now own a user magazine, a great way to boost your branding! 
