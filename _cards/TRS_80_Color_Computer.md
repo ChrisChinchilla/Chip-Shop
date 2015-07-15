@@ -22,4 +22,4 @@ legal: Blah is a Trademark of Blah Inc
 approved: 'N'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Radio Shack TRS-80 Color Computer is designed to be attached to a color television set and comes with an expansion connector for program cartridges and other devices

@@ -8,5 +8,4 @@ loyaltyscore: 2
 longevityscore: 4
 approved: 'Y'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Halcyon is a home video game console featureing a laserdisc player and attached computer, each the size of an early-model VCR and two games, Thayer's Quest and NFL Football LA Raiders vs SD Chargers.

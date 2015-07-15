@@ -12,4 +12,4 @@ legal: 'Commodore and Commodore 64 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Commodore 64 is an 8 bit home computer. You take a risk and decide to sell it in department and toy stores. 

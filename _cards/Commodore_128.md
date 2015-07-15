@@ -12,5 +12,4 @@ longevityscore: 4
 legal: 'Commodore and Commodore 128 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Commodore 128 is released with 128 kB of RAM and an 80-column color video output, a Zilog Z80 CPU and huge CP/M software library.

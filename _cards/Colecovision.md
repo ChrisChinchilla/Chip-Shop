@@ -2,7 +2,6 @@
 title: Colecovision
 realtitle: Colecovision
 cardtype: product
-cardtext: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicimus aliquem hilare vivere; Duae sunt enim res quoque, ne tu verba solum putes.'
 image: test.png
 staffcost: 4
 rdcost: 4
@@ -15,4 +14,4 @@ legal: Coleco and ColecoVision are registered Trademarks of River West Brands LL
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Colecovision games console features near-arcade-quality graphics and gaming style along with the means to expand the system's basic hardware. It's released with 12 launch titles!

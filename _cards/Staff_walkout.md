@@ -4,7 +4,8 @@ realtitle: Staff walkout
 cardtype: Event
 image: null
 staffcost: 1
+specialscore: Discard one staff resource.
 legal: null
 ---
 
-Discard one staff resource.
+Staff walk out on your business! This is not good. 

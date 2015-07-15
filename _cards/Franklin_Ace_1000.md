@@ -2,16 +2,11 @@
 title: Franklin Ace 1000
 realtitle: Franklin Ace 1000
 cardtype: product
-personalitytype: null
 image: test.png
 staffcost: 2
 qualitycost: 2
 rdcost: 2
-marketingcost: null
-longevitycost: null
-moneycost: null
-loyaltycost: null
-specialcost: null
+specialcost: If any Apple products in play, reduce R&D by 1. Something to reflect law suit?
 loyaltyscore: 1
 profitscore: 1
 profitlength: 3
@@ -22,4 +17,4 @@ legal: Blah is a Trademark of Blah Inc
 approved: 'N'
 ---
 
-If any Apple products in play, reduce R&D by 1 Something to reflect law suit?
+The Franklin Ace 1000's are clones of the Apple ][+ that are nearly 100% compatible

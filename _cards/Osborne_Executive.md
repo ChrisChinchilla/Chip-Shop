@@ -14,4 +14,4 @@ specialscore: Reduce all costs by 1 if Osborne 1  has been produced.
 legal: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Portable computer Osborne Executive is useful for presentations and projects at client sites as it can provide on-the-spot answers to numerical questions when working with consulting clients.

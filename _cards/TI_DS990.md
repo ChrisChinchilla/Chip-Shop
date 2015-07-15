@@ -21,4 +21,4 @@ legal: Blah is a Trademark of Blah Inc
 approved: 'N'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Texas Instruments DS990 features a unique concept. Registers are stored in memory and are referred to through a hard register called the Workspace Pointer. When the Workspace Pointer is loaded with a memory address, that address is the origin of the "registers".

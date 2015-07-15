@@ -12,5 +12,4 @@ longevityscore: 3
 legal: TBC
 approved: 'Y'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia? IS a IBM clone
+Tandy 1000 is an IBM compatable personal home computer that incorporate a complete set of basic peripherals on the motherboard using proprietary ASICS.
