@@ -7,4 +7,4 @@ image: null
 legal: null
 ---
 
-A supplier closes! 
+A supplier closes which impacts your supply chain.
