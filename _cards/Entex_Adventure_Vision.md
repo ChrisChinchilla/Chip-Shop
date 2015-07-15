@@ -12,5 +12,4 @@ longevityscore: 2
 legal: Entex is a Trademark of Blah Inc
 approved: 'Y'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Entex Adventure Vision is a self-contained cartridge-based video game console is released with the games Defender, Super Cobra, Turtles and Space Encounter.
