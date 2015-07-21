@@ -2,9 +2,14 @@
 title: Victim of piracy
 realtitle: Victim of piracy
 cardtype: Event
-image: null
-costspecial: Lose 1/4 of profits on any current product per turn for the next two turns.
+image: piracy.jpg
+imageattribution: vintagecomputing.com
+imagelicense: null
+imagelink: 'http://www.vintagecomputing.com/wp-content/images/retroscan/piracy_byte_large.jpg'
+profitscore: 1/4
+profitlength: 2
+specialcost: Affects current software products
 legal: null
 ---
 
-You become a victim of piracy which has adverse consequences for your business. 
+Until the Computer Software Copyright Act of 1980, software was not recognized as intellectual property, so there were no laws against theft or reproduction.

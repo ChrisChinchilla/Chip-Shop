@@ -9,8 +9,15 @@ loyaltyscore: 3
 longevityscore: 4
 profitscore: 5
 profitlength: 2
-legal: Vectex is a Trademark of Blah Inc
+legal: null
 approved: 'Y'
+image: vectrex.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Vectrex-Console-Set.jpg'
+hardwaretype: console
+yearofrelease: 1982
+originalprice: $199
 ---
 
-Vectrex is a vector display-based home video game console that has an integrated vector monitor which displays vector graphics. 
+Vectrex is a vector display-based home video game console that has an integrated monitor which displays vector graphics.
