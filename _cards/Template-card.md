@@ -1,7 +1,7 @@
 ---
 title: Template Card
 realtitle: Template Card
-cardtype: product
+cardtype: 'product, event or personality'
 hardwaretype: 'console, computer or accessory'
 personalitytype: null
 image: test.png
@@ -26,6 +26,7 @@ legal: Blah is a Trademark of Blah Inc
 approved: 'N'
 yearofrelease: 198x
 originalprice: $xx
+concepts: List of concepts associated with this card
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
