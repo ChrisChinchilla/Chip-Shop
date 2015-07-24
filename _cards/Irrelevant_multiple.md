@@ -1,9 +1,13 @@
 ---
 title: Irrelevant
 realtitle: Irrelevant
-cardtype: Event
-legal: null
-specialscore: Your product with the lowest Longevity is now irrelevant, it makes half profits for one my turn and is then removed from the game.
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+specialcost: Your product with the lowest Longevity is now irrelevant.
+concepts: irrelevant
 ---
-Your oldest product is now irrelevant.
 
+Trends come and go and your 15 minutes of fame is over.

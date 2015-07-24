@@ -1,11 +1,15 @@
 ---
 title: Staff defection
 realtitle: Staff defection
-cardtype: Event
-image: null
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 staffcost: -1
 rdcost: -1
-rdscore: null
-legal: null
+specialcost: 'If you have a lower loyalty than the player to your left, give them the resources, if your score is lower give them the resources.'
+concepts: immediate
 ---
-Staff defect to your closest rival! 
+
+Some companies are just more attractive to skilled individuals.

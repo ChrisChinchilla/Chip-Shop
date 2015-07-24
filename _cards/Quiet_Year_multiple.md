@@ -1,9 +1,11 @@
 ---
 title: Quiet Year
 realtitle: Quiet Year
-cardtype: Event
-cardtext: Nothing Happens
-image: null
-legal: null
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 ---
-It's a quiet year without ups and downs, nothing really much happens. 
+
+Nothing special happens this year.

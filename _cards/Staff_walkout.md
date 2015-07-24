@@ -1,11 +1,13 @@
 ---
 title: Staff walkout
 realtitle: Staff walkout
-cardtype: Event
-image: null
-staffcost: 1
-specialscore: Discard one staff resource.
-legal: null
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+staffcost: -1
+concepts: immediate
 ---
 
-Staff walk out on your business! This is not good. 
+Your staff have a personal or business issue with you and leave.
