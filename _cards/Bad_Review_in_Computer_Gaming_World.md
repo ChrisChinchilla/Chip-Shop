@@ -2,8 +2,17 @@
 title: Bad Review in Computer Gaming World
 realtitle: Bad Review in Computer Gaming World
 cardtype: event
-cardtext: If you have any Console products released in the last turn your Loyalty is decreased by 1 and profits by 1 for the next turn.
-legal: '??'
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+loyaltyscore: -1
+profitscore: -1
+profitlength: 1
+specialscore: Only applies to latest Console releases
+legal: tbc
+approved: 'N'
+concepts: latestconsolerelease
 ---
 
-You receive a bad review in Computer Gaming World, all your rivals are pointing and laughing and your investors are restless...
+You receive a bad review in Computer Gaming World, all your rivals are pointing and laughing and your investors are restless.

@@ -1,8 +1,11 @@
 ---
 title: 'Lets Release a New Version!'
 realtitle: 'Lets Release a New Version!'
-cardtype: Event
-personalitytype: null
+cardtype: product
+hardwaretype: any
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 staffcost: 1
 qualitycost: 2
 rdcost: 1
@@ -12,8 +15,7 @@ loyaltyscore: 2
 profitscore: 1/2
 profitlength: 2
 longevityscore: 1
-specialscore: Profit is 1/2 (rounded down) of the product you are upgrading.
-legal: null
+specialscore: Profit is 1/2 upgraded product
 ---
 
-No new ideas... You must have at least one existing product released to play this card.
+No new ideas, how about an upgrade or 'special' version?

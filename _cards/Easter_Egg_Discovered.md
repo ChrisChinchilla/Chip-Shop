@@ -1,14 +1,16 @@
 ---
 title: Easter Egg Discovered
 realtitle: Easter Egg Discovered
-cardtype: Event
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 loyaltyscore: 2
 profitscore: 1/4
 profitlength: 1
-longevityscore: null
-rdscore: null
-specialscore: Gain 1/4 extra profit per turn for one turn on a product of your choice. Also gain two points of loyalty.
-legal: null
+approved: 'N'
+concepts: 'immediate, choice'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Despite your best efforts, an itinerant programmer has snuck a hidden feature in. Thankfully, your customers love it.
