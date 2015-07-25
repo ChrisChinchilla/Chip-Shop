@@ -1,9 +1,12 @@
 ---
 title: Eventful Year
 realtitle: Eventful Year
-cardtype: Event
-cardtext: Draw and extra card
-legal: null
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+specialscore: Draw an extra card
 ---
 
-Some years are significant and a lot happens. 
+Some years, a lot happens.

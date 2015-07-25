@@ -2,8 +2,16 @@
 title: 'CES Hit!'
 realtitle: 'CES Hit!'
 cardtype: event
-cardtext: Profits on any product released in the past two turns gain 1 for the next two turns.
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 marketingcost: 1
-legal: CES is Copyright 2003 - 2015 CEA. All rights reserved.
+profitscore: 1
+profitlength: 2
+specialscore: Affects all latest releases
+legal: CES is Copyright 2003 to 2015 CEA. All rights reserved.
+concepts: latestrelease
 ---
-You finally get your product reviewed by the people who have the power to make or break careers, the Consumer Electronics Show. The can't get enough and want more-success! 
+
+You get your team together for a stand at the Computer Electronics Show. The crowd loves your products and can't stop talking about you. It's a Hit!

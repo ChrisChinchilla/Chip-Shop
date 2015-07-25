@@ -1,9 +1,10 @@
 ---
 title: Genius joins you
 realtitle: Genius joins you
-cardtype: Event
-special score: If you have more than 4 longevity look through the personality deck until you reach a 'genius' of any type, they join you for free, but need to be sustained. Shuffle the cards you saw until reaching the genius back into the deck.
-legal: null
+cardtype: event
+longevitycost: 4
+specialscore: "Search the personality deck until you reach a 'genius' of any type, they join you for free, but their resource needs need to be met."
+concepts: 'immediate, optional, search'
 ---
 
-Genius joins you! It is a great day! 
+A genius decides to join your team! It is a great day!

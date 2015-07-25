@@ -1,9 +1,12 @@
 ---
 title: Ground breaking research
 realtitle: Ground breaking research
-cardtype: Event
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 rndscore: 1
-legal: null
 ---
 
-Ground breaking research is released which will affect your business and the wider industry.
+Your staff undertake a special research project and uncover a ground breaking discovery.
