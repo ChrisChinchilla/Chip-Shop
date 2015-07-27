@@ -15,9 +15,9 @@ longevityscore: 2
 profitscore: 4
 profitlength: 4
 legal: 'Atari and Atari 600XL are registered Trademarks of Atari Interactive, Inc'
-approved: 'N'
+approved: 'Y'
 yearofrelease: 1983
-originalprice: $xx
+originalprice: $495
 ---
 
 The Atari 600 XL has 16kb of memory and a monitor port and is a part of the 8=bit family, the first home computers to offer co=processing for sound and video.
