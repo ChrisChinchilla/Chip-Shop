@@ -2,6 +2,10 @@
 title: Atari ST
 realtitle: Atari ST
 cardtype: product
+image: Atari_ST.jpg
+imageattribution:© Bill Bertram, 2006
+imagelicense:Licensed under CC-BY-2.5
+imagelink:https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg
 staffcost: 3
 rdcost: 3
 marketingcost: 3
