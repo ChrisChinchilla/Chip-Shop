@@ -2,6 +2,10 @@
 title: Atari Lynx
 realtitle: Atari Lynx
 cardtype: Product
+image: Atari-Lynx-I-Handheld.jpg
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: https://en.wikipedia.org/wiki/Atari_Lynx#/media/File:Atari-Lynx-I-Handheld.jpg
 staffcost: 3
 qualitycost: 4
 rdcost: 5
