@@ -2,6 +2,10 @@
 title: Atari XEGS
 realtitle: Atari XEGS
 cardtype: product
+image:Atari_XEGS.jpg
+imageattribution: by Bilby,2010
+imagelicense:CC BY 3.0
+imagelink: https://en.wikipedia.org/wiki/Atari_XEGS#/media/File:Atari_XEGS.jpg
 staffcost: 3
 rdcost: 2
 marketingcost: 2
