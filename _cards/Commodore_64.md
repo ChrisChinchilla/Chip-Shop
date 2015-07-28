@@ -2,6 +2,10 @@
 title: Commodore 64
 realtitle: Commodore 64
 cardtype: product
+image: C64c_system.jpg
+imageattribution: Bill Betram
+imagelicense: SA2.5
+imagelink: https://commons.wikimedia.org/wiki/File%3AC64c_system.jpg
 staffcost: 5
 rdcost: 7
 marketingcost: 7
