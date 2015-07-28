@@ -2,6 +2,10 @@
 title: Commodore 128
 realtitle: Commodore 128
 cardtype: product
+image: Commodore 128D-IMG 1726.png
+imageattribution: Rama
+imagelicense:CC BY-SA 2.0 fr via Wikimedia Commons - h
+imagelink: https://commons.wikimedia.org/wiki/File:Commodore_128D-IMG_1726.jpg#/media/File:Commodore_128D-IMG_1726.jpg
 staffcost: 4
 rdcost: 6
 marketingcost: 4
