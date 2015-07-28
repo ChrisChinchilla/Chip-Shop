@@ -15,4 +15,4 @@ approved: 'N'
 concepts: immediate
 ---
 
-You receive a fantastic view in Computer gaming world and sales take a welcome rise.
+You receive a fantastic review in Computer gaming world and sales take a welcome rise.
