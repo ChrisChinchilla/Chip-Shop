@@ -3,7 +3,7 @@ title: Magnavox Odyssey 3
 realtitle: Magnavox Odyssey 3
 image: Magnavox-Odyssey-Console-Set.jpg
 imageattribution: Evan Amos
-imagelicense: CC
+imagelicense: CC by SA 3.0
 imagelink: https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey-Console-Set.jpg
 cardtype: product
 staffcost: 2
