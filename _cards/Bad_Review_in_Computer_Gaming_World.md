@@ -2,10 +2,10 @@
 title: Bad Review in Computer Gaming World
 realtitle: Bad Review in Computer Gaming World
 cardtype: event
-image: http://www.oldgames.sk/images/magazine/cgw/001/cgw1-001.jpg
+image: cgw1-001.jpg
 imageattribution: Computer Gaming World 
 imagelicense: CGW Museum
-imagelink: http://www.oldgames.sk/en/mag/cgw-1/page/0/
+imagelink: http://www.oldgames.sk/images/magazine/cgw/001/cgw1-001.jpg
 loyaltyscore: -1
 profitscore: -1
 profitlength: 1

@@ -3,7 +3,7 @@ title: 'CES Hit!'
 realtitle: 'CES Hit!'
 cardtype: event
 image: ces-big.jpg
-imageattribution:Harry McCormick, Technologizer
+imageattribution:Harry McCormick
 imagelicense: Technologizer, Inc
 imagelink: http://www.technologizer.com/wp-content/uploads/2012/01/ces-big.jpg
 marketingcost: 1

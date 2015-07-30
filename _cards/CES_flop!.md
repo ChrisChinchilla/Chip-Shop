@@ -2,8 +2,8 @@
 title: CES flop
 realtitle: CES flop
 cardtype: event
-image: 1985SCES01
-imageattribution: 
+image: 1985SCES01.jpg
+imageattribution: Unsure
 imagelicense: http://www.theverge.com/
 imagelink: http://assets.sbnation.com/assets/1946051/1985SCES01.jpg
 marketingcost: 1
