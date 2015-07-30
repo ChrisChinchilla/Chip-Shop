@@ -2,10 +2,10 @@
 title: Osborne 1
 realtitle: Osborne 1
 cardtype: Product
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: Osborne_1_open-jpg
+imageattribution: Bilby
+imagelicense: CC by SA 3.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osborne_1_open.jpg/800px-Osborne_1_open.jpg
 staffcost: 2
 qualitycost: 3
 rdcost: 4
