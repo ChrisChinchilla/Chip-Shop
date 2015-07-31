@@ -2,10 +2,10 @@
 title: 'CES Hit!'
 realtitle: 'CES Hit!'
 cardtype: event
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: ces-big.jpg
+imageattribution:Harry McCormick
+imagelicense: Technologizer, Inc
+imagelink: http://www.technologizer.com/wp-content/uploads/2012/01/ces-big.jpg
 marketingcost: 1
 profitscore: 1
 profitlength: 2

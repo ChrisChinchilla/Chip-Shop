@@ -3,10 +3,10 @@ title: Osborne Executive
 realtitle: Osborne Executive
 cardtype: product
 hardwaretype: computer
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: Evolution_(34_365).jpg
+imageattribution: Casey Fleser - Flickr: Evolution (34 / 365)
+***imagelicense: CC by 2.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Evolution_%2834_365%29.jpg/1024px-Evolution_%2834_365%29.jpg
 staffcost: 2
 rdcost: 3
 marketingcost: 3

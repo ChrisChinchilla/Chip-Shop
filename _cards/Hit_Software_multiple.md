@@ -12,4 +12,4 @@ profitlength: 2
 concepts: 'choice, latestcomputerrelease, latestconsolerelease'
 ---
 
-Software released recently for one of your products is a runaway sucess, bringing fame and fourtune.
+Software released recently for one of your products is a runaway sucess, bringing fame and fortune.

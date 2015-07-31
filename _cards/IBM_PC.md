@@ -4,9 +4,9 @@ realtitle: IBM PC
 cardtype: product
 hardwaretype: computer
 image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+imageattribution: Rama & Musée Bolo 
+imagelicense: SA 2.0 fr
+imagelink: https://upload.wikimedia.org/wikipedia/commons/3/3f/IMB_PC-IMG_7271.jpg
 staffcost: 5
 qualitycost: 4
 rdcost: 5

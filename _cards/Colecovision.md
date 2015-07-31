@@ -2,7 +2,10 @@
 title: Colecovision
 realtitle: Colecovision
 cardtype: product
-image: test.png
+image: https://upload.wikimedia.org/wikipedia/commons/4/4b/ColecoVision-wController-L.jpg
+imageattribution: Wikipedia
+imagelicense: CC Wikipedia
+imagelink: https://upload.wikimedia.org/wikipedia/commons/4/4b/ColecoVision-wController-L.jpg
 staffcost: 4
 rdcost: 4
 marketingcost: 5

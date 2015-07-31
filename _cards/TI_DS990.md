@@ -3,10 +3,10 @@ title: Texas Instruments DS990
 realtitle: Texas Instruments DS990
 cardtype: product
 hardwaretype: computer
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: 990-10.jpg
+imageattribution: Texas Instruments via dimka.com
+imagelicense: 
+imagelink: http://www.dimka.com/daily/external-pages/spies.com-~aek-orphanage_files/990-10.jpg
 staffcost: 3
 qualitycost: 3
 rdcost: 3

@@ -1,10 +1,10 @@
 ---
 title: Magnavox Odyssey 3
 realtitle: Magnavox Odyssey 3
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: Magnavox-Odyssey-Console-Set.jpg
+imageattribution: Evan Amos
+imagelicense: CC by SA 3.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey-Console-Set.jpg
 cardtype: product
 staffcost: 2
 rdcost: 3

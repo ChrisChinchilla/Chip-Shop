@@ -2,6 +2,10 @@
 title: Halcyon
 realtitle: Halcyon
 cardtype: product
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 staffcost: 2
 rdcost: 3
 loyaltyscore: 2
