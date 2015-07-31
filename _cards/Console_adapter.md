@@ -3,10 +3,10 @@ title: Console adapter Card
 realtitle: Template Card
 cardtype: product
 hardwaretype: accessory
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: INTV-System-III-Console.jpg
+imageattribution: Evan Amos 
+imagelicense: CC BY-SA 3.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/INTV-System-III-Console.jpg/1920px-INTV-System-III-Console.jpg
 staffcost: 2
 rdcost: 2
 marketingcost: 1

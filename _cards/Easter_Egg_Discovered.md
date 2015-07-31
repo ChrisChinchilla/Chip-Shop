@@ -2,8 +2,8 @@
 title: Easter Egg Discovered
 realtitle: Easter Egg Discovered
 cardtype: event
-image: test.png
-imageattribution: Name of person or company
+image:
+imageattribution: waiting for permission....
 imagelicense: License type
 imagelink: Where did this image come from?
 loyaltyscore: 2

@@ -3,10 +3,10 @@ title: Driving Wheel
 realtitle: Driving Wheel
 cardtype: product
 hardwaretype: accessory
-image: test.png
-imageattribution: Name of person or company
+image: colecovision-wheel-l-vgo.jpg
+imageattribution: © Matthew Henzel & Video Game Obsession 1996-[present] (emailed, but email bounced)
 imagelicense: License type
-imagelink: Where did this image come from?
+imagelink: http://www.videogameobsession.com/videogame/colecovision/colecovision-wheel-l-vgo.jpg
 staffcost: 1
 rdcost: 2
 marketingcost: 2
