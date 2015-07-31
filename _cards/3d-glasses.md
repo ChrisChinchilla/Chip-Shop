@@ -11,7 +11,9 @@ profitlength: 2
 longevityscore: 2
 specialscore: Accessory
 legal: null
-approved: 'Y'
+approved: "Y"
+published: true
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
