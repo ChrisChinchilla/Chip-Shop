@@ -3,10 +3,10 @@ title: Control Pad
 realtitle: Control Pad
 cardtype: product
 hardwaretype: accessory
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image:Atari-2600-Wood-4Sw-Set.jpg
+imageattribution: Evan Amos
+imagelicense: Public domain
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atari-2600-Wood-4Sw-Set.jpg/1280px-Atari-2600-Wood-4Sw-Set.jpg
 staffcost: 1
 rdcost: 1
 marketingcost: 1
