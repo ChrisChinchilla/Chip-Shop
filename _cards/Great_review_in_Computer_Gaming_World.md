@@ -2,16 +2,15 @@
 title: Great review in Computer Gaming World
 realtitle: Great review in Computer Gaming World
 cardtype: event
-image: cgw7-001.jpg
-imageattribution: GGW Museum
-imagelicense: ?
-imagelink: http://www.oldgames.sk/images/magazine/cgw/007/cgw7-001.jpg
+image: great-review-cgw.jpg
+imageattribution: CGW Museum
+imagelicense: Copyright CGW Museum
+imagelink: 'http://www.oldgames.sk/images/magazine/cgw/007/cgw7-001.jpg'
 loyaltyscore: 1
 profitscore: 1
 profitlength: 1
 specialscore: Affects latest Console products
-legal: tbc
-approved: 'N'
+approved: 'Y'
 concepts: immediate
 ---
 

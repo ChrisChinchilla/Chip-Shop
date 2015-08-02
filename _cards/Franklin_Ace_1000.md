@@ -2,22 +2,24 @@
 title: Franklin Ace 1000
 realtitle: Franklin Ace 1000
 cardtype: product
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Whttp://museumofintellectualproperty.org/images_main/Apple_Computer_v._Franklin_Computer_(Franklin_ACE_1000_from_1983)_no._3826.jpg
+image: franklin-ace-1000.png
+imageattribution: Eric E Johnson / Konomark
+imagelicense: Copyright Eric E Johnson / Konomark
+imagelink: 'http://www.museumofintellectualproperty.org/exhibits/evolution_of_copyright.html'
 staffcost: 2
 qualitycost: 2
 rdcost: 2
-specialcost: If any Apple products in play, reduce R&D by 1. Something to reflect law suit?
+specialcost: 'If any Apple products in play, reduce R&D by 1. Something to reflect law suit?'
 loyaltyscore: 1
 profitscore: 1
 profitlength: 3
 longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
+legal: Franklin Ace 1000 is a Trademark of Saunders Acquisition Corp
+approved: 'Y'
+yearofrelease: 1983
+originalprice: $1349
 ---
 
 The Franklin Ace 1000's are clones of the Apple ][+ that are nearly 100% compatible

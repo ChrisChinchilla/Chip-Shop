@@ -2,15 +2,15 @@
 title: Easter Egg Discovered
 realtitle: Easter Egg Discovered
 cardtype: event
-image:
-imageattribution: waiting for permission....
-imagelicense: License type
-imagelink: Where did this image come from?
+image: easter-egg.jpg
+imageattribution: John Everett
+imagelicense: Copyright John Everett
+imagelink: 'http://freecomputerviruses.blogspot.de/2011/09/adventure-1979-atari-vcs.html'
 loyaltyscore: 2
 profitscore: 1/4
 profitlength: 1
-approved: 'N'
+approved: 'Y'
 concepts: 'immediate, choice'
 ---
 
-Despite your best efforts, an itinerant programmer has snuck a hidden feature in. Thankfully, your customers love it.
+Despite your best efforts, an itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

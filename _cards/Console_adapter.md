@@ -3,10 +3,10 @@ title: Console adapter Card
 realtitle: Template Card
 cardtype: product
 hardwaretype: accessory
-image: INTV-System-III-Console.jpg
-imageattribution: Evan Amos 
-imagelicense: CC BY-SA 3.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/INTV-System-III-Console.jpg/1920px-INTV-System-III-Console.jpg
+image: null
+imageattribution: null
+imagelicense: null
+imagelink: null
 staffcost: 2
 rdcost: 2
 marketingcost: 1
@@ -18,4 +18,4 @@ approved: 'N'
 concepts: search
 ---
 
-Console adapters make old games available to work on newer consoles.
+Console adapters make old games available to play on newer consoles.
