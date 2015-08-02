@@ -3,10 +3,10 @@ title: Atari 600XL
 realtitle: Atari 600XL
 cardtype: product
 hardwaretype: computer
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: atari-600xl.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://commons.wikimedia.org/wiki/File:Atari-600XL-PC.jpg'
 staffcost: 3
 rdcost: 3
 marketingcost: 3

@@ -3,10 +3,10 @@ title: Console adapter Card
 realtitle: Template Card
 cardtype: product
 hardwaretype: accessory
-image: null
-imageattribution: null
+image: console-adapter.jpg
+imageattribution: AtariAge
 imagelicense: null
-imagelink: null
+imagelink: 'http://atariage.com/forums/topic/167048-atari-7800-adaptor-for-atari-5200-at-pax-east/'
 staffcost: 2
 rdcost: 2
 marketingcost: 1

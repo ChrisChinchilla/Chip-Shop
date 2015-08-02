@@ -3,10 +3,10 @@ title: Atari 800 XL
 realtitle: Atari 800 XL
 cardtype: product
 hardwaretype: computer
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: atari-800xl.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Atari-800XL.jpg'
 staffcost: 3
 rdcost: 2
 marketingcost: 3
@@ -17,9 +17,9 @@ longevityscore: 2
 rdscore: null
 specialscore: null
 legal: 'Atari and Atari 800XL are registered Trademarks of Atari Interactive, Inc.'
-approved: 'N'
+approved: 'Y'
 yearofrelease: 1983
-originalprice: $xx
+originalprice: $185
 concepts: null
 ---
 
