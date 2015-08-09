@@ -4,6 +4,7 @@ rm -dfr _site
 
 jekyll build
 
+# TODO: Move this out of site root
 mkdir -p _site/pdf/cards
 
 for filename in _cards/*.md; do

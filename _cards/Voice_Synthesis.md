@@ -3,6 +3,7 @@ title: Voice Synthesis
 realtitle: Voice Synthesis
 cardtype: product
 hardwaretype: accessory
+image: intellivoice.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Intellivoice.jpg'
