@@ -47,6 +47,9 @@ These are the main crux of Chip Shop and you must create these during the game t
 
 Whilst you are working on a product it remains private in the R&D area of your factory. It remains private until built or other event makes it public.
 
+### Accessories
+Accessory products are always attached to an exisiting non-accessory product. Each accessory will specifiy what it can be attached to and any other requirements. Unless specified, an accessory remains in play for as long as the product is attached to. Proportional costs and scores for accessories are always a proportion of the product it is attached to.
+
 ## Build
 If at the beginning of the build phase you don't have enough resources to sustain your current products and personalities you must discard products until you can. For each product or personality discarded you lose half of the loyalty and longevity scores of the card.
 

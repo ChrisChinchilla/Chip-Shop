@@ -48,14 +48,14 @@ picture:
         width: 350
         height: 200
     mediumscreen:
-      # ppi: [1, 1.5]
+      ppi: [1, 1.5, 2]
       attr:
         class: medium-screen
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        width: 400
-        height: 200
+        width: 200
+        # height: 200
       source_default:
         width: 200
 

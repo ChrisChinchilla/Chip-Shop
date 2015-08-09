@@ -1,8 +1,15 @@
 ---
 title: Hit Software
 realtitle: Hit Software
-cardtype: Event
-legal: null
+cardtype: event
+image: hit-software.jpg
+imageattribution: Underrated Retro
+imagelicense: null
+imagelink: 'http://underratedretro.com/2015/03/is-pac-man-atari-2600-that-bad/'
+loyaltyscore: 1
+profitscore: 1
+profitlength: 2
+concepts: 'choice, latestcomputerrelease, latestconsolerelease'
 ---
 
-One of your products (not an accessory and your choice) released in the past two turns has a software hit. It earns you an extra 1 profit per turn for the next two turns.
+Software released recently for one of your products is a runaway success, bringing fame and fortune.

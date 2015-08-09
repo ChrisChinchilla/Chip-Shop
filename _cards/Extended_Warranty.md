@@ -2,12 +2,16 @@
 title: Extended Warranty
 realtitle: Extended Warranty
 cardtype: product
+hardwaretype: accessory
 image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 rdcost: 2
 marketingcost: 1
 longevityscore: 1
-specialscore: Pick any current built product and receive profit for its life equal to 1/5 of its profit.
+profitscore: 1/5
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+A simple and easy way to make money out of paranoid consumers.

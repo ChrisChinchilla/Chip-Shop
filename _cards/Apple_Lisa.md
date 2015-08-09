@@ -2,7 +2,7 @@
 title: Apple Lisa
 realtitle: Apple Lisa
 cardtype: product
-image: applelisa.jpg
+image: applelisa.png
 imageattribution: null
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'

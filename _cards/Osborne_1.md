@@ -2,7 +2,10 @@
 title: Osborne 1
 realtitle: Osborne 1
 cardtype: Product
-image: null
+image: osborne-1.png
+imageattribution: Bilby
+imagelicense: CC by SA 3.0
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osborne_1_open.jpg/800px-Osborne_1_open.jpg'
 staffcost: 2
 qualitycost: 3
 rdcost: 4
@@ -11,7 +14,10 @@ loyaltyscore: 2
 profitscore: 3
 profitlength: 2
 longevityscore: 4
-legal: Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
+legal: The Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
+approved: 'Y'
+yearofrelease: 1981
+originalprice: $1800
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Osborne 1 is the first commercially successful portable computer, shipping with a case and a large bundle of software almost equivalent in value to the machine itself.

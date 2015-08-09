@@ -77,6 +77,8 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `originalprice`: Add the original price in USD here, this isn't used right now, but might be in the future.
 
+`concepts`: List of concepts associated with this card, find these listed on the [concepts](/manual#concepts) page.
+
 The Flavour text should kept short. Try to stick to it's place in history at time of release and not what might or might not have happened later. Feel free to say that a product was bad if it really was!
 
 ### Saving and Submitting your Changes

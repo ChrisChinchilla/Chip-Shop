@@ -2,7 +2,11 @@
 title: Ultravision
 realtitle: Ultravision
 cardtype: product
-image: test.png
+hardwaretype: console
+image: ultravision.jpg
+imageattribution: Atari Mania
+imagelicense: null
+imagelink: atarimania.com
 staffcost: 2
 rdcost: 2
 marketingcost: 2
@@ -10,8 +14,10 @@ loyaltyscore: 2
 longevityscore: 2
 profitscore: -2
 profitlength: 2
-legal: Ultravision is a Trademark of Blah Inc
+legal: null
 approved: 'Y'
+yearofrelease: 1983
+originalprice: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Composed of a standard 10" color television integrated with a console and controlled by two 16-direction joysticks with top-mounted buttons. It can run on AC or DC power, making it portable when used with a car battery.

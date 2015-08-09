@@ -1,17 +1,24 @@
 ---
 title: Osborne Executive
 realtitle: Osborne Executive
-cardtype: Product
-image: null
+cardtype: product
+hardwaretype: computer
+image: osborne-executive.png
+imageattribution: The Computer Museum
+imagelicense: Copyright System Source
+imagelink: 'http://museum.syssrc.com/artifact/personal-computers/404/'
 staffcost: 2
 rdcost: 3
 marketingcost: 3
+specialcost: Reduce all costs by 1 if Osborne 1 has been produced.
 loyaltyscore: 2
 profitscore: 2
 profitlength: 1
 longevityscore: 2
-specialscore: Reduce all costs by 1 if Osborne 1  has been produced.
-legal: null
+legal: The Osborne Executive and Osborne are registered Trademarks of Mikrolog Ltd
+approved: 'Y'
+yearofrelease: 1982
+originalprice: $2500
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The portable Osborne Executive is useful for presentations and projects at client sites as it can provide on-the-spot answers to numerical questions when working with clients.

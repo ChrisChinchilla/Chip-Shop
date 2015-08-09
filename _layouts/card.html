@@ -14,41 +14,58 @@ layout: default
     {% if page.image %}
     {% picture mediumscreen {{page.image}} alt="{{page.title}}" %}
     {% endif %}
-
-    {{ content }}
+    <span class="flavour">
+      {{ content }}
+    </span>
     <span class="costs">
       <h2>Costs</h2>
 
       {% if page.staffcost %}
-      Staff: {{page.staffcost}}
+      <p>
+        Staff: {{page.staffcost}}
+      </p>
       {% endif %}
 
       {% if page.qualitycost %}
-      Quality: {{page.qualitycost}}
+      <p>
+        Quality: {{page.qualitycost}}
+      </p>
       {% endif %}
 
       {% if page.rdcost %}
-      R&D: {{page.rdcost}}
+      <p>
+        R&D: {{page.rdcost}}
+      </p>
       {% endif %}
 
       {% if page.marketingcost %}
-      Marketing: {{page.marketingcost}}
+      <p>
+        Marketing: {{page.marketingcost}}
+      </p>
       {% endif %}
 
       {% if page.longevitycost %}
-      Longevity: {{page.longevitycost}}
+      <p>
+        Longevity: {{page.longevitycost}}
+      </p>
       {% endif %}
 
       {% if page.moneycost %}
-      Money: {{page.moneycost}}
+      <p>
+        Money: {{page.moneycost}}
+      </p>
       {% endif %}
 
       {% if page.loyaltycost %}
-      Loyalty: {{page.loyaltycost}}
+      <p>
+        Loyalty: {{page.loyaltycost}}
+      </p>
       {% endif %}
 
       {% if page.specialcost %}
-      Special: {{page.specialcost}}
+      <p>
+        Special: {{page.specialcost}}
+      </p>
       {% endif %}
     </span>
 
@@ -56,23 +73,33 @@ layout: default
       <h2>Scores</h2>
 
       {% if page.loyaltyscore %}
-      Loyalty: {{page.loyaltyscore}}
+      <p>
+        Loyalty: {{page.loyaltyscore}}
+      </p>
       {% endif %}
 
       {% if page.profitscore %}
-      Profit: {{page.profitscore}} for {{page.profitlength}} turns
+      <p>
+        Profit: {{page.profitscore}} for {{page.profitlength}} turns
+      </p>
       {% endif %}
 
       {% if page.longevityscore %}
-      Longevity: {{page.longevityscore}}
+      <p>
+        Longevity: {{page.longevityscore}}
+      </p>
       {% endif %}
 
       {% if page.rdscore %}
-      R&D: {{page.rdscore}}
+      <p>
+        R&D: {{page.rdscore}}
+      </p>
       {% endif %}
 
       {% if page.specialscore %}
-      Special: {{page.specialscore}}
+      <p>
+        Special: {{page.specialscore}}
+      </p>
       {% endif %}
     </span>
     {% if page.legal %}
