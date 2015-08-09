@@ -1,13 +1,15 @@
 ---
 title: Product placement
 realtitle: Product placement
-cardtype: Event
-image: null
+cardtype: event
+image: test.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
 profitscore: 2
 profitlength: 1
 longevityscore: 1
-specialscore: On a product of your choice.
-legal: null
+concepts: choice
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+One of your products appears in a TV Show, Movie or Magazine, getting exposure to thousands of regular folks.

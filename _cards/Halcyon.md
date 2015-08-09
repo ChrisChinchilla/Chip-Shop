@@ -2,11 +2,20 @@
 title: Halcyon
 realtitle: Halcyon
 cardtype: product
+hardwaretype: console
+image: halcyon.jpg
+imageattribution: null
+imagelicense: null
+imagelink: 'http://www.reddit.com/r/gaming/comments/1u1p5z/the_rarest_game_console_the_rdi_halcyon_it_cost/'
 staffcost: 2
 rdcost: 3
 loyaltyscore: 2
 longevityscore: 4
+profitscore: -2
+profitlength: 1
 approved: 'Y'
+yearofrelease: 1985
+originalprice: $2500
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Halcyon is a home video game console featuring a laserdisc player and attached computer, each the size of an early model VCR.

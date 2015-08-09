@@ -1,7 +1,7 @@
 ---
 title: Apple Macintosh
 realtitle: Apple Macintosh
-cardtype: Product
+cardtype: product
 hardwaretype: computer
 image: applemac.png
 imageattribution: allaboutapple.com

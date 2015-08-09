@@ -11,9 +11,27 @@ layout: default
     {{ content }}
   </article>
 
-  {% assign approvedCards = site.cards | where:"approved", "Y" %}
+  {% assign approvedProductCards = site.cards | where:"approved", "Y" | where:"cardtype", "product" %}
+  <h2>Products</h2>
 
-  {% for card in approvedCards %}
+  {% for card in approvedProductCards %}
+  <p>
+    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
+  </p>
+  {% endfor %}
+
+  {% assign approvedEventCards = site.cards | where:"approved", "Y" | where:"cardtype", "event" %}
+  <h2>Events</h2>
+
+  {% for card in approvedEventCards %}
+  <p>
+    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
+  </p>
+  {% endfor %}
+
+  {% assign approvedPersonalityCards = site.cards | where:"approved", "Y" | where:"cardtype", "personality" %}
+  <h2>Personalities</h2>
+  {% for card in approvedPersonalityCards %}
   <p>
     <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
   </p>

@@ -2,16 +2,21 @@
 title: 3D Glasses
 realtitle: 3D Glasses
 cardtype: product
+hardwaretype: accessory
+image: 3d-glasses.png
+imageattribution: Evan Amos
+imagelicense: Public domain
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Sega-Masters-Sys-3D-Glasses.jpg'
 staffcost: 1
 rdcost: 2
 marketingcost: 3
+specialcost: Attach to console product
 loyaltyscore: 1
 profitscore: 2
 profitlength: 2
 longevityscore: 2
-specialscore: Accessory
 legal: null
 approved: 'Y'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+3D glasses enable players to experience games in another dimension.

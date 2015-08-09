@@ -2,7 +2,11 @@
 title: Texas Instruments DS990
 realtitle: Texas Instruments DS990
 cardtype: product
-image: test.png
+hardwaretype: computer
+image: tids990.png
+imageattribution: The Centre for Computing History
+imagelicense: Copyright The Centre for Computing History
+imagelink: 'http://www.computinghistory.org.uk/det/14414/TI-Model-911-Video-Display-Terminal/'
 staffcost: 3
 qualitycost: 3
 rdcost: 3
@@ -17,8 +21,10 @@ profitlength: 3
 longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
+legal: Copyright Acer Inc
+approved: 'Y'
+yearofrelease: 1980
+originalprice: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+A popular minicomputer with programmers due to several unique features.

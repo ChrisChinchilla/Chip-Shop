@@ -2,6 +2,11 @@
 title: Atari 800 XL
 realtitle: Atari 800 XL
 cardtype: product
+hardwaretype: computer
+image: atari-800xl.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Atari-800XL.jpg'
 staffcost: 3
 rdcost: 2
 marketingcost: 3
@@ -13,6 +18,9 @@ rdscore: null
 specialscore: null
 legal: 'Atari and Atari 800XL are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
+yearofrelease: 1983
+originalprice: $185
+concepts: null
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+The Atari 800XL is part of Atari's 8-bit line of home computers. It has 64k memory, built in BASIC and an expansion port

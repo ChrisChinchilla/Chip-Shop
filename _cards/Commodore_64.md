@@ -2,6 +2,10 @@
 title: Commodore 64
 realtitle: Commodore 64
 cardtype: product
+image: c64.png
+imageattribution: Bill Bertram
+imagelicense: CC BY-SA 2.5
+imagelink: 'https://commons.wikimedia.org/wiki/File%3AC64c_system.jpg'
 staffcost: 5
 rdcost: 7
 marketingcost: 7
@@ -10,6 +14,8 @@ loyalityscore: 7
 longevityscore: 7
 legal: 'Commodore and Commodore 64 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
+yearofrelease: 1982
+originalprice: $595
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Commodore 64 is an 8 bit home computer. You take a risk and decide to sell it in department and toy stores.
