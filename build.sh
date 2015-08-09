@@ -1,5 +1,8 @@
 #!/bin/bash
 
+bundle install
+bundle update
+
 rm -dfr _site
 
 jekyll build
