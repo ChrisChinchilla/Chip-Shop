@@ -1,6 +1,6 @@
 ---
-title: Altos_ACS8000_Computer
-realtitle: Altos_ACS8000_Computer
+title: Altos ACS8000 Computer
+realtitle: Altos ACS8000 Computer
 cardtype: product
 hardwaretype: computer
 image: altos_acs8000.jpg
