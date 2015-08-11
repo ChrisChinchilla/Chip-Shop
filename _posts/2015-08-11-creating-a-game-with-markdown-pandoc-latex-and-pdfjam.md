@@ -7,7 +7,7 @@ date: '2015-08-11'
 The main reason for a lack of small posts on the progress of Chip Shop is that behind the scenes we have been working on some large stumbling blocks to push the game towards play testing. We wanted to focus on getting those completed over all else.
 
 ## New and Improved Cards
-We have added a lot of [new cards](http://chipshopgame.com/cards/) but also spent time fleshing out the exisiting ones with flavour text, images, legal information and removing as much extraneous text as possible. I have always wanted the game to be as un-reliant on text as possible to allow for simpler translation and understanding for non-English speakers. This is hard work and the process is not complete, but we're getting there. We have accomplished this through the '[concepts](http://chipshopgame.com/manual/)' concept(!) and eventually these will be replaced with icons.
+We have added a lot of [new cards](http://chipshopgame.com/cards/) but also spent time fleshing out the existing ones with flavour text, images, legal information and removing as much extraneous text as possible. I have always wanted the game to be as un-reliant on text as possible to allow for simpler translation and understanding for non-English speakers. This is hard work and the process is not complete, but we're getting there. We have accomplished this through the '[concepts](http://chipshopgame.com/manual/)' concept(!) and eventually these will be replaced with icons.
 
 ## Printing Cards
 I set myself a challenge with Chip Shop to 'code' the game. This was because I am a coder but was also because I wanted the source of the game to be as open as possible and it seemed the best approach. This has meant that some steps have taken more time than if had used a more conventional approach, but I hope in the long run it will make everything easier and more collaborative.
@@ -147,6 +147,6 @@ This process has taken me a while to get right, but it is now good enough to mov
 
 Next I need to:
 - Create PDF generation for the print-on-demand and premium versions and the different quality settings they will need.
-- Include dependency installation in teh scrips so others can use them easily.
+- Include dependency installation in the scrips so others can use them easily.
 
 Any questions or comments let me know!
