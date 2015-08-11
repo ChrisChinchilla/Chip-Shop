@@ -18,4 +18,4 @@ done
 
 pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 3x3 --suffix complete --outfile ./cards.pdf
 
-mv cards pod/cards_complete.pdf
+mv ./cards.pdf pod/cards_complete.pdf
