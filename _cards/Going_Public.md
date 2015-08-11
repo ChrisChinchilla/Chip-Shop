@@ -2,10 +2,10 @@
 title: Going public
 realtitle: Going public
 cardtype: event
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: Philippine-stock-market-board.jpg
+imageattribution: Katrina.Tuliao 
+imagelicense: CC BY 2.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg
 staffcost: 1 per turn
 longevitycost: 4
 moneycost: 5
