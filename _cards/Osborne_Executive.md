@@ -3,10 +3,10 @@ title: Osborne Executive
 realtitle: Osborne Executive
 cardtype: product
 hardwaretype: computer
-image: Evolution_(34_365).jpg
-imageattribution: Casey Fleser - Flickr: Evolution (34 / 365)
-***imagelicense: CC by 2.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Evolution_%2834_365%29.jpg/1024px-Evolution_%2834_365%29.jpg
+image: osborne-executive.png
+imageattribution: The Computer Museum
+imagelicense: Copyright System Source
+imagelink: 'http://museum.syssrc.com/artifact/personal-computers/404/'
 staffcost: 2
 rdcost: 3
 marketingcost: 3
@@ -21,4 +21,4 @@ yearofrelease: 1982
 originalprice: $2500
 ---
 
-The portable Osborne Executive is useful for presentations and projects at client sites as it can provide on-the-spot answers to numerical questions when working with consulting clients.
+The portable Osborne Executive is useful for presentations and projects at client sites as it can provide on-the-spot answers to numerical questions when working with clients.

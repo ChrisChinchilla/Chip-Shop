@@ -3,10 +3,10 @@ title: Mattel Intellivision
 realtitle: Mattel Intellivision
 cardtype: product
 hardwaretype: computer
-image: Intellivision-Console-Set.jpg
-imageattribution:Evan Amos
+image: intellivision.png
+imageattribution: Evan Amos
 imagelicense: CC by SA 3.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intellivision-Console-Set.jpg/1280px-Intellivision-Console-Set.jpg
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intellivision-Console-Set.jpg/1280px-Intellivision-Console-Set.jpg'
 staffcost: 3
 rdcost: 3
 marketingcost: 3

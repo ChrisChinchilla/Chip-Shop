@@ -2,16 +2,15 @@
 title: Bad Review in Computer Gaming World
 realtitle: Bad Review in Computer Gaming World
 cardtype: event
-image: cgw1-001.jpg
-imageattribution: Computer Gaming World 
+image: bad-review-cgw.jpg
+imageattribution: Computer Gaming World
 imagelicense: CGW Museum
-imagelink: http://www.oldgames.sk/images/magazine/cgw/001/cgw1-001.jpg
+imagelink: 'http://www.oldgames.sk/images/magazine/cgw/001/cgw1-001.jpg'
 loyaltyscore: -1
 profitscore: -1
 profitlength: 1
-specialscore: Only applies to latest Console releases
-legal: tbc
-approved: 'N'
+specialscore: Applies to latest Console releases
+approved: 'Y'
 concepts: latestconsolerelease
 ---
 
