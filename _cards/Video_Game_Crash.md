@@ -2,10 +2,10 @@
 title: Video Game Crash
 realtitle: Video Game Crash
 yearofrelease: 1983
-image: test.png
-imageattribution: null
-imagelicense: null
-imagelink: null
+image: game-crash.jpg
+imageattribution: taylorhatmaker
+imagelicense: CC BY 2.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_(14036097792).jpg'
 cardtype: Event
 loyaltycost: -1
 longevity cost: -1
