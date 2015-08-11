@@ -11,5 +11,8 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+  {{ % if page.comments % }}
+{% include comments.html %}
+  {{ % endif % }}
 
 </div>
