@@ -3,9 +3,9 @@ title: Parts shortage
 realtitle: Parts shortage
 cardtype: event
 specialcost: In production products take an extra turn to produce.
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
+image: partsshortage.jpg
+imageattribution: Shieldforyoureyes Dave Fischer - Own work
+imagelicense: Cc-by-sa-10.0
 imagelink: Where did this image come from?
 concepts: 'immediate, inproduction'
 ---
