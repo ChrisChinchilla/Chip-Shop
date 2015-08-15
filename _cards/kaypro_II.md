@@ -1,32 +1,32 @@
 ---
-title: kaypro II 
-realtitle: kaypro II
-cardtype: 'product'
-hardwaretype: computer 
+title: Kaypro II
+realtitle: Kaypro II
+cardtype: product
+hardwaretype: computer
 personalitytype: null
-image: kayproII.jpg
-imageattribution: autopilot
-imagelicense:SA 4.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/7/7a/Kaypro_wikipedia.jpg
+image: kaypro2.jpg
+imageattribution: Four Dots Blog
+imagelicense: null
+imagelink: 'http://www.potenziani.com/2013_05_01_archive.html'
 staffcost: 2
-qualitycost: 3
-rdcost: 2
-marketingcost: null
+qualitycost: 4
+rdcost: 3
+marketingcost: 2
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
-profitscore: 2
+loyaltyscore: 4
+profitscore: 4
 profitlength: 2
 longevityscore: 1
 rdscore: null
 specialscore: null
-legal: approved: 'N'
+legal: Kaypro 2 is a registered Trademarks of Non-Linear Systems
+approved: 'Y'
 yearofrelease: 1982
 originalprice: $1795
-concepts: List of concepts associated with this card
+concepts: null
 ---
 
- The Kaypro II is a portable computer in an inbuilt case. In 1985, Arthur C. Clarke published a sequel to 2001 : 2010 Odyssey Two. He worked with Peter Hyams in the movie version of 2010. Their work was done using a Kaypro computer and a modem, for Arthur was in Sri Lanka and Peter Hyams in Los Angeles. Their communications turned into the book The Odyssey File - The Making of 2010. 
-_________ 
+The Kaypro II is a portable computer with a rugged inbuilt case.
