@@ -18,6 +18,7 @@ legal: 'Columbia MPC and Columbia are registered Trademarks of Columbia Data Pro
 yearofrelease: 1982
 originalprice: $3000
 approved: 'Y'
+concepts: 'clone, IBM PC'
 ---
 
 The Columbia MPC is the first clone of the IBM PC at a significantly lower price.
