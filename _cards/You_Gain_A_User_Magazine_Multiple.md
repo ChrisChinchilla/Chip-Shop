@@ -9,6 +9,7 @@ imagelink: Where did this image come from?
 loyaltyscore: 1
 specialscore: Gain 1 marketing resource.
 concepts: immediate
+approved: 'Y'
 ---
 
 Your products have gained enough popularity for a publisher to consider creating a magazine in your honor.

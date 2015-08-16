@@ -14,7 +14,7 @@ specialcost: 'Search discard pile and draw first console products equal to your 
 profitscore: 2
 profitlength: 2
 specialscore: 'Original player receives money equal to 1/5 of original R&D value and one loyalty. Receive profit per turn at 1/2 loyalty, turns equal to half loyalty.'
-approved: 'N'
+approved: 'Y'
 concepts: search
 ---
 

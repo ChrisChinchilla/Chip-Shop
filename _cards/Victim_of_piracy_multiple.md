@@ -10,6 +10,7 @@ profitscore: 1/4
 profitlength: 2
 specialcost: Affects current software products
 legal: null
+approved: 'Y'
 ---
 
 Until the Computer Software Copyright Act of 1980, software was not recognized as intellectual property, so there were no laws against theft or reproduction.

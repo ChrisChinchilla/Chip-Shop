@@ -23,7 +23,7 @@ longevityscore: 3
 rdscore: null
 specialscore: null
 legal: null
-approved: 'N'
+approved: 'Y'
 yearofrelease: 1983
 originalprice: $4000
 concepts: null

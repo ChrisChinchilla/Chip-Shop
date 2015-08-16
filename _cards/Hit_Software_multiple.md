@@ -10,6 +10,7 @@ loyaltyscore: 1
 profitscore: 1
 profitlength: 2
 concepts: 'choice, latestcomputerrelease, latestconsolerelease'
+approved: 'Y'
 ---
 
 Software released recently for one of your products is a runaway success, bringing fame and fortune.
