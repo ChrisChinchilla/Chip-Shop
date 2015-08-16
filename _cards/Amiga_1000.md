@@ -9,6 +9,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga_1000DP.jpg'
 staffcost: 4
 rdcost: 6
+qualitycost: 4
 marketingcost: 4
 loyaltyscore: 4
 profitscore: 4

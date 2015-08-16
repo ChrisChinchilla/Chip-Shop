@@ -8,6 +8,7 @@ imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'
 staffcost: 3
+qualitycost: 3
 rdcost: 3
 marketingcost: 3
 loyaltyscore: 3

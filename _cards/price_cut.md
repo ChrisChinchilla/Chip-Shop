@@ -9,6 +9,7 @@ imagelink: Where did this image come from?
 profitscore: 1/2
 profitlength: x2
 concepts: 'anyrelease, choice'
+approved: 'Y'
 ---
 
 Utilize a price cut to extend the life of a dying product.

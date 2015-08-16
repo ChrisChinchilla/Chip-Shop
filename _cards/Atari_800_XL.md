@@ -9,6 +9,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Atari-800XL.jpg'
 staffcost: 3
 rdcost: 2
+qualitycost: 3
 marketingcost: 3
 loyaltyscore: 4
 profitscore: 3

@@ -13,7 +13,7 @@ profitscore: -2
 profitlength: 1
 longevityscore: 4
 legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips Corporation
-approved: 'y'
+approved: 'Y'
 yearofrelease: null
 originalprice: null
 ---

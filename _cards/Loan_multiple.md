@@ -9,6 +9,7 @@ cardtype: event
 longevitycost: 4
 specialscore: Gain twice your current profit score but lose 2 points of profit per turn for the next four turns.
 concepts: optional
+approved: 'Y'
 ---
 
 Need a quick cash inject? Have you thought about applying for a loan?
