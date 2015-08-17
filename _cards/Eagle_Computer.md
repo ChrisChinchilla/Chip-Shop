@@ -3,7 +3,7 @@ title: Eagle Computer
 realtitle: Eagle Computer
 cardtype: product
 hardwaretype: computer
-image: eagle-computer.jpeg
+image: eagle-computer.jpg
 imageattribution: Mark Richards
 imagelicense: © Mark Richards
 imagelink: 'http://www.computerhistory.org/revolution/personal-computers/17/302/1186'

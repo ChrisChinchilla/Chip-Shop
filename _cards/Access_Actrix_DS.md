@@ -9,6 +9,7 @@ imagelicense: 'CC BY-NC 3.0 *'
 imagelink: 'http://www.digibarn.com/collections/systems/actrix/DSC02191.JPG'
 staffcost: 2
 rdcost: 3
+qualitycost: 3
 marketingcost: 5
 loyaltyscore: 1
 profitscore: 1

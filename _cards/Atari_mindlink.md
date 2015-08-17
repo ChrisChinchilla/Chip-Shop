@@ -8,7 +8,7 @@ imageattribution: Atari Museum
 imagelicense: Copyright atarimuseum.de
 imagelink: 'http://www.atari-computermuseum.de/2600.htm'
 staffcost: 3
-qualitycost: 3
+qualitycost: 2
 rdcost: 5
 marketingcost: null
 loyaltycost: -1

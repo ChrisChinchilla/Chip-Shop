@@ -8,7 +8,7 @@ imagelicense: License type
 imagelink: Where did this image come from?
 specialcost: 'All products in production take an extra point of R&D to produce, or can be abandoned.'
 concepts: immediate
-approved: 'N'
+approved: 'Y'
 ---
 
 A supplier closes which impacts your supply chain.

@@ -8,6 +8,7 @@ imagelicense: null
 imagelink: null
 staffcost: 2
 rdcost: 3
+qualitycost: 2
 marketingcost: 3
 loyaltyscore: 2
 profitscore: 2

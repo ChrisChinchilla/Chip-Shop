@@ -9,6 +9,7 @@ imagelicense: CC BY 3.0
 imagelink: 'https://en.wikipedia.org/wiki/Atari_XEGS#/media/File:Atari_XEGS.jpg'
 staffcost: 3
 rdcost: 2
+qualitycost: 3
 marketingcost: 2
 specialcost: 'If Atari 65XE, 5200 or 2600 built, reduce R&D cost by 1'
 loyaltyscore: 2

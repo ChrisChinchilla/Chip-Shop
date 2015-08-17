@@ -12,6 +12,7 @@ rdcost: 2
 marketingcost: 2
 loyaltyscore: 2
 profitscore: 4
+qualitycost: 2
 profitlength: 2
 longevityscore: 3
 legal: 'Columbia MPC and Columbia are registered Trademarks of Columbia Data Products, Inc.'

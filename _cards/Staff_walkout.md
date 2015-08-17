@@ -8,6 +8,7 @@ imagelicense: License type
 imagelink: Where did this image come from?
 staffcost: -1
 concepts: immediate
+approved: 'Y'
 ---
 
 Your staff have a personal or business issue with you and leave.
