@@ -8,6 +8,7 @@ imagelicense: CC BY 2.5
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/8/88/Spectravideo_SVI318.jpg'
 staffcost: 3
 rdcost: 3
+qualitycost: 2
 marketingcost: 3
 loyaltyscore: 2
 profitscore: 3

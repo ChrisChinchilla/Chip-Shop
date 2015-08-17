@@ -9,6 +9,7 @@ imagelicense: null
 imagelink: atarimania.com
 staffcost: 2
 rdcost: 2
+qualitycost: 2
 marketingcost: 2
 loyaltyscore: 2
 longevityscore: 2

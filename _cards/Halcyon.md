@@ -9,6 +9,7 @@ imagelicense: null
 imagelink: 'http://www.reddit.com/r/gaming/comments/1u1p5z/the_rarest_game_console_the_rdi_halcyon_it_cost/'
 staffcost: 2
 rdcost: 3
+qualitycost: 3
 loyaltyscore: 2
 longevityscore: 4
 profitscore: -2

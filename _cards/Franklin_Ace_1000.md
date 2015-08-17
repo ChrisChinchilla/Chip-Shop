@@ -22,4 +22,4 @@ yearofrelease: 1983
 originalprice: $1349
 ---
 
-The Franklin Ace 1000's are clones of the Apple ][+ that are nearly 100% compatible
+The Franklin Ace 1000's are clones of the Apple II that are nearly 100% compatible
