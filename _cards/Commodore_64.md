@@ -9,6 +9,7 @@ imagelink: 'https://commons.wikimedia.org/wiki/File%3AC64c_system.jpg'
 staffcost: 5
 rdcost: 7
 marketingcost: 7
+qualitycost: 2
 profitscore: 8
 loyalityscore: 7
 longevityscore: 7

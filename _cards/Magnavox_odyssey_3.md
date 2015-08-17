@@ -8,6 +8,7 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey
 cardtype: product
 staffcost: 2
 rdcost: 3
+qualitycost: 2
 loyaltycost: 2
 profitscore: -2
 profitlength: 1

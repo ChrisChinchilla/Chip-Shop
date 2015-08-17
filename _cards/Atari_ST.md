@@ -9,6 +9,7 @@ imagelicense: CC-BY-2.5
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg'
 staffcost: 3
 rdcost: 3
+qualitycost: 3
 marketingcost: 3
 loyaltyscore: 6
 profitscore: 5

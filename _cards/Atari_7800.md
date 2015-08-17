@@ -10,6 +10,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Atari-7800-Console-Set.png'
 staffcost: 3
 rdcost: 4
+qualitycost: 3
 marketingcost: 4
 loyaltyscore: 3
 profitscore: 4

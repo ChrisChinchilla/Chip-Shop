@@ -5,6 +5,7 @@ cardtype: product
 staffcost: 3
 rdcost: 2
 marketingcost: 5
+qualitycost: 2
 loyaltyscore: 3
 longevityscore: 4
 profitscore: 5

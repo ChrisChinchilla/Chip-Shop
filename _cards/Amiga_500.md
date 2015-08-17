@@ -12,6 +12,7 @@ rdcost: 5
 marketingcost: 4
 longevitycost: null
 moneycost: null
+qualitycost: 3
 loyaltyscore: 6
 profitscore: 7
 profitlength: 4

@@ -8,6 +8,7 @@ imagelicense: CC Wikipedia
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/ColecoVision-wController-L.jpg'
 staffcost: 4
 rdcost: 4
+qualitycost: 3
 marketingcost: 5
 loyaltyscore: 4
 profitscore: 6

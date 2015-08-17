@@ -9,6 +9,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari-600XL-PC.jpg'
 staffcost: 3
 rdcost: 3
+qualitycost: 3
 marketingcost: 3
 loyaltyscore: 4
 longevityscore: 2
@@ -20,4 +21,4 @@ yearofrelease: 1983
 originalprice: $495
 ---
 
-The Atari 600 XL has 16kb of memory and a monitor port and is a part of the 8=bit family, the first home computers to offer co=processing for sound and video.
+The Atari 600 XL has 16kb of memory and a monitor port and is a part of the 8-bit family, the first home computers to offer co=processing for sound and video.
