@@ -8,6 +8,7 @@ imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'
 staffcost: 3
+qualitycost: 3
 rdcost: 3
 marketingcost: 3
 loyaltyscore: 3
@@ -19,4 +20,4 @@ yearofrelease: 1982
 originalprice: $199
 ---
 
-A second-generation 8-bit console released under many different names it comes with a 12-volt power supply so it can be used in a boat or a vehicle, despite the rarity of portable televisions. It has two controllers with a 12 button keypad and 'fire' buttons on the sides.
+A second-generation 8-bit console with a 12-volt power supply so it can be used in a boat or a vehicle. It has two controllers with a 12 button keypad and 'fire' buttons on the sides.

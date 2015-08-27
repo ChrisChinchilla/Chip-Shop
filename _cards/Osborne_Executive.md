@@ -9,6 +9,7 @@ imagelicense: Copyright System Source
 imagelink: 'http://museum.syssrc.com/artifact/personal-computers/404/'
 staffcost: 2
 rdcost: 3
+qualitycost: 3
 marketingcost: 3
 specialcost: Reduce all costs by 1 if Osborne 1 has been produced.
 loyaltyscore: 2

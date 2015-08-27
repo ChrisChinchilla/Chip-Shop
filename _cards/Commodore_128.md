@@ -8,6 +8,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Commodore-128.png'
 staffcost: 4
 rdcost: 6
+qualitycost: 2
 marketingcost: 4
 loyaltyscore: 6
 profitscore: 6

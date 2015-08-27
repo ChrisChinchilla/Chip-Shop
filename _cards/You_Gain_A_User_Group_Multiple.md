@@ -9,6 +9,7 @@ imagelink: Where did this image come from?
 loyaltycost: 1
 loyaltyscore: 1
 concepts: immediate
+approved: 'Y'
 ---
 
 Enough of the buying public now consider your products worthwhile enough to regularly gather and discuss how to use them.

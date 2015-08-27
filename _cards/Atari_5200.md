@@ -9,6 +9,7 @@ imagelicense: Public Domain
 imagelink: 'https://en.wikipedia.org/wiki/File:Atari-5200-4-Port-wController-L.jpg'
 staffcost: 4
 rdcost: 3
+qualitycost: 3
 marketingcost: 3
 loyaltyscore: 3
 profitscore: 4

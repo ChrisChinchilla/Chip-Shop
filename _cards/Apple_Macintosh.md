@@ -15,11 +15,12 @@ loyaltyscore: 5
 profitscore: 4
 profitlength: No End
 longevityscore: 7
-specialscore: 'If you have built the Apple Lisa reduce Staff and R&D costs by two, however The Lisa will then become [[nid:1103 view_mode=node_embed]].'
+specialscore: 'If you have built the Apple Lisa reduce Staff and R&D costs by two, the Lisa becomes defunct.'
 legal: null
 approved: 'N'
 yearofrelease: 1984
 originalprice: $2000
+concepts: defunct
 ---
 
 Released after a high profile marketing campaign The Apple Macintosh is the first mass-market personal computer to feature a graphical user interface and mouse.

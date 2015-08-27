@@ -16,6 +16,7 @@ profitscore: 1/2
 profitlength: 2
 longevityscore: 1
 specialscore: Profit is 1/2 upgraded product
+approved: 'Y'
 ---
 
 No new ideas, how about an upgrade or 'special' version?
