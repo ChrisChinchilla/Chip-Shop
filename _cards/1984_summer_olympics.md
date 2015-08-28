@@ -1,30 +1,30 @@
 ---
 title: You sponsor the 1984 Summer Olympics
 realtitle: You sponsor the 1984 Summer Olympics
-cardtype: 'event '
-image: US_Olympics_Team_1984.jpeg
- imageattribution: Ken Hackman, U.S. Air Force
-imagelicense: public domain
-imagelink: https://commons.wikimedia.org/wiki/File:US_Olympics_Team_1984.JPEG
+cardtype: event
+image: us-olympics-team-1984.jpg
+imageattribution: 'Ken Hackman, U.S. Air Force'
+imagelicense: Public Domain
+imagelink: 'https://commons.wikimedia.org/wiki/File:US_Olympics_Team_1984.JPEG'
 staffcost: 2
-qualitycost: 3
-rdcost: 2
-marketingcost: null
+qualitycost: null
+rdcost: null
+marketingcost: 2
 longevitycost: null
-moneycost: null
+moneycost: 4
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
-profitscore: 2
-profitlength: 2
-longevityscore: 1
+loyaltyscore: 2
+profitscore: 4
+profitlength: 1
+longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
-yearofrelease: 198x
-originalprice: $xx
-concepts: List of concepts associated with this card
+legal: null
+approved: 'Y'
+yearofrelease: 1984
+originalprice: null
+concepts: 'choice, optional'
 ---
 
-You sponsor the 1984 Summer Olympics in LA, USA. Your branding is everywhere! 
+You sponsor the 1984 Summer Olympics in LA, USA. Your branding is everywhere!
