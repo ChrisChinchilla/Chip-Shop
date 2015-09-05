@@ -1,30 +1,32 @@
-title: Macintosh portable
-realtitle: Macintosh portable
-cardtype: 'product'
+---
+title: Macintosh Portable
+realtitle: Macintosh Portable
+cardtype: product
 hardwaretype: computer
 personalitytype: null
-image: Macintosh_Portable-IMG_7541.jpg
+image: macintosh-portable.jpg
 imageattribution: Rama
 imagelicense: SA 2.0 fr
-imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_Portable-IMG_7541.jpg/1280px-Macintosh_Portable-IMG_7541.jpg
-staffcost: 2
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_Portable-IMG_7541.jpg/1280px-Macintosh_Portable-IMG_7541.jpg'
+staffcost: 3
 qualitycost: 3
-rdcost: 2
-marketingcost: null
+rdcost: 3
+marketingcost: 3
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
+loyaltyscore: 2
 profitscore: 2
 profitlength: 2
-longevityscore: 1
+longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: The Macintosh is a Trademark of Apple Inc
 approved: 'N'
 yearofrelease: 1989
 originalprice: $6500
-concepts: List of concepts associated with this card
+concepts: null
 ---
-The Mac Portable is Apple's first attempt to produce a portable version of a desktop Macintosh computer
+
+The Mac Portable is Apple's first attempt to produce a portable version of a desktop Macintosh computer.
