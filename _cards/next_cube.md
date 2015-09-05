@@ -1,32 +1,31 @@
-title: NeXT Cube
-realtitle: NeXT Cube
-cardtype: 'product'
-hardwaretype: 'computer'
-
-image: NEXT_Cube-IMG_7154.jpg
-imageattribution: Rama & Musée Bolo - Own work
-imagelicense: SA 2.0 fr
-imagelink:https://en.wikipedia.org/wiki/NeXTcube#/media/File:NEXT_Cube-IMG_7154.jpg
+---
+title: NeXT Computer
+realtitle: NeXT Computer
+cardtype: product
+hardwaretype: computer
+image: next-computer.jpg
+imageattribution: Coolcaesar
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://commons.wikimedia.org/wiki/File:First_Web_Server.jpg'
 staffcost: 2
 qualitycost: 3
-rdcost: 2
-marketingcost: null
+rdcost: 3
+marketingcost: 4
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
+loyaltyscore: 3
 profitscore: 2
 profitlength: 2
-longevityscore: 1
+longevityscore: 5
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: NeXT Computer and NeXT are Trademarks of Apple Inc
 approved: 'N'
 yearofrelease: 1988
 originalprice: $6500
-concepts: List of concepts associated with this card
+concepts: null
 ---
 
-What a mythical and powerful computer. When Steve Jobs leaves Apple, he decides to create the best computer possible. The result is the NeXT. 
-
+NeXT Computer is a high-end workstation with an advanced operating system, a suite of programs and an unusually black case.
