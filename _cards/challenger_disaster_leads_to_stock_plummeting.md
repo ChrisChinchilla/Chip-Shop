@@ -27,4 +27,4 @@ originalprice: null
 concepts: 'Immediate, all'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Memini vero, inquam; Quid autem habent admirationis, cum prope accesseris? Beatus sibi videtur esse moriens. Duae sunt enim res quoque, ne tu verba solum putes. At eum nihili facit; Minime vero, inquit ille, consentit. Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? Duo Reges: constructio interrete.
+A catastrophic space shuttle diaster leads to a reduction of confidence in computer technology.
