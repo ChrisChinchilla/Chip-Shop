@@ -2,7 +2,7 @@
 title: Going public
 realtitle: Going public
 cardtype: event
-image: Philippine-stock-market-board.jpg
+image: stock-board.jpg
 imageattribution: Katrina.Tuliao
 imagelicense: CC BY 2.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg'
