@@ -2,14 +2,31 @@
 title: Steve Ballmer
 realtitle: Steve Ballmer
 cardtype: personality
-personalitytype: null
-image: null
-staffcost: 1
-profitlength: says x ??
-longevityscore: 1
+hardwaretype: null
+personalitytype: giant
+image: steve-ballmer.jpg
+imageattribution: Circa
+imagelicense: '2015 © CIRCA 1605, INC'
+imagelink: 'http://circanews.com/news/steve-ballmers-tenure-at-microsoft'
+staffcost: 2
+qualitycost: null
+rdcost: null
+marketingcost: null
+longevitycost: 2
+moneycost: 3
+loyaltycost: null
+specialcost: null
+loyaltyscore: 3
+profitscore: 1
+profitlength: ∞
+longevityscore: 2
 rdscore: null
-specialscore: Every product from next turn gains 1 profit
+specialscore: null
 legal: null
+approved: null
+yearofrelease: null
+originalprice: null
+concepts: anyrelease
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Steve is a skilled business manager know for his energy and exuberance.

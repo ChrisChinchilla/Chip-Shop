@@ -8,7 +8,7 @@ image: jay-miner.png
 imageattribution: Copyright 1990 Michael C. Battilana and Cloanto Italia srl
 imagelicense: CC BY 2.0
 imagelink: 'https://en.wikipedia.org/wiki/File:JayMiner1990.jpg'
-staffcost: 1
+staffcost: 2
 qualitycost: null
 rdcost: null
 marketingcost: null
