@@ -2,9 +2,31 @@
 title: John Scully
 realtitle: John Scully
 cardtype: personality
-personalitytype: null
-staffcost: 1
+hardwaretype: null
+personalitytype: giant
+image: john-sculley.jpg
+imageattribution: Inc.com
+imagelicense: © Mansueto Ventures
+imagelink: 'http://www.inc.com/geoffrey-james/why-apple-won-john-sculley_1.html'
+staffcost: 2
+qualitycost: null
+rdcost: null
+marketingcost: null
+longevitycost: 3
+moneycost: 3
+loyaltycost: null
+specialcost: null
+loyaltyscore: 1
+profitscore: 2
+profitlength: ∞
+longevityscore: 2
+rdscore: null
+specialscore: null
 legal: null
+approved: 'Y'
+yearofrelease: null
+originalprice: null
+concepts: if_x_giant
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+John is a business and marketing expert with many years experience in selling sugared water.
