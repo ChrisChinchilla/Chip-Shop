@@ -2,7 +2,7 @@
 title: Expert joins you
 realtitle: Expert joins you
 cardtype: event
-image: test.jpg
+image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
