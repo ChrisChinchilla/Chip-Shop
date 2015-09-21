@@ -1,9 +1,9 @@
 ---
-title: Texas Instruments Compact_Computer 40
+title: Texas Instruments CompactnComputer 40
 realtitle: Compact Computer 40 (CC 40)
 card type: product
 hardwaretype: computer
-image: TI_Compact_Computer_40_White_Background.jpg
+image: test.png
 imageattribution: 'Staffan Vilcans ("Liftarn")'
 imagelicense: CC BY-SA 2.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/TI_Compact_Computer_40_White_Background.jpg'

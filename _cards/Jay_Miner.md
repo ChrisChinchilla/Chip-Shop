@@ -4,7 +4,7 @@ realtitle: Jay Miner
 cardtype: personality
 hardwaretype: null
 personalitytype: giant
-image: jay-miner.png
+image: jay-miner.jpg
 imageattribution: Copyright 1990 Michael C. Battilana and Cloanto Italia srl
 imagelicense: CC BY 2.0
 imagelink: 'https://en.wikipedia.org/wiki/File:JayMiner1990.jpg'
