@@ -23,7 +23,7 @@ longevityscore: 2
 rdscore: null
 specialscore: null
 legal: null
-approved: null
+approved: 'Y'
 yearofrelease: null
 originalprice: null
 concepts: anyrelease
