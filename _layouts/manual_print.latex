@@ -8,6 +8,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{fontspec}
 \setmainfont{VT323}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \begin{document}
   \begin{flushright}
     {$title$}
