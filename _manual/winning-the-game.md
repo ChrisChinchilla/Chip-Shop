@@ -1,6 +1,7 @@
 ---
 layout: manual
 title: Winning the Game
+weight: 6
 ---
 
 After ten turns all scores are combined, any special cards considered and included and the player with the most points wins!
