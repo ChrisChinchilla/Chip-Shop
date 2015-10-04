@@ -8,14 +8,14 @@ weight: 5
 Use your favorite method for randomly selecting a starting player and play lasts for ten turns.
 
 # Phases per Turn
-Each turn consists of 7 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 7.
+Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
+
 1. Receive money for successful products (Not in 1st turn)
 2. Buy and allocate resources to costs
 3. Draw and play events
 4. Draw and bring personalities into play
 5. Draw products
-6. Build products
-7. Adjust scores
+6. Build products and adjust scores
 
 ## Receive money for successful products (Not in 1st turn)
 In this phase players receive money for any products already built. Everything in Chip Shop needs money. Selling products makes money and it's spend on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
@@ -39,17 +39,18 @@ There's no point having a great idea and product if no one hears about it. Marke
 
 > Following from the previous phase, Jane intends to build a [control pad](cards/Control_pad) accessory to attach the [Atari 5200](cards/Atari_5200) and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
-## Events
+## Draw and play events
 Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.
 
 Every player draws two cards in player order:
 
 If an event card is [public](concepts/public), the drawing player must show it to all players and then follow where and when it should be played.
+
 - If an event is marked as [immediate](concepts/immediate), play it immediately.
 - If an effect of the card is to draw more cards or other actions, play them immediately.
 - If an event card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish.
 
-## Draw Personalities
+## Draw and bring personalities into play
 These are special individuals who players may want to recruit to their company. Personalities may also decide to join a players company at their own free will. Personalities all have specialties, skills and traits that will positively affect statistics and chances of winning the game. Every player draws in player order a number of personality cards determined by their current _Quality_ plus _Loyalty_ scores, divided by two (rounded down).
 
 If a player can 'play' a personality, i.e. They have the requisite costs and prerequisites that a personality demands, that personality enters play immediately and their effects enacted. If the personality is [public](concepts/public), they are immediately made public. Any personality cards drawn that a player can't or doesn't want to bring into play are added back the top of the personality card deck before the next player draws.
@@ -72,7 +73,7 @@ Accessory products are always attached to an exisiting non-accessory product. Ea
 
 Proportional costs and scores for accessories (i.e costs and scores indicated as a fraction value) are always a proportion of the product it is attached to.
 
-## Build
+## Build products and adjust scores
 If players have products in production that can be built, they are built in this phase. In turn order players should move the product card from their factory into the public playing area. Scores are adjusted, but any revenue the product brings doesn't occur until the beginning of the next turn.
 
 > Following from the previous example, Jane successfully builds a [control pad](cards/Control_pad) and attaches it to her [Atari 5200](cards/Atari_5200). The profit score for the Atari 5200 is four per turn for two turns, thus the control pad attached to it gains one profit (a quarter of 4 is 1) per turn for as long as the Atari 5200 remains in play.
