@@ -1,6 +1,7 @@
 ---
 layout: manual
 title: Components
+weight: 2
 ---
 
 - 45 Product cards
