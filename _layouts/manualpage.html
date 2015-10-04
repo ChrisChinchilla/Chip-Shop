@@ -10,14 +10,16 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  {% for manualpage in site.manual %}
+
+  {% assign manualPages = site.manual | sort: 'weight' %}
+
+  {% for manualpage in manualPages %}
   <p>
     <b>{{ manualpage.title }}</b> - <a href="{{manualpage.url}}">View</a>
   </p>
 
   {% endfor %}
-  <a id="concepts"></a>
-  <h4>Concepts</h4>
+  <h2 id="concepts">Concepts</h2>
   {% for concept in site.concepts %}
   <p>
     <b>{{ concept.title }}</b> - <a href="{{concept.url}}">View</a>
