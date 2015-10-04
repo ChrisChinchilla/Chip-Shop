@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage[paperheight=297mm,paperwidth=210mm,margin=0.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{amsthm,amsmath,amssymb}
+\usepackage{graphicx}
+\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/manual/}}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\setmainfont{VT323}
+\begin{document}
+  \begin{flushright}
+    {$title$}
+  \end{flushright}
+  $if(image)$
+  \begin{figure}[H]
+    \centering
+    \includegraphics[height=2cm]{$image$}
+  \end{figure}
+  $endif$
+  \begin{flushleft}
+    \scriptsize{$body$}
+  \end{flushleft}
+  \scriptsize
+\end{document}
