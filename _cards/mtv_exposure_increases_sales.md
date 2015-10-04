@@ -25,7 +25,7 @@ legal: MTV is a Trademark of Viacom International
 approved: 'Y'
 yearofrelease: 1981
 originalprice: null
-concepts: choice
+concepts: 'choice, public'
 ---
 
 An advertisement for your computer appears on MTV. Sales increase dramatically!

@@ -11,7 +11,7 @@ profitscore: 1
 profitlength: 1
 specialscore: Affects latest Console products
 approved: 'Y'
-concepts: immediate
+concepts: 'immediate, public'
 ---
 
 You receive a fantastic review in Computer gaming world and sales take a welcome rise.

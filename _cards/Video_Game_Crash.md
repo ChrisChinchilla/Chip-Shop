@@ -13,6 +13,7 @@ profitscore: 1/2
 profitlength: 2
 staffcost: 1/4 of your Staff (rounded down)
 specialcost: Only affects console products produced or in production
+concepts: public
 approved: 'Y'
 ---
 
