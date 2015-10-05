@@ -11,14 +11,6 @@ layout: default
     {{ content }}
   </article>
 
-  {% assign manualPages = site.manual | sort: 'weight' %}
-
-  {% for manualpage in manualPages %}
-  <p>
-    <b>{{ manualpage.title }}</b> - <a href="{{manualpage.url}}">View</a>
-  </p>
-
-  {% endfor %}
   <h2 id="concepts">Concepts</h2>
   {% for concept in site.concepts %}
   <p>
