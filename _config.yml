@@ -13,9 +13,9 @@ comments: true
 collections:
   cards:
     output: true
-  manual:
-    output: true
-    layout: manual
+  # manual:
+  #   output: true
+  #   layout: manual
   concepts:
     output: true
     layout: concept
