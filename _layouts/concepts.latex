@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
+\usepackage{graphicx}
+\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/concepts/}}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+% \setmainfont{VT323}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\begin{document}
+  \begin{flushright}
+    {\large $title$}
+  \end{flushright}
+  \begin{flushleft}
+    \scriptsize{$body$}
+  \end{flushleft}
+  \scriptsize
+\end{document}
