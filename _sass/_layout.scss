@@ -7,7 +7,7 @@
   padding: $spacing-unit;
   @include media-query($on-palm) {
     padding: $spacing-unit / 2;
-}
+  }
 }
 
 /**
@@ -23,14 +23,11 @@
     float:left;
     .site-title {
       font-family: 'Atari B I';
-
       font-size: 3.5em;
-      // padding: 4vw;
-      // line-height: .75;
       text-shadow: -1px -1px 0px rgba(245, 245, 245, 0.3), 1px 1px 2px rgba(50, 50, 50, 0.8);
       color: #4242b4;
       word-spacing: -$spacing-unit / 3.5;
-
+      border-bottom:none;
       span {
         margin-right: -0.5vw;
       }
@@ -49,6 +46,8 @@
 
     .description {
       font-size: 1em;
+      color: $base-text;
+      border-bottom: none;
     }
   }
 }
@@ -62,7 +61,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $base-text;
     line-height: $base-line-height;
   }
 
@@ -196,7 +195,7 @@
   font-family: 'VT323';
   // font-size: 18px;
   // TODO: Var this
-  color: #00ff00;
+  color: $text-color;
   // TODO: Var this
   padding: $spacing-unit / 2;
   .wrapper {
