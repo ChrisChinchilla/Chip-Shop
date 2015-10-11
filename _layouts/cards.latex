@@ -7,21 +7,22 @@
 \usepackage{float}
 \usepackage[utf8]{inputenc}
 \usepackage{fontspec}
+\usepackage[export]{adjustbox}
 \setmainfont{VT323}
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
 \begin{document}
   \begin{flushright}
     {$title$}
   \end{flushright}
   $if(image)$
-  \begin{figure}[H]
+  \begin{figure}[htp]
     \centering
-    \includegraphics[height=2cm]{$image$}
+    \includegraphics[width=\textwidth,height=3cm,keepaspectratio]{$image$}
   \end{figure}
   $endif$
-  \begin{flushleft}
     \scriptsize{$body$}
-  \end{flushleft}
   \scriptsize
+  \begin{flushleft}
   \begin{tabular}{ l l }
     Costs & Scores \\
     $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
@@ -30,14 +31,13 @@
     $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
     $if(moneycost)$ Money: {$moneycost$} $endif$ &
   \end{tabular}
-  \begin{flushleft}
     $if(specialscore)$
-    Special: {$specialscore$}
+    \textbf{Special:} {$specialscore$}
     $endif$
   \end{flushleft}
-  \begin{center}
-    $if(legal)$
-    \tiny{$legal$}
-    $endif$
-  \end{center}
+\begin{flushleft}
+$if(concepts)$
+Concepts: {$concepts$}
+$endif$
+\end{flushleft}
 \end{document}
