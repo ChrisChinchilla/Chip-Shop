@@ -1,23 +1,22 @@
 ---
-layout: default
+layout: default_js
 ---
+<script>
+  $(function(){
+    $("#intro_text").typed({
+      strings: ["It is the dawn of a new era, computers are affordable enough that millions want them in their homes.<br/><br/>In Chip Shop you play the head of a fledgling computer company in 80s America fighting for a piece of that action.<br/><br/>You have a decade to make your mark, will it be for longevity, loyalty, units shifted or a balance between them all?<br/><br/>Do you want to continue?"],
+      contentType: 'html',
+      typeSpeed: 0,
+      showCursor: true,
+      cursorChar: "|",
+    });
+  });
+</script>
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <div id="intro_text">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
 
 </div>
