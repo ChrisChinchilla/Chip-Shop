@@ -20,7 +20,7 @@ body {
   @include media-query($on-palm) {
     font-size: $base-font-size *0.75;
 
-}
+  }
   line-height: $base-line-height;
   font-weight: 300;
   color: $text-color;
@@ -100,7 +100,6 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  color: $brand-color;
   text-decoration: none;
 
   &:visited {
@@ -109,11 +108,9 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
-
-
 
 /**
 * Blockquotes

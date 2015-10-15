@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'Immediate, all'
+concepts: 'immediate, all, public'
 ---
 
 A catastrophic space shuttle diaster leads to a reduction of confidence in computer technology.

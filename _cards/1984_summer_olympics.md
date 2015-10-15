@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1984
 originalprice: null
-concepts: 'choice, optional'
+concepts: 'choice, optional, public'
 ---
 
 You sponsor the 1984 Summer Olympics in LA, USA. Your branding is everywhere!

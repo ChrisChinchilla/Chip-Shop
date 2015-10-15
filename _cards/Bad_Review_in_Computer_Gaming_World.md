@@ -11,7 +11,7 @@ profitscore: -1
 profitlength: 1
 specialscore: Applies to latest Console releases
 approved: 'Y'
-concepts: latestconsolerelease
+concepts: 'latestconsolerelease, public'
 ---
 
 You receive a bad review in Computer Gaming World, all your rivals are pointing and laughing and your investors are restless.

@@ -7,7 +7,7 @@ imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
 specialcost: Your product with the lowest Longevity is now irrelevant.
-concepts: irrelevant
+concepts: 'irrelevant, public'
 approved: 'Y'
 ---
 

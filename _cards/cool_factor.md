@@ -8,7 +8,7 @@ imagelicense: null
 imagelink: null
 loyaltyscore: 1
 approved: 'Y'
-concepts: immediate
+concepts: 'immediate, public'
 ---
 
 Some companies, products and personalities have just got something a little special that the public love.

@@ -11,29 +11,55 @@ layout: default
     {{ content }}
   </article>
 
-  {% assign approvedProductCards = site.cards | where:"approved", "Y" | where:"cardtype", "product" %}
+  {% assign approvedProductCards = site.cards | where:"approved", "Y" | where:"cardtype", "product" | sort:"title" %}
   <h2>Products</h2>
 
-  {% for card in approvedProductCards %}
-  <p>
-    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
-  </p>
-  {% endfor %}
+  <div class="grid">
+    {% for card in approvedProductCards %}
+    <div class="col">
+      {% if card.image %}
+      <a href="{{card.url}}">
+        {% picture listings {{card.image}} alt="{{card.title}}" %}
+      </a>
+      {% endif %}
+      <p>
+        <a href="{{card.url}}">{{ card.title }}</a>
+      </p>
+    </div>
+    {% endfor %}
+  </div>
 
   {% assign approvedEventCards = site.cards | where:"approved", "Y" | where:"cardtype", "event" %}
   <h2>Events</h2>
-
-  {% for card in approvedEventCards %}
-  <p>
-    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
-  </p>
-  {% endfor %}
+  <div class="grid">
+    {% for card in approvedEventCards %}
+    <div class="col">
+      {% if card.image %}
+      <a href="{{card.url}}">
+        {% picture listings {{card.image}} alt="{{card.title}}" %}
+      </a>
+      {% endif %}
+      <p>
+        <a href="{{card.url}}">{{ card.title }}</a>
+      </p>
+    </div>
+    {% endfor %}
+  </div>
 
   {% assign approvedPersonalityCards = site.cards | where:"approved", "Y" | where:"cardtype", "personality" %}
   <h2>Personalities</h2>
-  {% for card in approvedPersonalityCards %}
-  <p>
-    <b>{{ card.title }}</b> - <a href="{{card.url}}">View</a>
-  </p>
-  {% endfor %}
+  <div class="grid">
+    {% for card in approvedPersonalityCards %}
+    <div class="col">
+      {% if card.image %}
+      <a href="{{card.url}}">
+        {% picture listings {{card.image}} alt="{{card.title}}" %}
+      </a>
+      {% endif %}
+      <p>
+        <a href="{{card.url}}">{{ card.title }}</a>
+      </p>
+    </div>
+    {% endfor %}
+  </div>
 </div>

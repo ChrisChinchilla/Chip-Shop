@@ -29,4 +29,4 @@ originalprice: $4000
 concepts: null
 ---
 
-The Gavilan SC is the first computer to be sold with the 'laptop' label
+The Gavilan SC is the first computer to be sold with the laptop label.

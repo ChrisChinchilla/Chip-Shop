@@ -11,6 +11,7 @@ profitlength: 1
 longevityscore: 1
 specialscore: scores are for each product released in the last round.
 legal: 'Copyright © 1994 - 2015 InfoWorld, Inc'
+concepts: public
 approved: 'Y'
 ---
 
