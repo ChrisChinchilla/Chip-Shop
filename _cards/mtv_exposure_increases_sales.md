@@ -28,4 +28,4 @@ originalprice: null
 concepts: 'choice, public'
 ---
 
-An advertisement for your computer appears on MTV. Sales increase dramatically!
+An advertisement for your products appears on MTV. Sales increase dramatically!

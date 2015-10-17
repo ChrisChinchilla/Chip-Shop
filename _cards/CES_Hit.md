@@ -9,7 +9,6 @@ imagelink: 'http://www.technologizer.com/wp-content/uploads/2012/01/ces-big.jpg'
 marketingcost: 1
 profitscore: 1
 profitlength: 2
-specialscore: Affects all latest releases
 legal: CES is Copyright 2003 to 2015 CEA. All rights reserved.
 concepts: 'latestrelease, public'
 approved: 'Y'
