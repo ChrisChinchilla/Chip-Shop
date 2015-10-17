@@ -22,24 +22,42 @@
     \includegraphics[width=\textwidth,height=3cm,keepaspectratio]{$image$}
   \end{figure}
   $endif$
-    \scriptsize{$body$}
+  \scriptsize{$body$}
   \scriptsize
   \begin{flushleft}
-  \begin{tabular}{ l l }
-    Costs & Scores \\
-    $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
-    $if(rdcost)$ RandD: {$rdcost$} $endif$ & $if(profitscore)$ Profit: {$profitscore$} for {$profitlength$} turns $endif$ \\
-    $if(marketingcost)$ Marketing: {$marketingcost$} $endif$ & $if(longevityscore)$ Longevity: {$longevityscore$} $endif$ \\
-    $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
-    $if(moneycost)$ Money: {$moneycost$} $endif$ &
-  \end{tabular}
-    $if(specialscore)$
-    \textbf{Special:} {$specialscore$}
+    Costs:
+    $if(staffcost)$
+    Staff: {$staffcost$}
+    $endif$
+    $if(rdcost)$
+    RandD: {$rdcost$}
+    $endif$
+    $if(marketingcost)$
+    Marketing: {$marketingcost$}
+    $endif$
+    $if(longevitycost)$
+    Longevity: {$longevitycost$}
+    $endif$
+    $if(moneycost)$
+    Money: {$moneycost$}
+    $endif$
+
+    Scores:
+    $if(loyaltyscore)$
+    Loyalty: {$loyaltyscore$}
+    $endif$
+    $if(profitscore)$
+    Profit: {$profitscore$}
+    $if(profitlength)$ for {$profitlength$} turns
+    $endif$
+    $endif$
+    $if(longevityscore)$
+    Longevity: {$longevityscore$}
     $endif$
   \end{flushleft}
-\begin{flushleft}
-$if(concepts)$
-Concepts: {$concepts$}
-$endif$
-\end{flushleft}
+  \begin{flushleft}
+    $if(concepts)$
+    Concepts: {$concepts$}
+    $endif$
+  \end{flushleft}
 \end{document}
