@@ -17,8 +17,9 @@ longevityscore: 1
 specialscore: Console Accessory
 legal: 'The Intellivoice is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'
+concepts: 'accessory, choiceconsole'
 yearofrelease: 1982
 originalprice: $100
 ---
 
-A Voice Sythnesiser adds a new level of engagement to games, allowing them to talk to players.
+A Voice Sythneziser adds a new level of engagement to games, allowing them to talk to players.
