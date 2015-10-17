@@ -21,4 +21,4 @@ yearofrelease: 'July 23, 1985'
 originalprice: $1295
 ---
 
-A powerful personal computer with some of the most advanced graphics and sound systems in its class. The launch is held during a star-studded gala featuring Andy Warhol and Debbie Harry held in New York City.
+A powerful personal computer with some of the most advanced graphics and sound systems in its class.

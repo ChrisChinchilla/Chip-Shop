@@ -21,4 +21,4 @@ yearofrelease: 1983
 originalprice: null
 ---
 
-Composed of a standard 10" color television integrated with a console and controlled by two 16-direction joysticks with top-mounted buttons. It can run on AC or DC power, making it portable when used with a car battery.
+Composed of a standard 10" color television integrated with a console and controlled by two 16-direction joysticks. It is portable when used with a car battery.
