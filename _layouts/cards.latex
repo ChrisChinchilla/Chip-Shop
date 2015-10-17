@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twoside]{article}
 \usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
 \usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
@@ -59,5 +59,9 @@
     $if(concepts)$
     Concepts: {$concepts$}
     $endif$
+  \end{flushleft}
+  \pagebreak
+  \begin{flushleft}
+    $cardtype$
   \end{flushleft}
 \end{document}
