@@ -22,4 +22,4 @@ yearofrelease: 1982
 originalprice: $2500
 ---
 
-When working with clients, the portable Osborne Executive is useful for presentations and projects as it can provide on-the-spot answers to numerical questions.
+When working with clients, the portable Executive can provide on-the-spot answers to numerical questions.

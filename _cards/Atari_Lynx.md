@@ -22,4 +22,4 @@ originalprice: $180
 concepts: null
 ---
 
-The Atari Lynx is a 16-bit handheld game console and is the world's first with a color LCD. The system is notable for its forward-looking features, advanced graphics, and ambidextrous layout.
+The Atari Lynx is a 16-bit handheld game console and is the world's first with a color LCD.

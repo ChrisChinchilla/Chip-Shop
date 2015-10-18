@@ -21,4 +21,4 @@ yearofrelease: 1984
 originalprice: $1200
 ---
 
-The Tandy 1000 is an IBM compatable personal home computer that incorporate a complete set of basic peripherals on the motherboard using proprietary technologies.
+The Tandy 1000 is an IBM compatible computer that incorporates a complete set of basic peripherals on the motherboard using proprietary technologies.

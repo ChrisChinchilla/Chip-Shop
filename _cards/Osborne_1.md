@@ -20,4 +20,4 @@ yearofrelease: 1981
 originalprice: $1800
 ---
 
-The Osborne 1 is the first commercially available portable computer, shipping with a case and a large bundle of software equivalent in value to the machine itself.
+The Osborne 1 is the first commercially available portable computer, shipping with a case and a large bundle of software.
