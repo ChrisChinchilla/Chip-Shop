@@ -16,6 +16,7 @@ mkdir -p pod/pdf/legal
 echo "Processing Game Cards…"
 for filename in _cards/*.md; do
   echo $filename
+  # TODO: Counter of progress
 
   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
