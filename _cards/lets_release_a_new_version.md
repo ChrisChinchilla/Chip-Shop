@@ -10,12 +10,11 @@ staffcost: 1
 qualitycost: 2
 rdcost: 1
 marketingcost: 2
-specialcost: You must have produced at least one product
 loyaltyscore: 2
 profitscore: 1/2
 profitlength: 2
-longevityscore: 1
-specialscore: Profit is 1/2 upgraded product
+longevityscore: -1
+concepts: choice
 approved: 'Y'
 ---
 

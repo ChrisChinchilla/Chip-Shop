@@ -11,7 +11,7 @@ staffcost: 5
 qualitycost: 4
 rdcost: 5
 marketingcost: 6
-legal: IBM Copyright IBM Corporation
+legal: IBM is Copyright the IBM Corporation
 approved: 'Y'
 yearofrelease: 1981
 originalprice: $1565

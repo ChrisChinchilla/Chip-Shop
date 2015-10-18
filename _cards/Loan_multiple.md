@@ -7,9 +7,10 @@ imagelicense: License type
 imagelink: Where did this image come from?
 cardtype: event
 longevitycost: 4
+profitscore: currentvalue x 2
 specialscore: Gain twice your current profit score but lose 2 points of profit per turn for the next four turns.
-concepts: optional
+concepts: 'optional, perturn'
 approved: 'Y'
 ---
 
-Need a quick cash inject? Have you thought about applying for a loan?
+Need a quick cash injection? Have you thought about applying for a loan?

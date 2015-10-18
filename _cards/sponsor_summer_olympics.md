@@ -1,6 +1,6 @@
 ---
-title: You sponsor the 1984 Summer Olympics
-realtitle: You sponsor the 1984 Summer Olympics
+title: You sponsor the Summer Olympics
+realtitle: You sponsor the Summer Olympics
 cardtype: event
 image: us-olympics-team-1984.jpg
 imageattribution: 'Ken Hackman, U.S. Air Force'
@@ -27,4 +27,4 @@ originalprice: null
 concepts: 'choice, optional, public'
 ---
 
-You sponsor the 1984 Summer Olympics in LA, USA. Your branding is everywhere!
+You sponsor the Summer Olympics in. Your branding is everywhere!

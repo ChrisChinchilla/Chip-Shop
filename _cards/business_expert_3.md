@@ -16,10 +16,10 @@ longevitycost: null
 moneycost: 1
 loyaltycost: null
 specialcost: null
-loyaltyscore: 0
+loyaltyscore: null
 profitscore: 1
 profitlength: null
-longevityscore: 0
+longevityscore: null
 rdscore: null
 specialscore: null
 legal: null

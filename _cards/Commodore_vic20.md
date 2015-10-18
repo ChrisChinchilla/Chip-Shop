@@ -28,4 +28,4 @@ originalprice: $300
 concepts: null
 ---
 
-The Commodore VIC 20 is an affordable home computer that can be plugged into a television. Initially developed as a chip set for video games, it is the first computer to sell a million units.
+The Commodore VIC 20 is an affordable home computer that can be plugged into a television initially developed as a chip set for video games

@@ -1,31 +1,30 @@
 ---
-title: Texas Instruments CompactnComputer 40
-realtitle: Compact Computer 40 (CC 40)
+title: Texas Instruments Compact Computer 40
+realtitle: Texas Instruments Compact Computer 40
 card type: product
 hardwaretype: computer
-image: test.png
+image: ti-cc-40.jpg
 imageattribution: 'Staffan Vilcans ("Liftarn")'
 imagelicense: CC BY-SA 2.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/TI_Compact_Computer_40_White_Background.jpg'
-staffcost: null
-qualitycost: null
-rdcost: null
-marketingcost: null
+staffcost: 3
+qualitycost: 2
+rdcost: 3
+marketingcost: 3
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: null
-profitscore: null
-profitlength: null
-longevityscore: null
+loyaltyscore: 2
+profitscore: 2
+profitlength: 2
+longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-yearofrelease: null
+legal: Texas Instruments is a Trademark of Acer Inc.
+yearofrelease: 1983
 originalprice: $249
-concepts: List of concepts associated with this card
-approved: 'N'
+approved: 'Y'
 ---
 
-The Texas Instruments Compact Computer 40 is TI's first foray into portable computers with a battery-operated portable business computer that can be powered by four AA batteries or an AC adapter.
+The Texas Instruments Compact Computer 40 is a portable computer powered by four AA batteries or an AC adapter.

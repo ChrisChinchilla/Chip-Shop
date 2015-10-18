@@ -6,7 +6,8 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-rndscore: 1
+rdscore: 2
+concepts: 'immediate, rd_resourcegain'
 approved: 'Y'
 ---
 

@@ -21,4 +21,4 @@ yearofrelease: 1983
 originalprice: $495
 ---
 
-The Atari 600 XL has 16kb of memory and a monitor port and is a part of the 8-bit family, the first home computers to offer co=processing for sound and video.
+The Atari 600 XL has 16kb of memory and a monitor port and is a part of the 8-bit family, the first home computers to offer coprocessing for sound and video.
