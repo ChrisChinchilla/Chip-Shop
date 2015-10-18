@@ -19,4 +19,4 @@ yearofrelease: 'January 19, 1983'
 originalprice: $9995
 ---
 
-After spending $50 million on development, the Apple Lisa is the very first personal computer system with a graphical user interface (GUI) and many other advanced features to be sold commercially.
+The Lisa is the first commercially available personal computer system with a graphical user interface (GUI) and other advanced features.

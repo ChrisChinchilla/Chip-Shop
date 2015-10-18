@@ -19,7 +19,7 @@ specialcost: null
 loyaltyscore: 0
 profitscore: 1
 profitlength: null
-longevityscore: 0
+longevityscore: null
 rdscore: null
 specialscore: null
 legal: null

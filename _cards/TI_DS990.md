@@ -27,4 +27,4 @@ yearofrelease: 1980
 originalprice: null
 ---
 
-A popular minicomputer with programmers due to several unique features.
+A popular minicomputer with programmers due to unique features that made it easier to program.

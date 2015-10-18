@@ -1,5 +1,5 @@
 ---
-title: Steve Wozniak
+title: Steven Wosaneck
 realtitle: Steve Wozniak
 cardtype: personality
 hardwaretype: null

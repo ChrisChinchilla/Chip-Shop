@@ -2,10 +2,10 @@
 title: Multiplayer Adapter
 realtitle: Multiplayer Adapter
 cardtype: accessory
-image: Vectrex-Console-Set.jpg
-imageattribution: Evan Amos
-imagelicense: CC BY-SA 3.0
-imagelink: 'https://en.wikipedia.org/wiki/Vectrex#/media/File:Vectrex-Console-Set.jpg'
+image: test.png
+imageattribution: null
+imagelicense: null
+imagelink: null
 staffcost: 1
 rdcost: 2
 marketingcost: 2

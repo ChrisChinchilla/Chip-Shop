@@ -17,7 +17,7 @@ moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
-profitscore: 0
+profitscore: null
 profitlength: null
 longevityscore: 0
 rdscore: null

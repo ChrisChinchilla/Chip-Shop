@@ -1,6 +1,6 @@
 ---
-title: Atari mindlink
-realtitle: Atari mindlink
+title: Atari Mindlink
+realtitle: Atari Mindlink
 cardtype: product
 hardwaretype: accessory
 image: atari-mindlink.jpg
@@ -22,4 +22,4 @@ approved: 'Y'
 yearofrelease: 1984
 ---
 
-The Atari Mindlink is "The State of the Art for the State of your Mind". A combination of headband with Infrared Transmitter and Infrared Receiver, using specially written software you can control the action on the screen.
+The Atari Mindlink is a combination of headband with Infrared Transmitter and Infrared Receiver. Using specially written software you can control the action on the screen.

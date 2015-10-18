@@ -1,6 +1,6 @@
 ---
-title: Negative mention in Byte Magazine
-realtitle: Negative mention in Byte Magazine
+title: Positive mention in Byte Magazine
+realtitle: Positive mention in Byte Magazine
 cardtype: event
 image: good-name-check.jpg
 imageattribution: null

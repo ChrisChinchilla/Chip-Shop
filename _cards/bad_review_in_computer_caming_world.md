@@ -9,7 +9,6 @@ imagelink: 'http://www.oldgames.sk/images/magazine/cgw/001/cgw1-001.jpg'
 loyaltyscore: -1
 profitscore: -1
 profitlength: 1
-specialscore: Applies to latest Console releases
 approved: 'Y'
 concepts: 'latestconsolerelease, public'
 ---

@@ -11,7 +11,8 @@ rdcost: 7
 marketingcost: 7
 qualitycost: 2
 profitscore: 8
-loyalityscore: 7
+profitlength: 5
+loyaltyscore: 7
 longevityscore: 7
 legal: 'Commodore and Commodore 64 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'

@@ -1,6 +1,6 @@
 ---
 layout: concept
-title: Search X
+title: Search X for Y
 ---
 
-Look through the specified deck until you find a card of type 'X'. Afterwards shuffle the cards you saw back into the deck.
+Look through the 'x' cards until you find a card of type 'y'. Afterwards shuffle the cards you saw back into the deck.
