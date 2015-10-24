@@ -1,6 +1,5 @@
 \documentclass{article}
 \usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
-\usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
