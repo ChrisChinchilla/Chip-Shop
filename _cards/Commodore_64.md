@@ -20,4 +20,4 @@ yearofrelease: 1982
 originalprice: $595
 ---
 
-Commodore 64 is an 8 bit home computer. You take a risk and decide to sell it in department and toy stores.
+The Commodore 64 is an 8 bit home computer. You take a risk and decide to sell it in department and toy stores.

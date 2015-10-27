@@ -22,4 +22,4 @@ originalprice: $2000
 concepts: 'defunct_lisa, lisa_reduce'
 ---
 
-Released after a high profile marketing campaign The Apple Macintosh is the first mass-market personal computer to feature a graphical user interface and mouse.
+The Apple Macintosh is the first mass-market personal computer to feature a graphical user interface and mouse.

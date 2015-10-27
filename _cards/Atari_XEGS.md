@@ -20,7 +20,6 @@ legal: 'Atari and Atari XEGS are registered Trademarks of Atari Interactive, Inc
 approved: 'Y'
 yearofrelease: 1987
 originalprice: $199
-concepts: List of concepts associated with this card
 ---
 
 The Atari XEGS is able to operate as either a stand-alone console or full computer with the addition of its specially designed keyboard.

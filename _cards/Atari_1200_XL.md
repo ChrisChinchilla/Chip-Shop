@@ -20,4 +20,4 @@ yearofrelease: March 1983
 originalprice: $899
 ---
 
-This computer includes 64 KB of RAM, built-in self test, redesigned keyboard (featuring four function keys and a HELP key) and the first custom co-processor to allow for more advanced graphics and sound capabilities.
+This computer includes 64 KB of RAM, built-in self test, redesigned keyboard and the first custom co-processor to allow for advanced graphics and sound.
