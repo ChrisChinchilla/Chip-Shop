@@ -9,6 +9,7 @@ imagelicense: "Copyright Vetronic's Apple World"
 imagelink: 'http://www.vectronicsappleworld.com/archives/vintage/0017.php'
 staffcost: 1
 rdcost: 2
+qualitycost: 2
 marketingcost: 1
 profitscore: 1/4
 concepts: 'accessory, choicecomputer'
