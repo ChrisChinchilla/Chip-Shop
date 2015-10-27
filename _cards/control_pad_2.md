@@ -10,6 +10,7 @@ imagelink: 'https://commons.wikimedia.org/wiki/File:ColecoVision-Controller-FR.j
 staffcost: 1
 rdcost: 1
 marketingcost: 1
+qualitycost: 1
 profitscore: 1/4
 concepts: choice_console
 approved: 'Y'

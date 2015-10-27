@@ -9,6 +9,7 @@ imagelicense: Public Domain
 imagelink: 'https://commons.wikimedia.org/wiki/File:ColecoVision-Controller-FR.jpg'
 staffcost: 1
 rdcost: 1
+qualitycost: 1
 marketingcost: 1
 profitscore: 1/4
 concepts: choice_console
