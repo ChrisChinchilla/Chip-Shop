@@ -1,13 +1,12 @@
 ---
-title: Template Card
-realtitle: Template Card
-cardtype: 'product, event or personality'
-hardwaretype: 'console, computer or accessory'
+title: Francis Allen
+realtitle: Francis Allen
+cardtype: ' personality'
 personalitytype: null
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: Allen_mg_2545-b.jpg
+imageattribution: Rama
+imagelicense: CC BY-SA 2.0 fr
+imagelink: https://en.wikipedia.org/wiki/Frances_E._Allen#/media/File:Allen_mg_2545-b.jpg
 staffcost: 2
 qualitycost: 3
 rdcost: 2
