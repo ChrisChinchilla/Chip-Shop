@@ -1,3 +1,4 @@
+---
 title: Template Card
 realtitle: Template Card
 cardtype: 'product, event or personality'
