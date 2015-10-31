@@ -27,4 +27,4 @@ originalprice: $2385
 concepts: 'clone, IBM PC'
 ---
 
-The Eagle Computer range is a series of fully and semi- IBM compatible machines that are well made and easily expandable.
+The Eagle Computer is an IBM compatible machine that is well made and easily expandable.

@@ -10,7 +10,7 @@ loyaltyscore: 2
 profitscore: 1/4
 profitlength: 1
 approved: 'Y'
-concepts: 'immediate, choice'
+concepts: 'immediate, choice, public'
 ---
 
 Despite your best efforts, an itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

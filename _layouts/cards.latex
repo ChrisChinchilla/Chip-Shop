@@ -1,43 +1,63 @@
 \documentclass{article}
 \usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
-\usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
 \usepackage{float}
 \usepackage[utf8]{inputenc}
 \usepackage{fontspec}
-\setmainfont{VT323}
+\usepackage[export]{adjustbox}
+\usepackage{csquotes}
+% TODO: How to use this font with missing symbols? Or replace?
+% \setmainfont{VT323}
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
 \begin{document}
   \begin{flushright}
     {$title$}
   \end{flushright}
   $if(image)$
-  \begin{figure}[H]
+  \begin{figure}[htp]
     \centering
-    \includegraphics[height=2cm]{$image$}
+    \includegraphics[width=\textwidth,height=3cm,keepaspectratio]{$image$}
   \end{figure}
   $endif$
-  \begin{flushleft}
-    \scriptsize{$body$}
-  \end{flushleft}
+  \scriptsize{$body$}
   \scriptsize
-  \begin{tabular}{ l l }
-    Costs & Scores \\
-    $if(staffcost)$ Staff: {$staffcost$} $endif$ & $if(loyaltyscore)$ Loyalty: {$loyaltyscore$} $endif$ \\
-    $if(rdcost)$ RandD: {$rdcost$} $endif$ & $if(profitscore)$ Profit: {$profitscore$} for {$profitlength$} turns $endif$ \\
-    $if(marketingcost)$ Marketing: {$marketingcost$} $endif$ & $if(longevityscore)$ Longevity: {$longevityscore$} $endif$ \\
-    $if(longevitycost)$ Longevity: {$longevitycost$} $endif$ &  \\
-    $if(moneycost)$ Money: {$moneycost$} $endif$ &
-  \end{tabular}
   \begin{flushleft}
-    $if(specialscore)$
-    Special: {$specialscore$}
+    Costs:
+    $if(staffcost)$
+    Staff: {$staffcost$}
+    $endif$
+    $if(rdcost)$
+    RandD: {$rdcost$}
+    $endif$
+    $if(marketingcost)$
+    Marketing: {$marketingcost$}
+    $endif$
+    $if(longevitycost)$
+    Longevity: {$longevitycost$}
+    $endif$
+    $if(moneycost)$
+    Money: {$moneycost$}
+    $endif$
+
+    Scores:
+    $if(loyaltyscore)$
+    Loyalty: {$loyaltyscore$}
+    $endif$
+    $if(profitscore)$
+    Profit: {$profitscore$}
+    $if(profitlength)$ for {$profitlength$} turns
+    $endif$
+    $endif$
+    $if(longevityscore)$
+    Longevity: {$longevityscore$}
     $endif$
   \end{flushleft}
-  \begin{center}
-    $if(legal)$
-    \tiny{$legal$}
+  \begin{flushleft}
+    $if(concepts)$
+    Concepts: {$concepts$}
     $endif$
-  \end{center}
+  \end{flushleft}
+$cardtype$
 \end{document}

@@ -11,4 +11,4 @@ concepts: immediate
 approved: 'Y'
 ---
 
-A supplier closes which impacts your supply chain.
+A supplier closes and impacts your supply chain.

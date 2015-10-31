@@ -7,19 +7,17 @@ image: amiga500.jpg
 imageattribution: Bill Bertram 2006
 imagelicense: CC-BY-2.5 — Attribution
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga500_system.jpg'
-staffcost: 4
-rdcost: 5
-marketingcost: 4
-longevitycost: null
-moneycost: null
+staffcost: 4 (-1)
+rdcost: 5 (-1)
+marketingcost: 4 (-1)
 qualitycost: 3
 loyaltyscore: 6
 profitscore: 7
 profitlength: 4
 longevityscore: 4
-specialscore: 'If you have built the Amiga 1000, reduce all costs by 1'
 legal: 'Amiga and Amiga 500 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
+concepts: amiga1000_reduce
 yearofrelease: October 1987
 originalprice: $699
 ---

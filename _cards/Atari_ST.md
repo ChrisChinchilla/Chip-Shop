@@ -19,7 +19,6 @@ legal: 'Atari and Atari ST are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1985
 originalprice: $800
-concepts: List of concepts associated with this card
 ---
 
-The Atari ST is the first personal computer with a bit-mapped color GUI and a megabyte of RAM in the base configuration, with a cost-per-kilobyte of less than USD$1.
+The Atari ST is the first personal computer with a bit-mapped color GUI and a megabyte of RAM in the base configuration.

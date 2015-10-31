@@ -1,14 +1,32 @@
 ---
-title: Steve Wozniak
+title: Steven Wosaneck
 realtitle: Steve Wozniak
 cardtype: personality
-personalitytype: null
-image: null
-staffcost: 1
+hardwaretype: null
+personalitytype: giant
+image: steve-wozniak.jpg
+imageattribution: Alan Light
+imagelicense: CC BY 2.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Steve_Wozniak,_1983.jpg'
+staffcost: 2
 qualitycost: null
-rdcost: 2
-specialscore: 'Draw the two top products and build one of your choosing for free. Every product from the next turn onwards requires 1 less R&D and gains 1 Extra Loyalty.'
+rdcost: null
+marketingcost: null
+longevitycost: null
+moneycost: null
+loyaltycost: null
+specialcost: null
+loyaltyscore: 4
+profitscore: null
+profitlength: null
+longevityscore: 2
+rdscore: 3
+specialscore: null
 legal: null
+approved: 'Y'
+yearofrelease: null
+originalprice: null
+concepts: 'search_computer, perproduct, if_business_genius'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Steve is a visionary inventor, hardware engineer and programmer, passionate about computer education.

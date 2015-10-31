@@ -15,7 +15,8 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$base-text:        #000;
+$text-color:       #00ff00;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
@@ -85,5 +86,6 @@ $on-laptop:        800px;
         "syntax-highlighting",
         "menus",
         "cards",
-        "playtest"
+        "playtest",
+        "typed-text"
 ;

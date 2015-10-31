@@ -1,0 +1,21 @@
+\documentclass[a4paper]{book}
+\usepackage{graphicx}
+\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+% \setmainfont{VT323}
+\providecommand{\tightlist}{%
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\begin{document}
+  \begin{flushleft}
+    $if(legal)$
+    \tiny{$legal$}
+    $endif$
+  \end{flushleft}
+  \scriptsize
+\end{document}

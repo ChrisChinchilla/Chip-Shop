@@ -1,3 +1,29 @@
+.grid {
+  &:after {
+    /* Or @extend clearfix */
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+[class*='col'] {
+  text-align:center;
+  float: left;
+  width: 33.33%;
+  min-height:85px;
+
+  p {
+    a {
+      color: $text-color;
+    }
+    a:hover {
+      border-bottom: dotted 1px;
+      text-decoration: none;
+    }
+  }
+}
+
 .card-header {
   .card-title {
     text-align:right;

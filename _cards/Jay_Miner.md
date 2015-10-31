@@ -2,9 +2,31 @@
 title: Jay Miner
 realtitle: Jay Miner
 cardtype: personality
-personalitytype: null
-staffcost: 1
+hardwaretype: null
+personalitytype: giant
+image: jay-miner.jpg
+imageattribution: Copyright 1990 Michael C. Battilana and Cloanto Italia srl
+imagelicense: CC BY 2.0
+imagelink: 'https://en.wikipedia.org/wiki/File:JayMiner1990.jpg'
+staffcost: 2
+qualitycost: null
+rdcost: null
+marketingcost: null
+longevitycost: null
+moneycost: null
+loyaltycost: null
+specialcost: null
+loyaltyscore: 4
+profitscore: 2
+profitlength: 2
+longevityscore: 3
+rdscore: null
+specialscore: null
 legal: null
+approved: 'Y'
+yearofrelease: null
+originalprice: null
+concepts: 'search_you_gain_a_user_group, search_you_gain_a_user_magazine'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid iudicant sensus? Sic enim censent, oportunitatis esse beate vivere. Duo Reges: constructio interrete. Sed haec omittamus; Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
+Jay is an integrated circuit designer with a penchant for designing chips perfect for multimedia applications.

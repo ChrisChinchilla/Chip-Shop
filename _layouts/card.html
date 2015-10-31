@@ -102,6 +102,9 @@ layout: default
       </p>
       {% endif %}
     </span>
+    {% if page.concepts %}
+    <p class="concepts">Concepts: {{page.concepts}}</p>
+    {% endif %}
     {% if page.legal %}
     <p class="legal">{{page.legal}}</p>
     {% endif %}

@@ -1,29 +1,31 @@
-title: Compact disc
-realtitle: Compact disc
-cardtype: 'product, event or personality'
-hardwaretype: 'accessory'
-image: 2000px-Compact_disc.svg.png
-imageattribution: Name of person or company
+---
+title: Compact Disc Drive
+realtitle: Compact Disc Drive
+cardtype: product
+hardwaretype: accessory
+image: compact-disc.png
+imageattribution: Arun Kulshreshtha
 imagelicense: CC BY-SA 2.5
-imagelink:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Compact_disc.svg/2000px-Compact_disc.svg.png
+imagelink: 'https://commons.wikimedia.org/wiki/File:Compact_disc.svg'
 staffcost: 2
 qualitycost: 3
-rdcost: 2
-marketingcost: null
+rdcost: 3
+marketingcost: 4
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
+loyaltyscore: 2
 profitscore: 2
-profitlength: 2
-longevityscore: 1
+profitlength: 4
+longevityscore: 4
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
+legal: The Compact Disc is a Trademark of Koninklijke Philips Electronics N.V.
+approved: 'Y'
 yearofrelease: 1983
-originalprice: $14
-concepts: List of concepts associated with this card
+originalprice: $675
+concepts: anycomputerproduct
 ---
-Compact disc (CD) is a digital optical disc data storage format. The format was originally developed to store and play only sound recordingsIt is launched in America commercially in 1980
+
+Compact disc (CD) is a digital optical disc data storage format.

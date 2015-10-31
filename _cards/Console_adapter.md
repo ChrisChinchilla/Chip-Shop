@@ -1,6 +1,6 @@
 ---
-title: Console adapter Card
-realtitle: Template Card
+title: Console Adapter
+realtitle: Console Adapter
 cardtype: product
 hardwaretype: accessory
 image: console-adapter.jpg
@@ -9,13 +9,13 @@ imagelicense: null
 imagelink: 'http://atariage.com/forums/topic/167048-atari-7800-adaptor-for-atari-5200-at-pax-east/'
 staffcost: 2
 rdcost: 2
+qualitycost: 1
 marketingcost: 1
-specialcost: 'Search discard pile and draw first console products equal to your R&D score, choose one and return the others.'
-profitscore: 2
+loyaltyscore: '1, 1'
+profitscore: '1/5, 1/4'
 profitlength: 2
-specialscore: 'Original player receives money equal to 1/5 of original R&D value and one loyalty. Receive profit per turn at 1/2 loyalty, turns equal to half loyalty.'
 approved: 'Y'
-concepts: search
+concepts: 'search_discard_console, accessory, mutualbenefit'
 ---
 
 Console adapters make old games available to play on newer consoles.
