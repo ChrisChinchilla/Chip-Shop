@@ -3,4 +3,4 @@ layout: concept
 title: Per Turn
 ---
 
-Cards with this concept, scores apply for every turn the card is in play.
+Gains and losses apply for every turn the card is in play.
