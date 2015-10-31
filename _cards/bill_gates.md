@@ -1,28 +1,29 @@
 ---
 title: Bill Gates
 realtitle: Bill Gates
-cardtype: 'personality'
-personalitytype: null
-image: Bill_Gates_June_2015.jpg
-imageattribution: Stemoc
-imagelicense: CC BY 2.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/1/19/Bill_Gates_June_2015.jpg
+cardtype: personality
+personalitytype: giant
+image: bill_gates.jpg
+imageattribution: Esther Dyson
+imagelicense: CC BY-NC 2.0
+imagelink: 'https://www.flickr.com/photos/edyson/4929529633'
 staffcost: 2
-qualitycost: 3
+qualitycost: null
 rdcost: 2
 marketingcost: null
 longevitycost: null
-moneycost: null
+moneycost: 3
 loyaltycost: null
 specialcost: null
-loyaltyscore: 
-profitscore: 
-profitlength: 
-longevityscore: 
-rdscore: null
+loyaltyscore: null
+profitscore: 5
+profitlength: ∞
+longevityscore: 4
+rdscore: 2
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: null
 approved: 'N'
-concepts: List of concepts associated with this card
+concepts: 'choice_test, allplayers, optional'
 ---
 
+Bill is a computer programmer with a good eye for business. Sometimes reckless and unscrupulous, he has a knack for getting what he wants.
