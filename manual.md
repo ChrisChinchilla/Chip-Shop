@@ -28,7 +28,6 @@ During the course of the game certain personalities and specialists may be attra
 After ten years / rounds scores are totalled and the player with the highest score wins.
 
 # Components
-
 - 45 Product cards
 - 60 Event cards
 - 30 Personality cards
@@ -51,7 +50,6 @@ Shuffle the three card decks and place them in the middle of the table.
 Put all resource tokens in easy reach of players.
 
 Players start as a new company with:
-
 - 0 Scores
 - 10 Money
 - 5 Resources to distribute as they wish
@@ -62,7 +60,6 @@ Use your favorite method for randomly selecting a starting player and play lasts
 
 ## Phases per Turn
 Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
-
 1. Receive money for successful products (Not in 1st turn)
 2. Buy and allocate resources to costs
 3. Draw and play events
@@ -79,7 +76,9 @@ In this phase players receive money for any products already built. Everything i
 Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products. Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).
 
 #### Staff
-Staff are needed to make most things happen, but they are expensive and money is needed to keep them around, or they will leave. Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
+Staff are needed to make most things happen, but they are expensive and money and other resources are needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
+
+Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
 #### Quality
 Products require a certain level of quality to balance potential profit and customer satisfaction. Quality products will result in a greater return but require a far greater investment. Shoddier products are quicker and cheaper to make but will result in lower loyalty and longevity.

@@ -1,29 +1,29 @@
 ---
-title: Template Card
-realtitle: Template Card
-cardtype: 'personality'
-personalitytype: null
-image: Jack_Tramiel_cropped.jpg
-imageattribution: Alex Handy
-imagelicense: CC by SA 2.0
-imagelink: https://commons.wikimedia.org/wiki/File:Jack_Tramiel_cropped.jpg
+title: Jack Tramiel
+realtitle: Jack Tramiel
+cardtype: personality
+personalitytype: giant
+image: jack-tramiel.jpg
+imageattribution: Commodore
+imagelicense: Commodore
+imagelink: 'http://www.bild.de/digital/computer/commodore-64/commodore-gruender-jack-tramiel-tot-23559480.bild.html'
 staffcost: 2
-qualitycost: 3
-rdcost: 2
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: null
+moneycost: 2
 loyaltycost: null
 specialcost: null
-loyaltyscore: 
-profitscore: 
-profitlength: 
-longevityscore: 
+loyaltyscore: -1
+profitscore: 5
+profitlength: 3
+longevityscore: 1
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: null
 approved: 'N'
-concepts: List of concepts associated with this card
+concepts: if_engineer
 ---
 
-founder of Commodore, now deceased
+Jack is a businessman with a history in typewriters and calculators. Often know as a micromanager he believes in direct sales to large customers and cutting out middlemen.
