@@ -1,31 +1,29 @@
 ---
 title: Sandra Kurtzig
 realtitle: Sandra Kurtzig
-cardtype: 'personality'
-personalitytype: null
-image: had some trouble finding an image
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+cardtype: personality
+personalitytype: giant
+image: null
+imageattribution: null
+imagelicense: null
+imagelink: null
 staffcost: 2
-qualitycost: 3
-rdcost: 2
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: null
-loyaltycost: null
+loyaltycost: 2
 specialcost: null
-loyaltyscore: 
-profitscore: 
-profitlength: 
-longevityscore: 
+loyaltyscore: null
+profitscore: 5
+profitlength: 2
+longevityscore: 3
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: null
 approved: 'N'
-concepts: List of concepts associated with this card
+concepts: 'search_engineering_expert,free'
 ---
-this could alternatively be an event (or also an event), but here's a bit about her company: The first multimillion-dollar Silicon Valley startup goes public — 1981.
 
-Sandra Kurtzig starts a part-time, software programming business out of her home to keep busy. A client asks for a resource management program that Kurtzig realizes could have much wider applications, and she capitalizes on it by hiring staff and building additional applications. Her company, ASK Computers, attracts no interest from venture capitalists so she expands with her own money. A few years later, she becomes the first woman to take a technology company public.
-
+Sandra has an eye for spotting gaps in the market and growing them to large audiences.
