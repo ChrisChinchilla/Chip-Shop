@@ -1,28 +1,29 @@
 ---
-title:  Philip Don Estridge
-realtitle:  Philip Don Estridge
-cardtype: 'personality'
-personalitytype: null
-image: estridge_donald3.gif
-imageattribution: Mjuarez 
-imagelicense: Fair use
-imagelink: https://en.wikipedia.org/wiki/Philip_Don_Estridge#/media/File:DonEstridge.png
+title: Philip Don Estridge
+realtitle: Philip Don Estridge
+cardtype: personality
+personalitytype: giant
+image: philip_don_estridge.gif
+imageattribution: The History of Computing
+imagelicense: Fair Use
+imagelink: 'https://en.wikipedia.org/wiki/Philip_Don_Estridge#/media/File:DonEstridge.png'
 staffcost: 2
-qualitycost: 3
-rdcost: 2
+qualitycost: null
+rdcost: null
 marketingcost: null
-longevitycost: null
-moneycost: null
+longevitycost: 2
+moneycost: 4
 loyaltycost: null
 specialcost: null
-loyaltyscore: 
-profitscore: 
-profitlength: 
-longevityscore: 
+loyaltyscore: 3
+profitscore: null
+profitlength: null
+longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: null
 approved: 'N'
-concepts: List of concepts associated with this card
+concepts: 'search_ibm_pc, all_reduce_half'
 ---
 
+Philip is a product manager with an engineering background who believes that third-parties are the key to low cost production and mainstream success.
