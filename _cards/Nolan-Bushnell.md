@@ -1,30 +1,29 @@
 ---
 title: Nolan Bushnell
 realtitle: Nolan Bushnell
-cardtype: 'personality'
-
-personalitytype: null
-image: Nolan_Bushnell_2013.jpg
-imageattribution: Tech Cocktail
-imagelicense: CC by SA 2.0
-imagelink: https://en.wikipedia.org/wiki/Nolan_Bushnell#/media/File:Nolan_Bushnell_2013.jpg
-staffcost: 
-qualitycost: 
-rdcost: 
+cardtype: personality
+personalitytype: giant
+image: nolan_bushnell.jpg
+imageattribution: null
+imagelicense: null
+imagelink: 'http://www.destructoid.com/retrose-tinted-chuck-e-cheese-s-95336.phtml'
+staffcost: 2
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 
-profitscore: 
-profitlength: 
-longevityscore: 
+loyaltyscore: null
+profitscore: null
+profitlength: null
+longevityscore: null
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
+legal: null
 approved: 'N'
 concepts: List of concepts associated with this card
 ---
 
-Co-founder of Atari
+Nolan is an engineer and entrepeneur
