@@ -6,14 +6,14 @@ image: stock-board.jpg
 imageattribution: Katrina.Tuliao
 imagelicense: CC BY 2.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg'
-staffcost: 1 per turn
+staffcost: 2
 longevitycost: 4
-moneycost: 5
-concepts: hold
-loyaltyscore: -1
-profitscore: 3/4 of current total
-profitlength: 2
-specialcost: If you are not able to maintain the one staff resource per turn then you are delisted and lose 1 point of Longevity and Loyalty.
+moneycost: 4
+concepts: 'optional, resources_needed, maintenance'
+loyaltyscore: '-1 / -1'
+longevityscore: 0 / -1
+profitscore: 3/4 (Total)
+profitlength: ∞
 approved: 'Y'
 ---
 
