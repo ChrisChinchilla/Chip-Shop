@@ -22,7 +22,7 @@ longevityscore: 4
 rdscore: 2
 specialscore: null
 legal: null
-approved: 'N'
+approved: 'Y'
 yearofrelease: null
 originalprice: null
 concepts: 'if_genius_engineer, search_macintosh, search_lisa, search_next_computer, free'

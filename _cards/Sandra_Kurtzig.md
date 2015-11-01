@@ -22,7 +22,7 @@ longevityscore: 3
 rdscore: null
 specialscore: null
 legal: null
-approved: 'N'
+approved: 'Y'
 concepts: 'search_engineering_expert,free'
 ---
 

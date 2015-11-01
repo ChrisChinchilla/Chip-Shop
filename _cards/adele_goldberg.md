@@ -22,7 +22,7 @@ longevityscore: null
 rdscore: 4
 specialscore: null
 legal: null
-approved: 'N'
+approved: 'Y'
 concepts: 'search_macintosh, rd_reduce_2'
 ---
 

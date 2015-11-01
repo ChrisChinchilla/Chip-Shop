@@ -22,7 +22,7 @@ longevityscore: 4
 rdscore: 2
 specialscore: null
 legal: null
-approved: 'N'
+approved: 'Y'
 concepts: 'choice_test, allplayers, optional'
 ---
 
