@@ -25,7 +25,7 @@ legal: null
 approved: 'N'
 yearofrelease: null
 originalprice: null
-concepts: 'if_genius_engineer, search_macintosh, search_lisa, search_next_computer'
+concepts: 'if_genius_engineer, search_macintosh, search_lisa, search_next_computer, free'
 ---
 
 Steve is an entrepreneur, opinionated, single focussed and an expert at motivating those around him to do what he wants.
