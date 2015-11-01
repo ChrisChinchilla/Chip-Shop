@@ -1,13 +1,13 @@
 ---
 title: Women underrepresented in senior positions
 realtitle: Women underrepresented in senior positions
-cardtype: 'event'
-hardwaretype: '
+cardtype: event
+hardwaretype: null
 personalitytype: null
 image: 2000px-Woman-power_emblem.svg.png
 imageattribution: Anonmoos
 imagelicense: public domain
-imagelink: https://en.wikipedia.org/wiki/Feminism#/media/File:Woman-power_emblem.svg
+imagelink: 'https://en.wikipedia.org/wiki/Feminism#/media/File:Woman-power_emblem.svg'
 staffcost: 2
 qualitycost: 3
 rdcost: 2

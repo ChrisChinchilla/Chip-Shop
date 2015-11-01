@@ -1,12 +1,12 @@
 ---
-title: You are invited to Bubbles the chimp's birthday party at Michael Jackson's Neverland
-realtitle: You are invited to Bubbles the chimp's birthday party at Michael Jackson's Neverland
-cardtype: 'event'
+title: "You are invited to Bubbles the chimp's birthday party at Michael Jackson's Neverland"
+realtitle: "You are invited to Bubbles the chimp's birthday party at Michael Jackson's Neverland"
+cardtype: event
 personalitytype: null
 image: Chimpanzee.jpg
 imageattribution: snowyowls
 imagelicense: SA.2.0
-imagelink: https://upload.wikimedia.org/wikipedia/commons/e/eb/Chimpanzee.jpg
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Chimpanzee.jpg'
 staffcost: 2
 qualitycost: 3
 rdcost: 2

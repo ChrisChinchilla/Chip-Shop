@@ -1,12 +1,12 @@
 ---
 title: You are accused of copyright infringement
 realtitle: You are accused of copyright infringement
-cardtype: 'event'
+cardtype: event
 personalitytype: null
 image: 2000px-Copyright.svg.png
 imageattribution: unknown
 imagelicense: public domain
-imagelink: https://en.wikipedia.org/wiki/Copyright#/media/File:Copyright.svg
+imagelink: 'https://en.wikipedia.org/wiki/Copyright#/media/File:Copyright.svg'
 staffcost: 2
 qualitycost: 3
 rdcost: 2

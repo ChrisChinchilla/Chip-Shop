@@ -1,12 +1,12 @@
 ---
 title: You supply computers to the New York stock exchange
 realtitle: You supply computers to the New York stock exchange
-cardtype: 'event'
+cardtype: event
 personalitytype: null
 image: NYSE127.jpg
 imageattribution: Ryan Lawler
 imagelicense: public domain
-imagelink: https://en.wikipedia.org/wiki/New_York_Stock_Exchange#/media/File:NYSE127.jpg
+imagelink: 'https://en.wikipedia.org/wiki/New_York_Stock_Exchange#/media/File:NYSE127.jpg'
 staffcost: 2
 qualitycost: 3
 rdcost: 2

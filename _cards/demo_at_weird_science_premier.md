@@ -1,12 +1,12 @@
 ---
 title: You provide a computer demonstration to the media at the premiere of the hit movie Weird Science. Orders fly in...
 realtitle: You provide a computer demonstration to the media at the premiere of the hit movie Weird Science. Orders fly in...
-cardtype: 'event'
+cardtype: event
 hardwaretype: 'computer '
 image: Great_Balls_of_Lightning.jpg
 imageattribution: Joe Thomissen
 imagelicense: SA 3.0
-imagelink: https://en.wikipedia.org/wiki/Ball_lightning#/media/File:Great_Balls_of_Lightning.jpg
+imagelink: 'https://en.wikipedia.org/wiki/Ball_lightning#/media/File:Great_Balls_of_Lightning.jpg'
 staffcost: 2
 qualitycost: 3
 rdcost: 2

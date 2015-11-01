@@ -1,12 +1,12 @@
 ---
 title: Your best developer is diagnosed with AIDS
 realtitle: Your best developer is diagnosed with AIDS
-cardtype: 'event'
+cardtype: event
 personalitytype: null
 image: World_Aids_Day_Ribbon.png
-imageattribution: ChristianHeldt 
+imageattribution: ChristianHeldt
 imagelicense: public domain
-imagelink: https://upload.wikimedia.org/wikipedia/commons/e/e6/World_Aids_Day_Ribbon.png
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/e/e6/World_Aids_Day_Ribbon.png'
 staffcost: 2
 qualitycost: 3
 rdcost: 2
@@ -29,4 +29,3 @@ concepts: List of concepts associated with this card
 ---
 
 Your best developer is diagnosed with AIDS. He dies 6 months later of complications caused by the virus.
-
