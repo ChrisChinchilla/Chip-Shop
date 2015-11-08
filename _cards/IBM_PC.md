@@ -11,6 +11,10 @@ staffcost: 5
 qualitycost: 4
 rdcost: 5
 marketingcost: 6
+loyaltyscore: 3
+profitscore: 6
+profitlength: ∞
+longevityscore: 5
 legal: IBM is Copyright the IBM Corporation
 approved: 'Y'
 yearofrelease: 1981

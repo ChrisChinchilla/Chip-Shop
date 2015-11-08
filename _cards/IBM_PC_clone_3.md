@@ -1,0 +1,25 @@
+---
+title: IBM PC Clone
+realtitle: IBM PC Clone
+cardtype: product
+hardwaretype: computer
+image: null
+imageattribution: null
+imagelicense: null
+imagelink: null
+staffcost: 4
+qualitycost: 5
+rdcost: 2
+marketingcost: 3
+loyaltyscore: 3
+profitscore: 3
+profitlength: 3
+longevityscore: 3
+legal: null
+approved: 'Y'
+yearofrelease: 1983
+originalprice: $3000
+concepts: ibm_pc_clone
+---
+
+The IBM PC 'clone' or 'compatible', more tbc.
