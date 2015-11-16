@@ -68,7 +68,7 @@ Each turn consists of 6 short phases, these happen with all players undertaking 
 6. Build products and adjust scores
 
 ### Receive money for successful products (Not in 1st turn)
-In this phase players receive money for any products already built. Everything in Chip Shop needs money. Selling products makes money and it's spend on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
+In this phase players receive money for any products already built, remove one pile of money from the card and add it to your bank account space. Everything in Chip Shop needs money. Selling products makes money and it's spent on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
 
 > Jane built the [Atari 5200](cards/Atari_5200) last turn and so receives 4 money. She intends to build a [control pad](cards/Control_pad) accessory to attach the console and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
@@ -125,9 +125,15 @@ Accessory products are always attached to an exisiting non-accessory product. Ea
 Proportional costs and scores for accessories (i.e costs and scores indicated as a fraction value) are always a proportion of the product it is attached to.
 
 ### Build products and adjust scores
-If players have products in production that can be built, they are built in this phase. In turn order players should move the product card from their factory into the public playing area. Scores are adjusted, but any revenue the product brings doesn't occur until the beginning of the next turn.
+If players have products in production that can be built, they are built in this phase.
 
-> Following from the previous example, Jane successfully builds a [control pad](cards/Control_pad) and attaches it to her [Atari 5200](cards/Atari_5200). The profit score for the Atari 5200 is four per turn for two turns, thus the control pad attached to it gains one profit (a quarter of 4 is 1) per turn for as long as the Atari 5200 remains in play.
+In turn order players take the following steps:
+
+1. Move the product card from their factory into the public playing area.
+2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
+3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
+
+> **UPDATE** - Following from the previous example, Jane successfully builds a [control pad](cards/Control_pad) and attaches it to her [Atari 5200](cards/Atari_5200). The profit score for the Atari 5200 is four per turn for two turns, thus the control pad attached to it gains one profit (a quarter of 4 is 1) per turn for as long as the Atari 5200 remains in play.
 
 # Ending the game
 After ten turns the game is over!
