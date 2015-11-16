@@ -3,7 +3,7 @@ title: Bill Gates
 realtitle: Bill Gates
 cardtype: personality
 personalitytype: giant
-image: bill_gates.jpg
+image: bill-gates.jpg
 imageattribution: Esther Dyson
 imagelicense: CC BY-NC 2.0
 imagelink: 'https://www.flickr.com/photos/edyson/4929529633'
