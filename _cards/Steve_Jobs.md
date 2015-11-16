@@ -3,7 +3,7 @@ title: Steve Jobs
 realtitle: Steve Jobs
 cardtype: personality
 personalitytype: null
-image: steve_jobs.jpg
+image: steve-jobs.jpg
 imageattribution: null
 imagelicense: null
 imagelink: null
