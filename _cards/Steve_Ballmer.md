@@ -1,9 +1,9 @@
 ---
 title: Steve Ballmer
 realtitle: Steve Ballmer
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: giant
+stafftype: giant
 image: steve-ballmer.jpg
 imageattribution: Circa
 imagelicense: '2015 © CIRCA 1605, INC'

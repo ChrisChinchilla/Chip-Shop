@@ -1,8 +1,8 @@
 ---
 title: Jack Tramiel
 realtitle: Jack Tramiel
-cardtype: personality
-personalitytype: giant
+cardtype: staff
+stafftype: giant
 image: jack-tramiel.jpg
 imageattribution: Commodore
 imagelicense: Commodore

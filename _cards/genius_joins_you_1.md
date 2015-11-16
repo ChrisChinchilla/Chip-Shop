@@ -8,7 +8,7 @@ imagelicense: null
 imagelink: null
 longevityscore: 4
 specialscore: null
-concepts: 'immediate, optional, search_personality_genius, resourcesneeded'
+concepts: 'immediate, optional, search_staff_genius, resourcesneeded'
 approved: 'Y'
 ---
 

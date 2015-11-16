@@ -3,7 +3,7 @@ title: Military Contract
 realtitle: Military Contract
 cardtype: event
 hardwaretype: null
-personalitytype: null
+stafftype: null
 image: military-contract.jpg
 imageattribution: 'U.S. Air Force - ID:DFSC8503352'
 imagelicense: Public Domain

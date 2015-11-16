@@ -1,9 +1,9 @@
 ---
 title: John Scully
 realtitle: John Scully
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: giant
+stafftype: giant
 image: john-sculley.jpg
 imageattribution: Inc.com
 imagelicense: © Mansueto Ventures

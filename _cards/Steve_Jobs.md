@@ -1,8 +1,8 @@
 ---
 title: Steve Jobs
 realtitle: Steve Jobs
-cardtype: personality
-personalitytype: null
+cardtype: staff
+stafftype: null
 image: steve-jobs.jpg
 imageattribution: null
 imagelicense: null

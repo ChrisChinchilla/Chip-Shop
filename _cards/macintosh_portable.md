@@ -3,7 +3,7 @@ title: Macintosh Portable
 realtitle: Macintosh Portable
 cardtype: product
 hardwaretype: computer
-personalitytype: null
+stafftype: null
 image: macintosh-portable.jpg
 imageattribution: Rama
 imagelicense: SA 2.0 fr

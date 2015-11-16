@@ -1,9 +1,10 @@
 ---
 title: Sandra Kurtzig
 realtitle: Sandra Kurtzig
-cardtype: personality
-personalitytype: giant
-image: null
+cardtype: staff
+stafftype: giant
+image: test.png
+
 imageattribution: null
 imagelicense: null
 imagelink: null

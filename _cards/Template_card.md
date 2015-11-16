@@ -1,9 +1,9 @@
 ---
 title: Template Card
 realtitle: Template Card
-cardtype: 'product, event or personality'
+cardtype: 'product, event or staff'
 hardwaretype: 'console, computer or accessory'
-personalitytype: null
+stafftype: null
 image: test.png
 imageattribution: Name of person or company
 imagelicense: License type

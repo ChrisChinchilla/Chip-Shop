@@ -3,7 +3,7 @@ title: Stock Market Crash
 realtitle: Stock Market Crash
 cardtype: event
 hardwaretype: null
-personalitytype: null
+stafftype: null
 image: stock-market-crash.png
 imageattribution: autopilot
 imagelicense: SA 3.0

@@ -1,9 +1,9 @@
 ---
 title: Engineering Expert
 realtitle: Engineering Expert
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: expert
+stafftype: expert
 image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
