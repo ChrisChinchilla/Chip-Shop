@@ -3,7 +3,7 @@ title: Atari 7800 Card
 realtitle: Atari 7800 Card
 cardtype: product
 hardwaretype: console
-personalitytype: null
+stafftype: null
 image: atari-7800.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0

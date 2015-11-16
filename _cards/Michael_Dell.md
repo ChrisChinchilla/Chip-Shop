@@ -1,9 +1,9 @@
 ---
 title: Michael Dell
 realtitle: Michael Dell
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: giant
+stafftype: giant
 image: michael-dell.jpg
 imageattribution: statesman.com
 imagelicense: © statesman.com

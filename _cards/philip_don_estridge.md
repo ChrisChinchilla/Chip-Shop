@@ -1,9 +1,9 @@
 ---
 title: Philip Don Estridge
 realtitle: Philip Don Estridge
-cardtype: personality
-personalitytype: giant
-image: philip_don_estridge.gif
+cardtype: staff
+stafftype: giant
+image: philip-don-estridge.gif
 imageattribution: The History of Computing
 imagelicense: Fair Use
 imagelink: 'https://en.wikipedia.org/wiki/Philip_Don_Estridge#/media/File:DonEstridge.png'

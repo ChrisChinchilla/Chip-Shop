@@ -29,9 +29,9 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 
 `realtitle`: We attempt to get clearance to use the real names for everything in Chip Shop, in the rare case we can't, add what this card is inspired by in real life here. This field is not shown.
 
-`cardtype`: There are three card types - product, event and personality. Choose one and enter that value.
+`cardtype`: There are three card types - product, event and staff. Choose one and enter that value.
 
-`personalitytype`: If this is a personality then there are three sub-types of personality - expert, genius and giant. Choose one and enter that value.
+`stafftype`: If this is a staff then there are three sub-types of staff - expert, genius and giant. Choose one and enter that value.
 
 `hardwaretype`: If this is a product is it a _console_, _computer_ or _accessory_?
 
