@@ -1,5 +1,5 @@
 ---
-title: Template Income
+title: Licensing Deal
 cardtype: income
 image: test.png
 imageattribution: Name of person or company
