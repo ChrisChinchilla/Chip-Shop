@@ -29,6 +29,7 @@ defaults:
       region: USA
       era: 80s
       approved: N
+      image: test.png
 
 picture:
   source: /assets/images/cards

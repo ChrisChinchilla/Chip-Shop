@@ -1,9 +1,9 @@
 ---
 title: Adele Goldberg
 realtitle: Adele Goldberg
-cardtype: personality
-personalitytype: genius
-image: null
+cardtype: staff
+stafftype: genius
+image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null

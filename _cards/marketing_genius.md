@@ -1,9 +1,9 @@
 ---
 title: Marketing Genius
 realtitle: Marketing Genius
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: genius
+stafftype: genius
 image: test.png
 imageattribution: Name of person or company
 imagelicense: License type

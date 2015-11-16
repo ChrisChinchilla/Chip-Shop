@@ -1,9 +1,9 @@
 ---
 title: Jay Miner
 realtitle: Jay Miner
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: giant
+stafftype: giant
 image: jay-miner.jpg
 imageattribution: Copyright 1990 Michael C. Battilana and Cloanto Italia srl
 imagelicense: CC BY 2.0

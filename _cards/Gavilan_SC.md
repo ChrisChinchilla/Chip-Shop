@@ -3,7 +3,7 @@ title: Gavilan SC
 realtitle: Gavilan
 cardtype: product
 hardwaretype: computer
-personalitytype: null
+stafftype: null
 image: gavilan-cs.jpg
 imageattribution: Vintagecomputer.net
 imagelicense: '© Degnan, Co. 2001 - 2015'

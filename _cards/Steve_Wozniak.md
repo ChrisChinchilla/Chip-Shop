@@ -1,9 +1,9 @@
 ---
 title: Steven Wosaneck
 realtitle: Steve Wozniak
-cardtype: personality
+cardtype: staff
 hardwaretype: null
-personalitytype: giant
+stafftype: giant
 image: steve-wozniak.jpg
 imageattribution: Alan Light
 imagelicense: CC BY 2.0

@@ -30,7 +30,7 @@ After ten years / rounds scores are totalled and the player with the highest sco
 # Components
 - 45 Product cards
 - 60 Event cards
-- 30 Personality cards
+- 30 Staff cards
 - 6 player factories
 - 6 player screens
 - 24 pegs
@@ -76,7 +76,7 @@ In this phase players receive money for any products already built. Everything i
 Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products. Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).
 
 #### Staff
-Staff are needed to make most things happen, but they are expensive and money and other resources are needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
+Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
 
 Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
@@ -102,11 +102,11 @@ If an event card is [public](concepts/public), the drawing player must show it t
 - If an event card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish.
 
 ### Draw and bring personalities into play
-These are special individuals who players may want to recruit to their company. Personalities may also decide to join a players company at their own free will. Personalities all have specialties, skills and traits that will positively affect statistics and chances of winning the game. Every player draws in player order a number of personality cards determined by their current _Quality_ plus _Loyalty_ scores, divided by two (rounded down).
+These are special individuals who players may want to recruit to their company. Personalities may also decide to join a players company at their own free will. Personalities all have specialties, skills and traits that will positively affect statistics and chances of winning the game. Every player draws in player order a number of staff cards determined by their current _Quality_ plus _Loyalty_ scores, divided by two (rounded down).
 
-If a player can 'play' a personality, i.e. They have the requisite costs and prerequisites that a personality demands, that personality enters play immediately and their effects enacted. If the personality is [public](concepts/public), they are immediately made public. Any personality cards drawn that a player can't or doesn't want to bring into play are added back the top of the personality card deck before the next player draws.
+If a player can 'play' a staff card, i.e. They have the requisite costs and prerequisites required, that staff card enters play immediately and their effects enacted. If the staff card is [public](concepts/public), they are immediately made public. Any staff cards drawn that a player can't or doesn't want to bring into play are added back the top of the staff card deck before the next player draws.
 
-> John's current _Quality_ score is four and _Loyalty_ score is five, thus John draws four personality cards (9 divided by 2, rounded down to 4). He can afford to employ one personality and replaces the remaing three on the top of the deck.
+> John's current _Quality_ score is four and _Loyalty_ score is five, thus John draws four staff cards (9 divided by 2, rounded down to 4). He can afford to employ one staff and replaces the remaing three on the top of the deck.
 
 ### Draw products
 Products are the main point of Chip Shop and players must produce them during the game to stand any chance of winning. Some are easy and can be completed quickly, others are harder and will require more time and resources. Each will require a combination of cost values and result in a certain change in scores.
@@ -134,7 +134,7 @@ After ten turns the game is over!
 
 If at the end of the final build phase of the final turn a player has products still in production or personalities with requirements yet to be met then there are negative affects to scores.
 
-For each product or personality a player discards they lose half of the loyalty and longevity scores of each card.
+For each product or staff a player discards they lose half of the loyalty and longevity scores of each card.
 
 After this all scores are combined, any special cards considered and applied and the player with the most points wins.
 

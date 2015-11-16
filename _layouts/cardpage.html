@@ -46,10 +46,10 @@ layout: default
     {% endfor %}
   </div>
 
-  {% assign approvedPersonalityCards = site.cards | where:"approved", "Y" | where:"cardtype", "personality" %}
-  <h2>Personalities</h2>
+  {% assign approvedStaffCards = site.cards | where:"approved", "Y" | where:"cardtype", "staff" %}
+  <h2>Staff</h2>
   <div class="grid">
-    {% for card in approvedPersonalityCards %}
+    {% for card in approvedStaffCards %}
     <div class="col">
       {% if card.image %}
       <a href="{{card.url}}">

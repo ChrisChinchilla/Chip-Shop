@@ -3,7 +3,7 @@ title: Kaypro II
 realtitle: Kaypro II
 cardtype: product
 hardwaretype: computer
-personalitytype: null
+stafftype: null
 image: kaypro2.jpg
 imageattribution: Four Dots Blog
 imagelicense: null

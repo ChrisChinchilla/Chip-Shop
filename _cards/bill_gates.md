@@ -1,8 +1,8 @@
 ---
 title: Bill Gates
 realtitle: Bill Gates
-cardtype: personality
-personalitytype: giant
+cardtype: staff
+stafftype: giant
 image: bill-gates.jpg
 imageattribution: Esther Dyson
 imagelicense: CC BY-NC 2.0
