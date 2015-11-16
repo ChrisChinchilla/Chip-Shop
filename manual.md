@@ -68,7 +68,7 @@ Each turn consists of 6 short phases, these happen with all players undertaking 
 6. Build products and adjust scores
 
 ### Receive money for successful products (Not in 1st turn)
-In this phase players receive money for any products already built. Everything in Chip Shop needs money. Selling products makes money and it's spend on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
+In this phase players receive money for any products already built. Everything in Chip Shop needs money. Selling products makes money and it's spend on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
 
 > Jane built the [Atari 5200](cards/Atari_5200) last turn and so receives 4 money. She intends to build a [control pad](cards/Control_pad) accessory to attach the console and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
