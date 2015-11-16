@@ -5,7 +5,7 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-cardtype: event
+cardtype: income
 longevitycost: 4
 profitscore: currentvalue x 2 / -2
 concepts: 'optional, perturn'

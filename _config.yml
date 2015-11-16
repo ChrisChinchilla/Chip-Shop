@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: none
-comments: true
+comments: false
 
 collections:
   cards:
@@ -19,11 +19,21 @@ collections:
   concepts:
     output: true
     layout: concept
+  income:
+    output: true
 
 defaults:
   -
     scope:
       type: cards
+    values:
+      layout: card
+      region: USA
+      era: 80s
+      approved: N
+      image: test.png
+    scope:
+      type: income
     values:
       layout: card
       region: USA
