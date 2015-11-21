@@ -1,6 +1,6 @@
 ---
 layout: concept
-title: Mutual Benefit
+title: Mutual Benefit X
 ---
 
-First value is original player playing this card affects, second is player building this product or playing event card etc...
+Indicates that a card gives the indicated score(s) to all players involved.

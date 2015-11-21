@@ -11,11 +11,11 @@ staffcost: 2
 rdcost: 2
 qualitycost: 1
 marketingcost: 1
-loyaltyscore: '1, 1'
-profitscore: '1/5, 1/4'
+loyaltyscore: 1
+profitscore: 1/4
 profitlength: 2
 approved: 'Y'
-concepts: 'search_discard_console, accessory, mutualbenefit'
+concepts: 'search_discard_console, accessory, mutualbenefit_loyaltyscore, mutualbenefit_profitscore'
 ---
 
 Console adapters make old games available to play on newer consoles.

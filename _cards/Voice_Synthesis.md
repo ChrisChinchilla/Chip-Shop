@@ -12,7 +12,6 @@ rdcost: 3
 marketingcost: 3
 loyaltyscore: 1
 profitscore: 2
-profitlength: 1
 longevityscore: 1
 specialscore: Console Accessory
 legal: 'The Intellivoice is a registered Trademarks of Mattel, Inc.'

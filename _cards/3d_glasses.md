@@ -11,10 +11,8 @@ staffcost: 1
 rdcost: 2
 marketingcost: 3
 qualitycost: 1
-specialcost: Attach to console product
 loyaltyscore: 1
 profitscore: 2
-profitlength: 2
 longevityscore: 2
 legal: null
 approved: 'Y'

@@ -12,6 +12,7 @@ rdcost: 1
 qualitycost: 1
 marketingcost: 1
 profitscore: 1/4
+profitlength: '+1'
 concepts: choice_console
 approved: 'Y'
 ---

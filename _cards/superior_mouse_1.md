@@ -7,7 +7,7 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 2
+staffcost: 1
 rdcost: 1
 qualitycost: 2
 marketingcost: 1
