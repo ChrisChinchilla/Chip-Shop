@@ -1,10 +1,10 @@
 ---
 title: Venture Capital
 cardtype: income
-image: test.png
-imageattribution: Name of person or company
-imagelicense: License type
-imagelink: Where did this image come from?
+image: vc.png
+imageattribution: Thomson Reuters
+imagelicense: © Thomson Reuters
+imagelink: 'http://reactionwheel.net/2015/01/80s-vc.html'
 staffcost: null
 qualitycost: null
 rdcost: null
