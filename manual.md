@@ -61,7 +61,7 @@ Use your favorite method for randomly selecting a starting player and play lasts
 ## Phases per Turn
 Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
 1. Receive money for successful products (Not in 1st turn)
-2. Buy and allocate resources to costs
+2. Buy and allocate resources or draw income
 3. Draw and play events
 4. Draw and bring personalities into play
 5. Draw products
@@ -72,8 +72,11 @@ In this phase players receive money for any products already built, remove one p
 
 > Jane built the [Atari 5200](cards/Atari_5200) last turn and so receives 4 money. She intends to build a [control pad](cards/Control_pad) accessory to attach the console and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
-### Buy and allocate resources to costs
+### Buy and allocate resources to costs or draw income
 Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products. Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).
+
+#### Draw income
+There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
 
 #### Staff
 Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
