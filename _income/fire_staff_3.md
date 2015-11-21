@@ -13,16 +13,16 @@ longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: null
+loyaltyscore: -2
 profitscore: null
 profitlength: null
 longevityscore: null
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
+legal: null
+approved: 'Y'
 yearofrelease: 198x
-concepts: List of concepts associated with this card
+concepts: 'staff_loss, choice'
 ---
 
-Flavour Text.
+People are expensive and desperate times call for desperate measures.
