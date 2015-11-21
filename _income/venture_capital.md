@@ -5,24 +5,24 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 2
-qualitycost: 3
-rdcost: 2
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: null
+moneycost: 1/5
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
-profitscore: 2
-profitlength: 2
-longevityscore: 1
+loyaltyscore: 3
+profitscore: loyaltyscore x longevityscore
+profitlength: null
+longevityscore: 2
 rdscore: null
 specialscore: null
-legal: Blah is a Trademark of Blah Inc
-approved: 'N'
+legal: null
+approved: 'Y'
 yearofrelease: 198x
-concepts: List of concepts associated with this card
+concepts: 'cash_injection, minimum_longevity, minimum_loyalty, moneycost_perturn'
 ---
 
-Flavour Text.
+Venture capital provides you with the money needed to get great ideas of the ground. Be careful, they want results!
