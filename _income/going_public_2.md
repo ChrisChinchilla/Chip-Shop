@@ -1,7 +1,7 @@
 ---
 title: Going public
 realtitle: Going public
-cardtype: event
+cardtype: income
 image: stock-board.jpg
 imageattribution: Katrina.Tuliao
 imagelicense: CC BY 2.0

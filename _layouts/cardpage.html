@@ -62,4 +62,22 @@ layout: default
     </div>
     {% endfor %}
   </div>
+
+  {% assign approvedIncomeCards = site.income | where:"approved", "Y" | where:"cardtype", "income" %}
+  <h2>Income</h2>
+  <div class="grid">
+    {% for card in approvedIncomeCards %}
+    <div class="col">
+      {% if card.image %}
+      <a href="{{card.url}}">
+        {% picture listings {{card.image}} alt="{{card.title}}" %}
+      </a>
+      {% endif %}
+      <p>
+        <a href="{{card.url}}">{{ card.title }}</a>
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+
 </div>

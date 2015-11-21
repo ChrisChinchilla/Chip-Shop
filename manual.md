@@ -28,9 +28,10 @@ During the course of the game certain personalities and specialists may be attra
 After ten years / rounds scores are totalled and the player with the highest score wins.
 
 # Components
-- 45 Product cards
-- 60 Event cards
-- 30 Staff cards
+- x Product cards
+- x Event cards
+- x Staff cards
+- 30 Income Stream Cards
 - 6 player factories
 - 6 player screens
 - 24 pegs
@@ -61,7 +62,7 @@ Use your favorite method for randomly selecting a starting player and play lasts
 ## Phases per Turn
 Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
 1. Receive money for successful products (Not in 1st turn)
-2. Buy and allocate resources to costs
+2. Buy and allocate resources or draw income
 3. Draw and play events
 4. Draw and bring personalities into play
 5. Draw products
@@ -72,8 +73,11 @@ In this phase players receive money for any products already built, remove one p
 
 > Jane built the [Atari 5200](cards/Atari_5200) last turn and so receives 4 money. She intends to build a [control pad](cards/Control_pad) accessory to attach the console and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
-### Buy and allocate resources to costs
+### Buy and allocate resources to costs or draw income
 Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products. Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).
+
+#### Draw income
+There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
 
 #### Staff
 Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
@@ -128,7 +132,6 @@ Proportional costs and scores for accessories (i.e costs and scores indicated as
 If players have products in production that can be built, they are built in this phase.
 
 In turn order players take the following steps:
-
 1. Move the product card from their factory into the public playing area.
 2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
 3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
@@ -141,6 +144,8 @@ After ten turns the game is over!
 If at the end of the final build phase of the final turn a player has products still in production or personalities with requirements yet to be met then there are negative affects to scores.
 
 For each product or staff a player discards they lose half of the loyalty and longevity scores of each card.
+
+For each outstanding loan, players lose five points of Longevity Score.
 
 After this all scores are combined, any special cards considered and applied and the player with the most points wins.
 
