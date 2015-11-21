@@ -128,7 +128,6 @@ Proportional costs and scores for accessories (i.e costs and scores indicated as
 If players have products in production that can be built, they are built in this phase.
 
 In turn order players take the following steps:
-
 1. Move the product card from their factory into the public playing area.
 2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
 3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
@@ -141,6 +140,8 @@ After ten turns the game is over!
 If at the end of the final build phase of the final turn a player has products still in production or personalities with requirements yet to be met then there are negative affects to scores.
 
 For each product or staff a player discards they lose half of the loyalty and longevity scores of each card.
+
+For each outstanding loan, players lose five points of Longevity Score.
 
 After this all scores are combined, any special cards considered and applied and the player with the most points wins.
 
