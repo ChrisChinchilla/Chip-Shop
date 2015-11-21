@@ -28,9 +28,10 @@ During the course of the game certain personalities and specialists may be attra
 After ten years / rounds scores are totalled and the player with the highest score wins.
 
 # Components
-- 45 Product cards
-- 60 Event cards
-- 30 Staff cards
+- x Product cards
+- x Event cards
+- x Staff cards
+- 30 Income Stream Cards
 - 6 player factories
 - 6 player screens
 - 24 pegs
