@@ -8,9 +8,9 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
+staffcost: null
 qualitycost: null
-rdcost: -1
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: 1
@@ -20,13 +20,13 @@ loyaltyscore: null
 profitscore: null
 profitlength: null
 longevityscore: null
-rdscore: null
+rdscore: 3
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, perproduct'
+concepts: 'choice, perproduct, rd_resourcegain'
 ---
 
 An Engineering expert has experience to draw upon to solve complex engineering decisions.
