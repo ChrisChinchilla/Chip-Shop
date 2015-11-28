@@ -9,10 +9,9 @@ imagelink: 'http://www.museumofintellectualproperty.org/exhibits/evolution_of_co
 staffcost: 2
 qualitycost: 2
 rdcost: 2
-specialcost: 'If any Apple products in play, reduce R&D by 1. Something to reflect law suit?'
 loyaltyscore: 1
 profitscore: 1
-profitlength: 3
+profitlength: null
 longevityscore: 2
 rdscore: null
 specialscore: null
@@ -20,6 +19,7 @@ legal: Franklin Ace 1000 is a Trademark of Saunders Acquisition Corp
 approved: 'Y'
 yearofrelease: 1983
 originalprice: $1349
+concepts: 'apple_clone, choice_test'
 ---
 
 The Franklin Ace 1000 is a clone of the Apple II that are nearly 100% compatible.

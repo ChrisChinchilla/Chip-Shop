@@ -10,14 +10,14 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Commodore-
 staffcost: 4
 qualitycost: 3
 rdcost: 3
-marketingcost: 5
+marketingcost: '+2'
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
 profitscore: 6
-profitlength: 4
+profitlength: null
 longevityscore: 6
 rdscore: null
 specialscore: null

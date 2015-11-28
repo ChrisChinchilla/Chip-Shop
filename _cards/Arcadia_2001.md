@@ -10,10 +10,10 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'
 staffcost: 3
 qualitycost: 3
 rdcost: 3
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 3
 profitscore: 5
-profitlength: 2
+profitlength: null
 legal: Emerson and Emerson Arcadia are registered Trademarks of Emerson Radio Corporation
 approved: 'Y'
 yearofrelease: 1982

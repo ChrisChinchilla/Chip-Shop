@@ -9,12 +9,12 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'
 staffcost: 6
 qualitycost: 4
 rdcost: 6
-marketingcost: 5
+marketingcost: '+2'
 loyaltyscore: 3
 profitscore: 2
-profitlength: 3
+profitlength: null
 longevityscore: 5
-legal: null
+legal: Lisa and Apple are trademarks of Apple Inc.
 yearofrelease: 'January 19, 1983'
 originalprice: $9995
 ---

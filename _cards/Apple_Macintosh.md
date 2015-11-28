@@ -7,13 +7,13 @@ image: applemac.png
 imageattribution: allaboutapple.com
 imagelicense: CC BY-SA 2.5 IT
 imagelink: 'https://en.wikipedia.org/wiki/File:Macintosh_128k_transparency.png'
-staffcost: 4 (-1)
+staffcost: 4
 qualitycost: 4
-rdcost: 6 (-1)
-marketingcost: 6
+rdcost: 6
+marketingcost: null
 loyaltyscore: 5
 profitscore: 4
-profitlength: ∞
+profitlength: null
 longevityscore: 7
 legal: Macintosh and Apple are trademarks of Apple Inc.
 approved: 'Y'
