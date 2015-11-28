@@ -88,7 +88,7 @@ The marketing value you assign to a product equals the amount of turns it will m
 
 **1 marketing resource = 1 turn (profitlength) of profit (profitscore)**
 
-Some more groundbreaking or experimental products may have negative score values present next to the marketing cost (marketingcost), this indicates extra effort needed to sell an item to the public. Some products have a positive value next to the marketing cost (marketingcost) this indicates that the public are familar with the product idea and need less convicing to buy it.
+Some more groundbreaking or experimental products may have positive score values present next to the marketing cost (marketingcost), this indicates extra effort needed to sell an item to the public. Some products have a negative value next to the marketing cost (marketingcost) this indicates that the public are familar with the product idea and need less convicing to buy it.
 
 ##### Staff
 Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
