@@ -62,7 +62,7 @@ Use your favorite method for randomly selecting a starting player and play lasts
 ## Phases per Turn
 Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
 1. Receive money for successful products (Not in 1st turn)
-2. Buy and allocate resources or draw income
+2. Buy and allocate resources or use income stream
 3. Draw and play events
 4. Draw and bring personalities into play
 5. Draw products
@@ -73,27 +73,38 @@ In this phase players receive money for any products already built, remove one p
 
 > Jane built the [Atari 5200](cards/Atari_5200) last turn and so receives 4 money. She intends to build a [control pad](cards/Control_pad) accessory to attach the console and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
 
-### Buy and allocate resources to costs or draw income
-Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products. Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).
+### Buy and allocate resources to costs or use income stream
+**Unless affected by events or personalities, 1 resource of any kind = 1 money. Players need to plan for what they think they will need for products in production and potential future products.
 
-#### Draw income
-There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
+Players then allocate these resources to the accumulative costs required for products in [production](concepts/inproduction).**
 
-#### Staff
+#### Buy and Allocate Resources
+Each product and personality and event will require a certain amount of resources indicated on the card. Resources are also used for other aspects of the game.
+
+##### Marketing
+There's no point having a great idea and product if no one hears about it. Marketing resources represent an investment in the promotion of a product. It can also represent how familiar people are with the concepts behind a product.
+
+The marketing value you assign to a product equals the amount of turns it will make profit for, i.e.
+
+**1 marketing resource = 1 turn (profitlength) of profit (profitscore)**
+
+Some more groundbreaking or experimental products may have positive score values present next to the marketing cost (marketingcost), this indicates extra effort needed to sell an item to the public. Some products have a negative value next to the marketing cost (marketingcost) this indicates that the public are familar with the product idea and need less convicing to buy it.
+
+##### Staff
 Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
 
 Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
-#### Quality
+##### Quality
 Products require a certain level of quality to balance potential profit and customer satisfaction. Quality products will result in a greater return but require a far greater investment. Shoddier products are quicker and cheaper to make but will result in lower loyalty and longevity.
 
-#### Research & Development
+##### Research & Development
 Good ideas aren't (always) conjured out of thin air. They take months and years of painstaking research and testing to perfect. The R&D score dictates how many cards a player can draw from the product deck every turn.
 
-#### Marketing
-There's no point having a great idea and product if no one hears about it. Marketing resources represent an investment in the promotion of a product. It can also represent how familiar people are with the concepts behind a product. A higher marketing value indicates the need to undertake more work to convince people they need it.
-
 > Following from the previous phase, Jane intends to build a [control pad](cards/Control_pad) accessory to attach the [Atari 5200](cards/Atari_5200) and thus buys one Staff, R&D and Marketing resource, saving one money for future use.
+
+#### Draw income
+There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
 
 ### Draw and play events
 Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.

@@ -10,10 +10,10 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/3/3f/IMB_PC-IMG_7271.
 staffcost: 5
 qualitycost: 4
 rdcost: 5
-marketingcost: 6
+marketingcost: '-1'
 loyaltyscore: 3
 profitscore: 6
-profitlength: ∞
+profitlength: null
 longevityscore: 5
 legal: IBM is Copyright the IBM Corporation
 approved: 'Y'

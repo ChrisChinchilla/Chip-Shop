@@ -11,19 +11,19 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_
 staffcost: 3
 qualitycost: 3
 rdcost: 3
-marketingcost: 3
+marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
 profitscore: 2
-profitlength: 2
+profitlength: null
 longevityscore: 2
 rdscore: null
 specialscore: null
 legal: The Macintosh is a Trademark of Apple Inc
-approved: 'N'
+approved: 'Y'
 yearofrelease: 1989
 originalprice: $6500
 concepts: null

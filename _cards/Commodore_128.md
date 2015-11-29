@@ -9,10 +9,10 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Commodore-128.png'
 staffcost: 4
 rdcost: 6
 qualitycost: 2
-marketingcost: 4
+marketingcost: null
 loyaltyscore: 6
 profitscore: 6
-profitlength: 4
+profitlength: null
 longevityscore: 4
 legal: 'Commodore and Commodore 128 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'

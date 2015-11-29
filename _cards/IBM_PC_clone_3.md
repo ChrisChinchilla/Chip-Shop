@@ -4,17 +4,16 @@ realtitle: IBM PC Clone
 cardtype: product
 hardwaretype: computer
 image: test.png
-
 imageattribution: null
 imagelicense: null
 imagelink: null
 staffcost: 4
 qualitycost: 5
 rdcost: 2
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 3
 profitscore: 3
-profitlength: 3
+profitlength: null
 longevityscore: 3
 legal: null
 approved: 'Y'

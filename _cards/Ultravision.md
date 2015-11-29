@@ -10,11 +10,11 @@ imagelink: atarimania.com
 staffcost: 2
 rdcost: 2
 qualitycost: 2
-marketingcost: 2
+marketingcost: '-1'
 loyaltyscore: 2
 longevityscore: 2
 profitscore: -2
-profitlength: 2
+profitlength: null
 legal: null
 approved: 'Y'
 yearofrelease: 1983

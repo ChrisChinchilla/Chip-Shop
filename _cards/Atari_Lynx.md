@@ -10,11 +10,11 @@ imagelink: 'https://en.wikipedia.org/wiki/Atari_Lynx#/media/File:Atari-Lynx-I-Ha
 staffcost: 3
 qualitycost: 4
 rdcost: 5
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 4
 profitscore: 3
 profitlength: 5
-longevityscore: 5
+longevityscore: null
 legal: 'Atari and Atari Lynx are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1989

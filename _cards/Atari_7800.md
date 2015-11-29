@@ -1,6 +1,6 @@
 ---
-title: Atari 7800 Card
-realtitle: Atari 7800 Card
+title: Atari 7800
+realtitle: Atari 7800
 cardtype: product
 hardwaretype: console
 stafftype: null
@@ -11,10 +11,10 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Atari-7800-Console-Set.png'
 staffcost: 3
 rdcost: 4
 qualitycost: 3
-marketingcost: 4
+marketingcost: null
 loyaltyscore: 3
 profitscore: 4
-profitlength: 5
+profitlength: null
 longevityscore: 4
 legal: 'Atari and Atari 7800 are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'

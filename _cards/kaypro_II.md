@@ -11,14 +11,14 @@ imagelink: 'http://www.potenziani.com/2013_05_01_archive.html'
 staffcost: 2
 qualitycost: 4
 rdcost: 3
-marketingcost: 2
+marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 4
 profitscore: 4
-profitlength: 2
+profitlength: null
 longevityscore: 1
 rdscore: null
 specialscore: null

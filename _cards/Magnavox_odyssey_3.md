@@ -8,10 +8,11 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey
 cardtype: product
 staffcost: 2
 rdcost: 3
+marketingcost: '+1'
 qualitycost: 2
 loyaltycost: 2
 profitscore: -2
-profitlength: 1
+profitlength: null
 longevityscore: 4
 legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips Corporation
 approved: 'Y'

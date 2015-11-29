@@ -10,10 +10,11 @@ imagelink: 'http://www.reddit.com/r/gaming/comments/1u1p5z/the_rarest_game_conso
 staffcost: 2
 rdcost: 3
 qualitycost: 3
+marketingcost: null
 loyaltyscore: 2
 longevityscore: 4
 profitscore: -2
-profitlength: 1
+profitlength: null
 approved: 'Y'
 yearofrelease: 1985
 originalprice: $2500

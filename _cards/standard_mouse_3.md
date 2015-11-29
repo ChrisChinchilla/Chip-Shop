@@ -9,7 +9,7 @@ imagelicense: License type
 imagelink: Where did this image come from?
 staffcost: 1
 rdcost: 1
-marketingcost: 1
+marketingcost: null
 qualitycost: 1
 profitscore: 1/5
 concepts: 'accessory, choicecomputer'

@@ -9,7 +9,7 @@ imagelink: null
 staffcost: 1
 rdcost: 1
 qualitycost: 1
-marketingcost: 2
+marketingcost: '+1'
 loyaltyscore: 2
 profitscore: 1/5
 approved: 'Y'
