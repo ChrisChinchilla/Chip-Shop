@@ -1,5 +1,10 @@
 #!/bin/bash
 
+bundle install
+bundle update
+
+jekyll build
+
 FILES=$(git diff --name-only HEAD HEAD~2)
 for filename in $FILES
 do
