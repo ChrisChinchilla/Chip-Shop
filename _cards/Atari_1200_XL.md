@@ -9,10 +9,10 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1200XL.jpg'
 staffcost: 3
 qualitycost: 3
-marketingcost: 3
+marketingcost: '+2'
 loyaltyscore: 4
 profitscore: 2
-profitlength: 1
+profitlength: null
 longevityscore: 1
 legal: 'Atari and Atari 1200XL are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'

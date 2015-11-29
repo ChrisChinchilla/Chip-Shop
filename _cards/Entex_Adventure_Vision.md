@@ -1,6 +1,6 @@
 ---
-title: Entex
-realtitle: Entex
+title: Entex Adventure Vision
+realtitle: Entex Adventure Vision
 cardtype: product
 image: entex-adventure-vision.png
 imageattribution: null
@@ -9,10 +9,10 @@ imagelink: null
 staffcost: 2
 rdcost: 3
 qualitycost: 2
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 2
 profitscore: 2
-profitlength: 1
+profitlength: null
 longevityscore: 2
 legal: null
 approved: 'Y'

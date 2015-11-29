@@ -9,10 +9,10 @@ imagelink: 'http://www.vintagecomputer.net/convergent/?sort=size'
 staffcost: 3
 rdcost: 3
 qualitycost: 2
-marketingcost: 2
+marketingcost: '-1'
 loyaltyscore: 2
 profitscore: 1
-profitlength: 2
+profitlength: null
 longevityscore: 2
 legal: null
 yearofrelease: 1982

@@ -9,11 +9,11 @@ imagelicense: Public domain
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Sega-Masters-Sys-3D-Glasses.jpg'
 staffcost: 1
 rdcost: 2
-marketingcost: 3
+marketingcost: -3
 qualitycost: 1
 loyaltyscore: 1
 profitscore: 2
-longevityscore: 2
+longevityscore: 3
 legal: null
 approved: 'Y'
 concepts: 'accessory, any_console_product'

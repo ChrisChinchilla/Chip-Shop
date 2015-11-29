@@ -10,7 +10,7 @@ imagelink: 'http://www.vectronicsappleworld.com/archives/vintage/0017.php'
 staffcost: 1
 rdcost: 1
 qualitycost: 2
-marketingcost: 1
+marketingcost: null
 profitscore: 1/4
 concepts: 'accessory, choicecomputer'
 approved: 'Y'

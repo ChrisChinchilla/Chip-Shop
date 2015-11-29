@@ -10,10 +10,10 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Amiga_1000DP.jpg'
 staffcost: 4
 rdcost: 6
 qualitycost: 4
-marketingcost: 4
+marketingcost: null
 loyaltyscore: 4
 profitscore: 4
-profitlength: 2
+profitlength: null
 longevityscore: 3
 legal: 'Amiga and Amiga 1000 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'

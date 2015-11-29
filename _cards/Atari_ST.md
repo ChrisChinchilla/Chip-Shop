@@ -10,10 +10,10 @@ imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg'
 staffcost: 3
 rdcost: 3
 qualitycost: 3
-marketingcost: 3
+marketingcost: '+2'
 loyaltyscore: 6
 profitscore: 5
-profitlength: 4
+profitlength: null
 longevityscore: 5
 legal: 'Atari and Atari ST are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
