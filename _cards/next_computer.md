@@ -10,19 +10,19 @@ imagelink: 'https://commons.wikimedia.org/wiki/File:First_Web_Server.jpg'
 staffcost: 2
 qualitycost: 3
 rdcost: 3
-marketingcost: 4
+marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 3
 profitscore: 2
-profitlength: 2
+profitlength: null
 longevityscore: 5
 rdscore: null
 specialscore: null
 legal: NeXT Computer and NeXT are Trademarks of Apple Inc
-approved: 'N'
+approved: 'Y'
 yearofrelease: 1988
 originalprice: $6500
 concepts: null

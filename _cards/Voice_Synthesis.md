@@ -9,9 +9,9 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Intellivoice.jpg'
 staffcost: 1
 rdcost: 3
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 1
-profitscore: 2
+profitscore: null
 longevityscore: 1
 specialscore: Console Accessory
 legal: 'The Intellivoice is a registered Trademarks of Mattel, Inc.'

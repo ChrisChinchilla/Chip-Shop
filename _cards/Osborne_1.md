@@ -9,10 +9,10 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osborne_1_
 staffcost: 2
 qualitycost: 3
 rdcost: 4
-marketingcost: 5
+marketingcost: '-1'
 loyaltyscore: 2
 profitscore: 3
-profitlength: 2
+profitlength: null
 longevityscore: 4
 legal: The Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
 approved: 'Y'

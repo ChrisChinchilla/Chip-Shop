@@ -10,14 +10,14 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/TI_Compact_Compu
 staffcost: 3
 qualitycost: 2
 rdcost: 3
-marketingcost: 3
+marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
 profitscore: 2
-profitlength: 2
+profitlength: null
 longevityscore: 2
 rdscore: null
 specialscore: null

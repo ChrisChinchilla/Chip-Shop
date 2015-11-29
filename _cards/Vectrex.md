@@ -4,12 +4,12 @@ realtitle: Vectrex
 cardtype: product
 staffcost: 3
 rdcost: 2
-marketingcost: 5
+marketingcost: null
 qualitycost: 2
 loyaltyscore: 3
 longevityscore: 4
 profitscore: 5
-profitlength: 2
+profitlength: null
 legal: null
 approved: 'Y'
 image: vectrex.png
