@@ -9,6 +9,7 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: none
 comments: false
+exclude: [pod, build.sh, rebuild.sh, deploy.sh]
 
 collections:
   cards:
