@@ -1,26 +1,26 @@
 #!/bin/bash
 
-bundle install
-bundle update
+FILES=$(git diff --name-only HEAD HEAD~2)
+for filename in $FILES
+do
 
-rm -dfr _site
-rm -dfr pod
+IFS='/' read -a filearray <<< "$filename"
 
-jekyll build
+echo "Type: ${filearray[0]}"
 
-# Process Cards
-mkdir -p pod/pdf/cards
-mkdir -p pod/pdf/legal
+if [ "${filearray[0]}" == '_cards' ]; then
+  echo ${filearray[1]}
 
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/"$(basename "${filearray[1]}" .md)".pdf --latex-engine=xelatex _cards/${filearray[1]}
 
-echo "Processing Game Cards…"
-for filename in _cards/*.md; do
-  echo $filename
-  # TODO: Counter of progress
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "${filearray[1]}" .md)".pdf --latex-engine=xelatex _cards/${filearray[1]}
+fi
 
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+if [ "${filearray[0]}" == '_concepts' ]; then
+  echo ${filearray[1]}
 
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/concepts.latex -o pod/pdf/concepts/"$(basename "${filearray[1]}" .md)".pdf --latex-engine=xelatex _concepts/"${filearray[1]}"
+fi
 
 done
 
@@ -38,16 +38,6 @@ mkdir -p pod/pdf/manual
 echo "Processing Manual…"
 
 pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/manual_print.latex -o pod/pdf/manual/manual.pdf --latex-engine=xelatex manual.md
-
-# Process Concepts
-mkdir -p pod/pdf/concepts
-
-echo "Processing Concepts…"
-for filename in _concepts/*.md; do
-  echo $filename
-
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/concepts.latex -o pod/pdf/concepts/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
-done
 
 pdfjam pod/pdf/concepts/*.pdf --no-landscape --frame false --nup 5x5 --suffix complete --outfile ./concepts.pdf
 

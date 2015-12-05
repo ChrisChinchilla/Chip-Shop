@@ -7,13 +7,13 @@ image: amiga500.jpg
 imageattribution: Bill Bertram 2006
 imagelicense: CC-BY-2.5 — Attribution
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga500_system.jpg'
-staffcost: 4 (-1)
-rdcost: 5 (-1)
-marketingcost: 4 (-1)
+staffcost: 4
+rdcost: 5
+marketingcost: '+2'
 qualitycost: 3
 loyaltyscore: 6
 profitscore: 7
-profitlength: 4
+profitlength: null
 longevityscore: 4
 legal: 'Amiga and Amiga 500 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'

@@ -10,10 +10,10 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intellivis
 staffcost: 3
 rdcost: 3
 qualitycost: 2
-marketingcost: 3
+marketingcost: null
 loyaltyscore: 4
 profitscore: 5
-profitlength: 4
+profitlength: null
 longevityscore: 6
 legal: 'The Intellivision is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'

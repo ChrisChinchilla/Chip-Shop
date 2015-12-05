@@ -10,10 +10,10 @@ imagelink: 'https://en.wikipedia.org/wiki/File:Atari-800XL.jpg'
 staffcost: 3
 rdcost: 2
 qualitycost: 3
-marketingcost: 3
+marketingcost: '+1'
 loyaltyscore: 4
 profitscore: 3
-profitlength: 2
+profitlength: null
 longevityscore: 2
 rdscore: null
 specialscore: null

@@ -10,10 +10,10 @@ imagelink: 'http://atariage.com/forums/topic/167048-atari-7800-adaptor-for-atari
 staffcost: 2
 rdcost: 2
 qualitycost: 1
-marketingcost: 1
+marketingcost: '+1'
 loyaltyscore: 1
 profitscore: 1/4
-profitlength: 2
+profitlength: null
 approved: 'Y'
 concepts: 'search_discard_console, accessory, mutualbenefit_loyaltyscore, mutualbenefit_profitscore'
 ---

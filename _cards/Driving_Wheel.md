@@ -10,7 +10,7 @@ imagelink: 'http://www.the-liberator.net/site-files/retro-games/hardware/ColecoV
 staffcost: 1
 rdcost: 2
 qualitycost: 1
-marketingcost: 2
+marketingcost: null
 loyaltyscore: 2
 longevityscore: 2
 profitscore: 1/5

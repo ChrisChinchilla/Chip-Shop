@@ -6,8 +6,7 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-specialcost: 'All products in production take an extra point of R&D to produce, or can be abandoned.'
-concepts: immediate
+concepts: 'immediate, choice, rd_increase'
 approved: 'Y'
 ---
 
