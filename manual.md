@@ -64,7 +64,7 @@ Each turn consists of 6 short phases, these happen with all players undertaking 
 1. Receive money for successful products (Not in 1st turn)
 2. Buy and allocate resources or draw income
 3. Draw and play events
-4. Draw and bring personalities into play
+4. Draw and bring speciality staff into play
 5. Draw products
 6. Build products and adjust scores
 
@@ -80,9 +80,18 @@ Unless affected by events or personalities, 1 resource of any kind = 1 money. Pl
 There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
 
 #### Staff
-Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
 
-Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
+In Chip Shop staff are represented and have an effect on the game in two different ways.
+
+The generic staff resource is an indication of how many resources you can have available in marketing and R&D, e.g. if you have five staff resources available, then in phase 2 of each turn players can allocate them amongst these two departments as they require for each turn.
+
+During phase 4 of each turn players have the opportunity to change any un-allocated (typically requiring 1 or 2) generic staff resources into specialized staff members. These staff resources are absorbed by the specialist and are no longer available for generic allocation.
+
+These specialist staff members bring many advantages but are expensive to keep around. If a player can no longer afford a specialist staff member they may use one of the income stream options to [fire the staff member](concepts/staff_loss).
+
+Players may lose generic staff resources and specialist staff members through other events during the game, in which case the card will indicate what to do.
+
+Players always need at least one generic staff resource available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
 #### Quality
 Products require a certain level of quality to balance potential profit and customer satisfaction. Quality products will result in a greater return but require a far greater investment. Shoddier products are quicker and cheaper to make but will result in lower loyalty and longevity.
