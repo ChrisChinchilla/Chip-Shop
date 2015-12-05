@@ -66,7 +66,7 @@ Each turn consists of 6 short phases, these happen with all players undertaking 
 3. Draw and play events
 4. Draw and bring personalities into play
 5. Draw products
-6. Build products and adjust scores
+6. Update products and scores
 
 ### Receive money for successful products (Not in 1st turn)
 In this phase players receive money for any products already built, remove one pile of money from the card and add it to your bank account space. Everything in Chip Shop needs money. Selling products makes money and it's spent on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
@@ -138,7 +138,7 @@ Each product may have a range of other factors such as the number of turns it pr
 
 Players may draw a number of cards from the products deck up to their current Research & Development value, but may only keep a maximum of two. This represent products that players have actively decided to work on.
 
-All products have cost and resource requirements that must be met. If a player  can build a product immediately they may do so in the build phase. Otherwise a product is built when a player has the resources required. Remember that products that are never completed will negatively affect scores at the end of the game.
+All products have cost and resource requirements that must be met. If a player  can build a product immediately they may do so in the next phase. Otherwise a product is built in a turn when a player has the resources required. **Remember that products that are never completed will negatively affect scores at the end of the game**.
 
 Whilst a player is working on a product it remains private in the R&D area of a players factory. The product remains private until built or other events make it public.
 
@@ -147,13 +147,14 @@ Accessory products are always attached to an exisiting non-accessory product. Ea
 
 Proportional costs and scores for accessories (i.e costs and scores indicated as a fraction value) are always a proportion of the product it is attached to.
 
-### Build products and adjust scores
-If players have products in production that can be built, they are built in this phase.
+### Update products and scores
+In this phase the status of products is updated and scores adjusted.
 
 In turn order players take the following steps:
-1. Move the product card from their factory into the public playing area.
+1. If a product can be built, move the product card from the player factory into the public playing area.
 2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
 3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
+4. If an already built product has no remaining piles of money, move it to the discard pile. If the product has accessories attached to it, then also move those to the discard pile.
 
 > **UPDATE** - Following from the previous example, Jane successfully builds a [control pad](cards/Control_pad) and attaches it to her [Atari 5200](cards/Atari_5200). The profit score for the Atari 5200 is four per turn for two turns, thus the control pad attached to it gains one profit (a quarter of 4 is 1) per turn for as long as the Atari 5200 remains in play.
 
