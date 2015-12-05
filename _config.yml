@@ -14,6 +14,7 @@ exclude: [pod, build.sh, rebuild.sh, deploy.sh]
 collections:
   cards:
     output: true
+    layout: card
   # manual:
   #   output: true
   #   layout: manual
@@ -26,21 +27,48 @@ collections:
 defaults:
   -
     scope:
-      type: cards
+      path: ""
     values:
-      layout: card
+      layout: "card"
+  -
+    scope:
+      path: ""
+      type: "cards"
+    values:
+      layout: "card"
       region: USA
       era: 80s
       approved: N
       image: test.png
     scope:
-      type: income
+      path: ""
+      type: "income"
     values:
       layout: card
       region: USA
       era: 80s
       approved: N
       image: test.png
+#
+# defaults:
+#   -
+#     scope:
+#       path: cards
+#       type: cards
+#     values:
+#       layout: card
+#       region: USA
+#       era: 80s
+#       approved: N
+#       image: test.png
+#     scope:
+#       type: income
+#     values:
+#       layout: card
+#       region: USA
+#       era: 80s
+#       approved: N
+#       image: test.png
 
 picture:
   source: /assets/images/cards
@@ -85,14 +113,3 @@ picture:
 
 # Build settings
 markdown: redcarpet
-
-# gems: [ 'jekyll-pandoc-multiple-formats' ]
-#
-# pandoc:
-#   skip: false
-#   impose: false
-#   output: ./tmp
-#   flags: '--template ./_layouts/cards.latex'
-#   site_flags:
-#   outputs:
-#     pdf: '--latex-engine=pdflatex'
