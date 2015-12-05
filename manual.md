@@ -90,10 +90,18 @@ The marketing value you assign to a product equals the amount of turns it will m
 
 Some more groundbreaking or experimental products may have positive score values present next to the marketing cost (marketingcost), this indicates extra effort needed to sell an item to the public. Some products have a negative value next to the marketing cost (marketingcost) this indicates that the public are familar with the product idea and need less convicing to buy it.
 
-##### Staff
-Staff are needed to make most things happen, but they are expensive with money and other resources needed to keep them around, or they will leave. When as staff member leaves (or is let go by a player) their positive affects no longer count.
+#### Staff
+In Chip Shop staff are represented and have an effect on the game in two different ways.
 
-Players always need at least one staff member available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
+The generic staff resource is an indication of how many resources you can have available in marketing and R&D, e.g. if you have five staff resources available, then in phase 2 of each turn players can allocate them amongst these two departments as they require for each turn.
+
+During phase 4 of each turn players have the opportunity to change any un-allocated (typically requiring 1 or 2) generic staff resources into specialized staff members. These staff resources are absorbed by the specialist and are no longer available for generic allocation.
+
+These specialist staff members bring many advantages but are expensive to keep around. If a player can no longer afford a specialist staff member they may use one of the income stream options to [fire the staff member](concepts/staff_loss).
+
+Players may lose generic staff resources and specialist staff members through other events during the game, in which case the card will indicate what to do.
+
+Players always need at least one generic staff resource available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
 ##### Quality
 Products require a certain level of quality to balance potential profit and customer satisfaction. Quality products will result in a greater return but require a far greater investment. Shoddier products are quicker and cheaper to make but will result in lower loyalty and longevity.

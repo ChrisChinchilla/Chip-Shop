@@ -8,7 +8,6 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
 qualitycost: null
 rdcost: null
 marketingcost: null
@@ -26,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn'
+concepts: 'choice, choicetype, perturn, moneycost_perturn'
 ---
 
 A business genius helps you focus and perfect a particular product line.

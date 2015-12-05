@@ -7,7 +7,7 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-staffcost: 2
+staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
@@ -23,7 +23,7 @@ rdscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'search_macintosh, rd_reduce_2'
+concepts: 'search_macintosh, rd_reduce_macintosh, moneycost_perturn'
 ---
 
 Adele is a computer scientist working on replacing traditional computer interfaces with a graphical version.

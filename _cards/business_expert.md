@@ -8,7 +8,6 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
 qualitycost: null
 rdcost: null
 marketingcost: null
@@ -16,7 +15,7 @@ longevitycost: null
 moneycost: 1
 loyaltycost: null
 specialcost: null
-loyaltyscore: 0
+loyaltyscore: null
 profitscore: 1
 profitlength: null
 longevityscore: null
@@ -26,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn'
+concepts: 'choice, choicetype, moneycost_perturn'
 ---
 
 A business expert helps you focus a particular product line.
