@@ -1,6 +1,6 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Radia Perlman
+realtitle: Radia Perlman
 cardtype: 'personality'
 personalitytype: null
 image: 

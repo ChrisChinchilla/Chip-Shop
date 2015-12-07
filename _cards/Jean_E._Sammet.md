@@ -1,6 +1,6 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Jean E Sammet
+realtitle: Jean E Sammet
 cardtype: 'personality'
 personalitytype: null
 image: 

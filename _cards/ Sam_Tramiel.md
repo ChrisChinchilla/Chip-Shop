@@ -1,6 +1,6 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Sam Tramiel
+realtitle: Sam Tramiel
 cardtype: 'personality'
 personalitytype: null
 image: 

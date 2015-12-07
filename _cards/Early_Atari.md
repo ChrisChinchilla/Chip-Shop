@@ -1,7 +1,7 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: Early Atari
+realtitle: Early Atari
+cardtype: 'product'
 personalitytype: null
 image: 
 imageattribution: 

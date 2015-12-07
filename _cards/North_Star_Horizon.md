@@ -1,7 +1,7 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: North Star Horizon
+realtitle: North Star Horizon
+cardtype: 'product'
 personalitytype: null
 image: 
 imageattribution: 

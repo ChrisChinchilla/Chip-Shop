@@ -1,9 +1,9 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Nolan Bushnell
+realtitle: Nolan Bushnell
 cardtype: 'personality'
 personalitytype: null
-image: 
+image: struggling to find and old image...
 imageattribution: 
 imagelicense: 
 imagelink: 
@@ -27,3 +27,5 @@ yearofrelease: 198x
 originalprice: $xx
 concepts: List of concepts associated with this card
 ---
+Nolan Bushnell is an American engineer and entrepreneur who founded both Atari, Inc. and the Chuck E. Cheese's Pizza-Time Theaters chain.
+Nolan is credited with Bushnell's Law, an aphorism about games "easy to learn and difficult to master" being rewarding.

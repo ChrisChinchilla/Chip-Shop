@@ -1,7 +1,7 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: Altos ACS8000 Computer
+realtitle: Altos ACS8000 Computer
+cardtype: 'product'
 personalitytype: null
 image: 
 imageattribution: 

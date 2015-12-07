@@ -1,11 +1,11 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: Apple II
+realtitle: Apple II
+cardtype: 'product'
 personalitytype: null
 image: 
-imageattribution: 
-imagelicense: 
+imageattribution: Rama
+imagelicense: CC BY-SA 2.0 fr
 imagelink: 
 staffcost: 2
 qualitycost: 3

@@ -1,7 +1,7 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: TRS-80
+realtitle: TRS-80
+cardtype: 'product'
 personalitytype: null
 image: 
 imageattribution: 

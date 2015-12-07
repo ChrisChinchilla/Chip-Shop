@@ -1,7 +1,7 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: Pet
+realtitle: Pet
+cardtype: 'product'
 personalitytype: null
 image: 
 imageattribution: 

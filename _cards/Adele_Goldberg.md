@@ -1,6 +1,6 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Adele Goldberg
+realtitle: Adele Goldberg
 cardtype: 'personality'
 personalitytype: null
 image: 

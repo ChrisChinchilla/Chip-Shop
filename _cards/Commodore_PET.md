@@ -1,9 +1,9 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
-cardtype: 'personality'
+title: Commodore PET
+realtitle: Commodore PET
+cardtype: 'product'
 personalitytype: null
-image: 
+image: struggling to find and old image...
 imageattribution: 
 imagelicense: 
 imagelink: 

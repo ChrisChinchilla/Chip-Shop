@@ -1,6 +1,6 @@
 ---
-title: Francis Allen
-realtitle: Francis Allen
+title: Interact Home Computer system
+realtitle: Interact Home Computer system
 cardtype: 'personality'
 personalitytype: null
 image: 
