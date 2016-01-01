@@ -8,6 +8,7 @@ jekyll build
 
 # Process Cards
 mkdir -p pod/pdf/cards
+mkdir -p pod/pdf/income
 mkdir -p pod/pdf/legal
 
 echo "Processing Game Cards…"
@@ -24,6 +25,18 @@ done
 pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 3x3 --suffix complete --outfile ./cards.pdf
 
 mv ./cards.pdf pod/cards_complete.pdf
+
+echo "Processing Income…"
+for filename in _income/*.md; do
+  echo $filename
+  # TODO: Counter of progress
+
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/income/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+done
+
+pdfjam pod/pdf/income/*.pdf --no-landscape --frame true --nup 3x3 --suffix complete --outfile ./income.pdf
+
+mv ./income.pdf pod/income_complete.pdf
 
 pdfjam pod/pdf/legal/*.pdf --no-landscape --nup 1x1 --suffix complete --outfile ./legal_notices.pdf
 
