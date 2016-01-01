@@ -18,6 +18,9 @@ longevityscore: null
 legal: 'Atari and Atari Lynx are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1989
+era_sub: 5
+era: 80s
+region: usa
 originalprice: $180
 concepts: null
 ---

@@ -16,6 +16,11 @@ profitscore: 2
 longevityscore: 3
 legal: null
 approved: 'Y'
+yearofrelease: null
+era_sub: null
+era: 80s
+region: 'usa, japan'
+originalprice: $xx
 concepts: 'accessory, any_console_product'
 ---
 

@@ -24,6 +24,9 @@ specialscore: null
 legal: 'Commodore and Commodore VIC 20 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 yearofrelease: 1981
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $300
 concepts: null
 ---

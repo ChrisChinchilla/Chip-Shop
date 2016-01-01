@@ -17,6 +17,9 @@ profitlength: null
 longevityscore: 3
 legal: 'Columbia MPC and Columbia are registered Trademarks of Columbia Data Products, Inc.'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $3000
 approved: 'Y'
 concepts: 'ibm_pc_clone, ibm_pc_reduce'

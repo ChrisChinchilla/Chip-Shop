@@ -18,6 +18,9 @@ longevityscore: 5
 legal: IBM is Copyright the IBM Corporation
 approved: 'Y'
 yearofrelease: 1981
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $1565
 ---
 

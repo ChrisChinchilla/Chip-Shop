@@ -25,6 +25,9 @@ specialscore: null
 legal: Kaypro 2 is a registered Trademarks of Non-Linear Systems
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $1795
 concepts: null
 ---

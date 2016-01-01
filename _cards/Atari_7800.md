@@ -19,6 +19,9 @@ longevityscore: 4
 legal: 'Atari and Atari 7800 are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1986
+era_sub: 4
+era: 80s
+region: usa
 originalprice: $140
 concepts: null
 ---

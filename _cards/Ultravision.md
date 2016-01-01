@@ -18,6 +18,9 @@ profitlength: null
 legal: null
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: null
 ---
 

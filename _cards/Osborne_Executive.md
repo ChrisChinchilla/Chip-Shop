@@ -19,6 +19,9 @@ legal: The Osborne Executive and Osborne are registered Trademarks of Mikrolog L
 approved: 'Y'
 concepts: osborne1_reduce
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $2500
 ---
 

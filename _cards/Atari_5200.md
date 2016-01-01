@@ -18,6 +18,9 @@ longevityscore: 1
 legal: 'Atari and Atari 5200 are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $270
 concepts: null
 ---

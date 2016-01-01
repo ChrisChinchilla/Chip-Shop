@@ -23,6 +23,9 @@ rdscore: null
 legal: null
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $2385
 concepts: ibm_pc_clone
 ---

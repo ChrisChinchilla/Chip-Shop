@@ -25,6 +25,9 @@ specialscore: null
 legal: Blah is a Trademark of Blah Inc
 approved: 'N'
 yearofrelease: 198x
+era_sub: null
+era: null
+region: null
 originalprice: $xx
 concepts: List of concepts associated with this card
 ---

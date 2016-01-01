@@ -25,6 +25,9 @@ specialscore: null
 legal: The Macintosh is a Trademark of Apple Inc
 approved: 'Y'
 yearofrelease: 1989
+era_sub: 5
+era: 80s
+region: usa
 originalprice: $6500
 concepts: null
 ---

@@ -16,6 +16,9 @@ profitlength: null
 longevityscore: 2
 legal: Spectravideo SV-318 and Spectravideo are registered Trademarks of Logic 3 plc
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $299
 approved: 'Y'
 ---

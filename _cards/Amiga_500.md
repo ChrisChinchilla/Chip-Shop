@@ -18,7 +18,10 @@ longevityscore: 4
 legal: 'Amiga and Amiga 500 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 concepts: amiga1000_reduce
-yearofrelease: October 1987
+yearofrelease: 1987
+era_sub: 4
+era: 80s
+region: usa
 originalprice: $699
 ---
 

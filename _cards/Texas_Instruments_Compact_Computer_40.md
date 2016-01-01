@@ -23,6 +23,9 @@ rdscore: null
 specialscore: null
 legal: Texas Instruments is a Trademark of Acer Inc.
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $249
 approved: 'Y'
 ---

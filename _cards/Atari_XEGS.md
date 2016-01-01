@@ -18,6 +18,9 @@ longevityscore: 4
 legal: 'Atari and Atari XEGS are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1987
+era_sub: 4
+era: 80s
+region: usa
 originalprice: $199
 concepts: 'atari_65xe_reduce, atari_5200_reduce, atari_2600_reduce'
 ---

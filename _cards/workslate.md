@@ -16,6 +16,9 @@ profitlength: null
 longevityscore: 2
 legal: null
 yearofrelease: 1982
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $895
 approved: 'Y'
 ---

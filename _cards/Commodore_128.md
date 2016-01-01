@@ -17,6 +17,9 @@ longevityscore: 4
 legal: 'Commodore and Commodore 128 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $300
 ---
 

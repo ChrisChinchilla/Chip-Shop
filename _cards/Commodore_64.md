@@ -17,6 +17,9 @@ longevityscore: 7
 legal: 'Commodore and Commodore 64 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $595
 ---
 

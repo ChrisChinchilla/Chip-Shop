@@ -18,6 +18,9 @@ longevityscore: 7
 legal: Macintosh and Apple are trademarks of Apple Inc.
 approved: 'Y'
 yearofrelease: 1984
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $2000
 concepts: 'defunct_lisa, lisa_reduce'
 ---
