@@ -22,21 +22,20 @@ During the course of the game certain personalities and specialists may be attra
 
 After ten years / rounds total scores and the player with the highest score wins.
 
-### Scoring during the game
-On the score board, each player has three score tracks that match their color. There are tokens to represent the current denomination of your score and the units within it, for example:
+## Scoring
 
-If your current score is 13, place 1 '10' value token in the denomination square and your player token at 3 in the units track. When your score reaches 22, you add a second 10 token to the denomination square and move your player token to 2 in the units track.
+There are three values that combined at the end of the game make up a players final score.
 
-There are three scoring tracks in Chip Shop and all are of equal importance in winning the game.
+### Longevity
+Gained from how you decide to build your products, who you hire and certain events. Was (and is) your company a bright light that burn out fast or has it laid the ground for a long and sustainable future?
 
-#### Profit
-This represents the amount you've sold throughout the game. It's the easiest to gain, but also the most competitive amongst other players.
+### Loyalty
+Gained from how you decide to build your products, who you hire and certain events. Did you just churn our products that no one wanted or loved or did you create sources of wonder and inspiration in your customer base?
 
-#### Longevity
-Was (and is) your company a bright light that burn out fast or has it laid the ground for a long and sustainable future?
+### Profit
+Profit is made from selling products, the more you sell for more time, the more profit, it's simple.
 
-#### Loyalty
-Did you just churn our products that no one wanted or loved or did you create sources of wonder and inspiration in your customer base?
+
 
 
 ## Components
@@ -56,39 +55,113 @@ Did you just churn our products that no one wanted or loved or did you create so
 ## Setup
 Each player takes a 'factory' play board, places it in front of them and places a player screen in front of the play board.
 
-Place the score board in the middle of the table. Add a score marker for each player.
-
-Shuffle the three card decks and place them in the middle of the table.
+xxx
 
 Put all resource tokens in easy reach of players.
 
-Players start as a new company with:
+### New Company
+Players start as a new company with 10 money.
 
-- 0 Scores
-- 10 Money
-- 5 Resources to distribute as they wish
 
 ## Playing the game
-### Starting the Game
 Use your favorite method for randomly selecting a starting player and play lasts for ten turns.
 
 ### Phases per Turn
-Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 6.
+Each turn consists of x short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase x.
 
 1. Receive money for successful products (Not in 1st turn)
-2. Buy and allocate resources or use income stream
-3. Draw and play events
-4. Draw and bring specialist staff into play
-5. Draw products
-6. Update products and scores
+2. Buy and allocate resources
+3. Take actions
+4. Update products and scores
+5. Draw and play events
+6. End of Year
 
-#### Receive money for successful products (Not in 1st turn)
-In this phase players receive money for any products already built, remove one pile of money from the card and add it to your bank account space. Everything in Chip Shop needs money. Selling products makes money and it's spent on everything else. If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
+#### 1. Receive money for successful products (Not in 1st turn)
+In this phase players receive money for any products already built, remove one pile of money from the card and add it to your bank account space.
 
-#### Buy and allocate resources to costs or use income stream
-Most actions and cards will require a certain amount of resources. Resources begin with a generic staff resource and every staff resource costs one money.
+Everything in Chip Shop needs money. Staff need wages each turn and resources required by products also require money. Some events and income streams may also require some money left aside to be taken advantage of.
+
+If a player runs out of money they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase), the only score a player retains is their loyalty along with any other cards that state they remain with bankrupt players.
+
+#### 2. Buy and allocate resources
+In Chip Shop 1 money is equal to 1 resource of any type. When building a product, resources need to be allocated to them and the quantiy of resources allocated affect a product in different ways.
+
+Reosurces may be in a players factory to be saved for later or assigned to a product in development. Resources assigned to a product being built are discarded when the product is built.
+
+##### Quality
+Allocating more quality to a product in production will result in a higher longevity or loyalty score when the product is built. When the product is built a player may decide how they want to split between the two scores.
 
 ##### Staff
+Staff represent your companies ability to undertake any other kind of action. When purchasing staff they may be kept as generic staff (some events may require spare staff) or moved into specialist roles within marketing or Research & Development. Bear in mind that all staff resources in any department will need payment in the End of Year phase.
+
+##### Marketing department
+Staff moved into the marketing department may be saved for later use, some events, or moved to producst in development. Allocating more marketing resources to a product in production will dictate the number of turns the product will make profit for.
+
+##### Research & Development department
+Staff moved into the R&D department are generally saved to then be used to draw a product card from the xxx area of the main board. Once they have been used to draw a product, the resources are discarded.
+
+
+
+
+
+#### 3. Take Actions
+Each turn a player has three actions that can be any combination of the below.
+
+##### Draw and bring specialist staff into play
+These are special individuals who players may want to recruit to their company. Specialist staff may decide to join a players company at their own free will due to the effects of event cards. Specialist staff all have skills and traits that will positively affect statistics and chances of winning the game. Every player draws in player order a number of specialist staff cards determined by their current longevityscore plus loyaltyscore, divided by two (rounded down).
+
+If a player can 'play' a specialist staff card, i.e. They have the requisite costs and prerequisites required, that staff card enters play immediately and their effects enacted. If the staff card is [public](concepts/public), they are immediately made public. Any staff cards drawn that a player can't or doesn't want to bring into play are added back the **top** of the staff card deck before the next player draws.
+
+##### Draw products
+Products are the main point of Chip Shop and players must produce them during the game to stand any chance of winning. Some are easy and can be completed quickly, others are harder and will require more time and resources. Each will require a combination of cost values and result in a certain change in scores.
+
+Each product may have a range of other factors such as the number of turns it produces profit, one-off or recurring costs and positive or negative effects.
+
+Players may draw a number of cards from the products deck up to their current Research & Development value, but may only keep a maximum of two. This represent products that players have actively decided to work on.
+
+All products have cost and resource requirements that must be met. If a player  can build a product immediately they may do so in the next phase. Otherwise a product is built in a turn when a player has the resources required.
+
+**Remember that products that are never completed will negatively affect scores at the end of the game**.
+
+Whilst a player is working on a product it remains private in the R&D area of a players factory. The product remains private until built or other events make it public.
+
+##### Use income stream
+There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
+
+#### 4. Update products and scores
+In this phase the status of products is updated and scores adjusted.
+
+In turn order players take the following steps:
+
+1. If a product can be built, move the product card from the player factory into the public playing area.
+2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
+3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
+4. If an already built product has no remaining piles of money, move it to the discard pile. If the product has accessories attached to it, then also move those to the discard pile.
+
+
+#### 5. Draw and play events
+Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.
+
+Every player draws two cards in player order:
+
+If an event card is [public](concepts/public), the drawing player must show it to all players and then follow where and when it should be played.
+
+- If an event is marked as [immediate](concepts/immediate), play it immediately.
+- If an effect of the card is to draw more cards or other actions, play them immediately.
+- If an event card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish.
+
+
+#### 6. Cleanup
+
+
+
+
+
+
+
+
+
+# Staff -RE
 In Chip Shop staff are represented and have an effect on the game in two different ways.
 
 The generic staff resource is an indication of how many resources you can have available in marketing and R&D, e.g. if you have five staff resources available, then in phase 2 of each turn players can allocate them amongst these two departments as they require for each turn.
@@ -101,7 +174,7 @@ Players may lose generic staff resources and specialist staff members through ot
 
 Players always need at least one generic staff resource available or allocated to products in production. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
 
-###### Marketing
+# Marketing -RE
 There's no point having a great idea and product if no one hears about it. Marketing resources represent an investment in the promotion of a product. It can also represent how familiar people are with the concepts behind a product.
 
 The marketing value you assign to a product equals the amount of turns it will make profit for, i.e.
@@ -116,52 +189,20 @@ Good ideas aren't (always) conjured out of thin air. They take months and years 
 ##### Quality
 The other resource that can be purchased is _quality_. Products require a certain level of quality to balance potential profit and customer satisfaction. Quality products will result in a greater return but require a far greater investment. Shoddier products are quicker and cheaper to make but will result in lower loyalty and longevity.
 
-##### Use Income Stream
-There are times when a player doesn't have enough money to do anything or may decide they need some more money to use in a future turn. In this case, instead of allocating resource a player can search the income stream deck for a source of income they desire and can play. This card remains in play whilst still relevant and is then discarded.
 
-#### Draw and play events
-Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.
 
-Every player draws two cards in player order:
 
-If an event card is [public](concepts/public), the drawing player must show it to all players and then follow where and when it should be played.
 
-- If an event is marked as [immediate](concepts/immediate), play it immediately.
-- If an effect of the card is to draw more cards or other actions, play them immediately.
-- If an event card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish.
 
-#### Draw and bring specialist staff into play
-These are special individuals who players may want to recruit to their company. Specialist staff may decide to join a players company at their own free will due to the effects of event cards. Specialist staff all have skills and traits that will positively affect statistics and chances of winning the game. Every player draws in player order a number of specialist staff cards determined by their current longevityscore plus loyaltyscore, divided by two (rounded down).
 
-If a player can 'play' a specialist staff card, i.e. They have the requisite costs and prerequisites required, that staff card enters play immediately and their effects enacted. If the staff card is [public](concepts/public), they are immediately made public. Any staff cards drawn that a player can't or doesn't want to bring into play are added back the **top** of the staff card deck before the next player draws.
 
-#### Draw products
-Products are the main point of Chip Shop and players must produce them during the game to stand any chance of winning. Some are easy and can be completed quickly, others are harder and will require more time and resources. Each will require a combination of cost values and result in a certain change in scores.
-
-Each product may have a range of other factors such as the number of turns it produces profit, one-off or recurring costs and positive or negative effects.
-
-Players may draw a number of cards from the products deck up to their current Research & Development value, but may only keep a maximum of two. This represent products that players have actively decided to work on.
-
-All products have cost and resource requirements that must be met. If a player  can build a product immediately they may do so in the next phase. Otherwise a product is built in a turn when a player has the resources required.
-
-**Remember that products that are never completed will negatively affect scores at the end of the game**.
-
-Whilst a player is working on a product it remains private in the R&D area of a players factory. The product remains private until built or other events make it public.
 
 #### Accessories
 Accessory products are always attached to an existing non-accessory product. Each accessory will specify what it can be attached to and any other requirements. Unless specified, an accessory remains in play for as long as the product it is attached to is in play. Some accessories increase the number of turns a product will be in play for.
 
 Proportional costs and scores for accessories (i.e costs and scores indicated as a fraction value) are always a proportion of the product it is attached to.
 
-#### Update products and scores
-In this phase the status of products is updated and scores adjusted.
 
-In turn order players take the following steps:
-
-1. If a product can be built, move the product card from the player factory into the public playing area.
-2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
-3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
-4. If an already built product has no remaining piles of money, move it to the discard pile. If the product has accessories attached to it, then also move those to the discard pile.
 
 ## Ending the game
 After ten turns the game is over!
