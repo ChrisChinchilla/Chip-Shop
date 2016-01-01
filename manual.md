@@ -36,8 +36,6 @@ Gained from how you decide to build your products, who you hire and certain even
 Profit is made from selling products, the more you sell for more time, the more profit, it's simple.
 
 
-
-
 ## Components
 - x Product cards
 - x Event cards
@@ -53,15 +51,29 @@ Profit is made from selling products, the more you sell for more time, the more 
 - 100 money tokens
 
 ## Setup
-Each player takes a 'factory' play board, places it in front of them and places a player screen in front of the play board.
+### Main Board
+Place the main board in the middle of the table. Add a score marker for each player at 0 to the Longevity and Loyalty tracks.
 
 xxx
+Add marker to square 1 on the turn track.
 
 Put all resource tokens in easy reach of players.
 
-### New Company
-Players start as a new company with 10 money.
+### Create The Specialist Staff Deck
+Shuffle the specialist staff deck and place it on the left hand side of the main board, ideally next to the specialist staff track.
 
+### Create The Products Deck
+Separate all accessory cards, shuffle them and place them on the accessory space of the Products track on the main board.
+
+Separate remaining products into their matching 'sub era' piles, indicated by a number between 1 and 5, shuffle and place each pile on to its respective space on the products track.
+
+### Create The Events Deck
+Shuffle the events deck and place it near the main game board, ideally at the bottom edge to follow turn phase order.
+
+### Players Start a New Company
+Players start as a new company with 10 Money.
+
+Each player takes counters for a colour of their choosing, a 'factory' play board, places it in front of them and places a player screen in front of the play board.
 
 ## Playing the game
 Use your favorite method for randomly selecting a starting player and play lasts for ten turns.
@@ -196,6 +208,14 @@ The other resource that can be purchased is _quality_. Products require a certai
 
 
 
+
+Players may draw a number of cards from the products deck up to their current Research & Development value, but may only keep a maximum of two. This represent products that players have actively decided to work on.
+
+All products have cost and resource requirements that must be met. If a player  can build a product immediately they may do so in the next phase. Otherwise a product is built in a turn when a player has the resources required.
+
+**Remember that products that are never completed will negatively affect scores at the end of the game**.
+
+Whilst a player is working on a product it remains private in the R&D area of a players factory. The product remains private until built or other events make it public.
 
 #### Accessories
 Accessory products are always attached to an existing non-accessory product. Each accessory will specify what it can be attached to and any other requirements. Unless specified, an accessory remains in play for as long as the product it is attached to is in play. Some accessories increase the number of turns a product will be in play for.
