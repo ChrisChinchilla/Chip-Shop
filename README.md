@@ -3,8 +3,11 @@ _Build your Silicon Empire_
 
 This document will evolve as tasks are added the contributors can contribute to.
 
+**There have been some major changes to the game based on play testing, please feel free to create / amend cards as noted below, but some card elements may no longer be used. These instructions will be updated shortly.**
+
 ## Adding and editing cards
 We welcome card additions and corrections and all will be considered. There are several steps a card will go through once you suggest an addition / modification, these are:
+
 - Legally clearing any trademarks
 - Editing flavour and card text
 - Checking image supplied is printable
@@ -15,13 +18,13 @@ We welcome card additions and corrections and all will be considered. There are 
 Firstly, [fork this repo](https://github.com/GregariousMammal/Chip-Shop#fork-destination-box), you can [find instructions on how to do that here](https://help.github.com/articles/fork-a-repo/). If this is your first time with a version control system such as Git, don't worry, it's not as complex as it sounds and you open yourself to a world of awesomeness.
 
 #### Something New?
-Duplicate the file _template-card.md_ file in the top level __cards_ folder, rename it to the title of the card, replacing spaces between words with hyphens and make your edits (details coming soon) in that file.
+Duplicate the file _template-card.md_ file in the top level *_cards* folder, rename it to the title of the card, replacing spaces between words with hyphens and make your edits (details coming soon) in that file.
 
 #### Something to Change?
 If you want to edit an existing card, then find the appropriately named card and make your changes, saving when you're done.
 
-### Card Sections
-There are two sections to a card, the _metadata_ or _variables__ and the card text, or 'flavour text', these sections are seperated by three dashed lines.
+### Product Card Sections
+There are two sections to a card, the _metadata_ or _variables_ and the card text, or 'flavour text', these sections are seperated by three dashed lines.
 
 Below is a guide to the card metadata fields and what is appropriate to add to them.
 
@@ -74,6 +77,12 @@ Below is a guide to the card metadata fields and what is appropriate to add to t
 `legal`: Add any trademark information here. We are happy to handle this for you.
 
 `yearofrelease`: Add as much detail as possible regarding the release date here, this isn't used right now, but might be in the future.
+
+`era`: What decade was the product released in?
+
+`era_sub`: This value is based on the products original year of release. x0 - x1 = 1, x2 - x3 = 2, x4 - x5 = 3, x6 - x7 = 4, x8 - x9 = 5.
+
+`region`: What region was the product released in?
 
 `originalprice`: Add the original price in USD here, this isn't used right now, but might be in the future.
 
