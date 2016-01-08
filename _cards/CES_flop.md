@@ -10,7 +10,7 @@ marketingcost: 1
 profitscore: -1
 profitlength: 2
 legal: CES is Copyright 2003 to 2015 CEA. All rights reserved.
-concepts: 'latestrelease, public'
+concepts: 'latestrelease, public, current_player'
 approved: 'Y'
 ---
 

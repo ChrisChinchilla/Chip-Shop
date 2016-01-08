@@ -11,18 +11,18 @@ qualitycost: null
 rdcost: 2
 marketingcost: null
 longevitycost: null
-moneycost: 3
+moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
-profitscore: 5
+profitscore: 4
 profitlength: ∞
 longevityscore: 4
-rdscore: 2
+rdscore: 1
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'choice_test, allplayers, optional, moneycost_perturn, minimum_rd'
+concepts: 'choice_test, allplayers, optional, moneycost_perturn, pay_rd, rd_resourcegain_perturn'
 ---
 
 Bill is a computer programmer with a good eye for business. Sometimes reckless and unscrupulous, he has a knack for getting what he wants.

@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1987
 originalprice: null
-concepts: 'immediate, ifpublic'
+concepts: 'immediate, if_public'
 ---
 
 A series of circumstances lead to a drastic overnight stock market crash, reducing the value of thousands of companies.

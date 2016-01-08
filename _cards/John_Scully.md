@@ -8,7 +8,7 @@ image: john-sculley.jpg
 imageattribution: Inc.com
 imagelicense: © Mansueto Ventures
 imagelink: 'http://www.inc.com/geoffrey-james/why-apple-won-john-sculley_1.html'
-staffcost: 2
+staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null

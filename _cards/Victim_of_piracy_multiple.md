@@ -7,9 +7,9 @@ imageattribution: vintagecomputing.com
 imagelicense: null
 imagelink: 'http://www.vintagecomputing.com/wp-content/images/retroscan/piracy_byte_large.jpg'
 profitscore: 1/4
-profitlength: 2
-specialcost: Affects current software products
+profitlength: 1/2
 legal: null
+concepts: 'immediate, public, highest_loyalty, reduce, latestrelease'
 approved: 'Y'
 ---
 

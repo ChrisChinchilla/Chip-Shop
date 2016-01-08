@@ -7,18 +7,18 @@ image: tids990.png
 imageattribution: The Centre for Computing History
 imagelicense: Copyright The Centre for Computing History
 imagelink: 'http://www.computinghistory.org.uk/det/14414/TI-Model-911-Video-Display-Terminal/'
-staffcost: 3
-qualitycost: 3
-rdcost: 3
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 2
-profitscore: 3
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: null
 rdscore: null
 specialscore: null
 legal: Copyright Acer Inc

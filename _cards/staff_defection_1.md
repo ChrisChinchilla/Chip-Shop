@@ -6,10 +6,9 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: -1
-rdcost: -1
-specialcost: 'If you have a lower loyalty than the player to your left, give them the resources, if your score is lower give them the resources.'
-concepts: immediate
+staffcost: null
+rdcost: null
+concepts: 'immediate, loyalty_test, staff_loss'
 approved: 'Y'
 ---
 

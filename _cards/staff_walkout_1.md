@@ -6,8 +6,8 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: -1
-concepts: immediate
+staffcost: null
+concepts: 'immediate, lowest_loyalty, 1_staff_loss'
 approved: 'Y'
 ---
 

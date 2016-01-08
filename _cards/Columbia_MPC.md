@@ -9,12 +9,12 @@ imagelicense: tbc
 imagelink: null
 staffcost: 2
 rdcost: 2
-marketingcost: '+2'
-loyaltyscore: 2
-profitscore: 4
-qualitycost: 2
+marketingcost: +1
+loyaltyscore: -1
+profitscore:
+qualitycost:
 profitlength: null
-longevityscore: 3
+longevityscore: -1
 legal: 'Columbia MPC and Columbia are registered Trademarks of Columbia Data Products, Inc.'
 yearofrelease: 1982
 era_sub: 2
@@ -22,7 +22,7 @@ era: 80s
 region: usa
 originalprice: $3000
 approved: 'Y'
-concepts: 'ibm_pc_clone, ibm_pc_reduce'
+concepts: 'ibm_pc_clone'
 ---
 
 The Columbia MPC is the first clone of the IBM PC at a significantly lower price.

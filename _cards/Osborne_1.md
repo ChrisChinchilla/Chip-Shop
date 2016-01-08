@@ -6,14 +6,14 @@ image: osborne-1.png
 imageattribution: Bilby
 imagelicense: CC by SA 3.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osborne_1_open.jpg/800px-Osborne_1_open.jpg'
-staffcost: 2
-qualitycost: 3
-rdcost: 4
-marketingcost: '-1'
-loyaltyscore: 2
-profitscore: 3
+staffcost: null
+qualitycost: null
+rdcost: null
+marketingcost: 1
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: 1
 legal: The Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
 approved: 'Y'
 yearofrelease: 1981

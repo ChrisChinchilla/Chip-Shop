@@ -7,14 +7,14 @@ image: atarixegs.jpg
 imageattribution: Bilby
 imagelicense: CC BY 3.0
 imagelink: 'https://en.wikipedia.org/wiki/Atari_XEGS#/media/File:Atari_XEGS.jpg'
-staffcost: 3
-rdcost: 2
-qualitycost: 3
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 2
-profitscore: 2
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: null
 legal: 'Atari and Atari XEGS are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1987

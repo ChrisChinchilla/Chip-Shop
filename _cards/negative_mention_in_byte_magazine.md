@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'Immediate, public'
+concepts: 'Immediate, public, current_player'
 ---
 
 Byte magazine mention your company and products, but unfortunately in a negative light.

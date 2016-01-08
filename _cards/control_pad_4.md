@@ -7,13 +7,13 @@ image: controller.png
 imageattribution: Evan Amos
 imagelicense: Public Domain
 imagelink: 'https://commons.wikimedia.org/wiki/File:ColecoVision-Controller-FR.jpg'
-staffcost: 1
-rdcost: 1
-qualitycost: 1
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-profitscore: 1/4
+profitscore: null
 profitlength: '+1'
-concepts: choice_console, accessory
+concepts: 'choice_console, accessory'
 approved: 'Y'
 ---
 

@@ -6,9 +6,9 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-longevityscore: 2
+longevityscore: null
 specialscore: null
-concepts: 'immediate, optional, search_staff_expert, resourcesneeded'
+concepts: 'immediate, highest_longevity, search_staff_expert, resourcesneeded'
 approved: 'Y'
 ---
 

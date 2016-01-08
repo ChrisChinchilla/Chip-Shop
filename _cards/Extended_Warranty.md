@@ -7,10 +7,10 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-rdcost: 1
-marketingcost: 1
-longevityscore: 1
-profitscore: 1/5
+rdcost: null
+marketingcost: null
+longevityscore: null
+profitscore: null
 approved: 'Y'
 ---
 

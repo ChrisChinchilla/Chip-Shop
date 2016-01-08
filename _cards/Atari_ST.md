@@ -7,18 +7,18 @@ image: atarist.jpg
 imageattribution: Bill Bertram
 imagelicense: CC-BY-2.5
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg'
-staffcost: 3
-rdcost: 3
-qualitycost: 3
-marketingcost: '+2'
-loyaltyscore: 6
-profitscore: 5
+staffcost: null
+rdcost: null
+qualitycost: null
+marketingcost: -1
+loyaltyscore: 1
+profitscore: null
 profitlength: null
-longevityscore: 5
+longevityscore: 1
 legal: 'Atari and Atari ST are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1985
-era_sub: 3
+era_sub: 4
 era: 80s
 region: usa
 originalprice: $800

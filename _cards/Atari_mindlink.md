@@ -7,15 +7,15 @@ image: atari-mindlink.jpg
 imageattribution: Atari Museum
 imagelicense: Copyright atarimuseum.de
 imagelink: 'http://www.atari-computermuseum.de/2600.htm'
-staffcost: 2
-qualitycost: 2
-rdcost: 4
-marketingcost: '-2'
-loyaltycost: -1
+staffcost: null
+qualitycost: null
+rdcost: null
+marketingcost: null
+loyaltycost: null
 specialcost: null
 loyaltyscore: 1
 longevityscore: null
-profitscore: -2
+profitscore: -1
 legal: 'Atari and Mindlink are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1984

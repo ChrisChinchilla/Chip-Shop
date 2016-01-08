@@ -7,12 +7,12 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
-rdcost: 1
-qualitycost: 2
+staffcost: null
+rdcost: null
+qualitycost: 1
 marketingcost: null
-profitscore: 1/4
-concepts: 'accessory, choicecomputer'
+profitscore: 1
+concepts: 'accessory, choice_computer'
 approved: 'Y'
 ---
 

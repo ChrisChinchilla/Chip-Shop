@@ -7,14 +7,14 @@ image: intellivision.png
 imageattribution: Evan Amos
 imagelicense: CC by SA 3.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intellivision-Console-Set.jpg/1280px-Intellivision-Console-Set.jpg'
-staffcost: 3
-rdcost: 3
-qualitycost: 2
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 4
-profitscore: 5
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 6
+longevityscore: 1
 legal: 'The Intellivision is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'
 yearofrelease: 1980

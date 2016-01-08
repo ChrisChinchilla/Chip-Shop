@@ -10,7 +10,7 @@ profitscore: 2
 profitlength: 1
 longevityscore: 1
 legal: 'Copyright © 1994 - 2015 InfoWorld, Inc'
-concepts: public
+concepts: 'public, immediate, highest_longevity'
 approved: 'Y'
 ---
 

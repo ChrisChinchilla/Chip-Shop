@@ -1,6 +1,6 @@
 ---
-title: MicroAce
-realtitle: MicroAce
+title: Micro Ace
+realtitle: Micro Ace
 cardtype: product
 hardwaretype: computer
 image: microace.jpg
@@ -8,13 +8,13 @@ imageattribution: 1000bit.net
 imagelicense: Copyright 1000bit.net
 imagelink: 'http://www.old-computers.com/museum/computer.asp?st=1&c=1179'
 staffcost: null
-rdcost: 2
-qualitycost: 2
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 2
-profitscore: 2
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: null
 legal: null
 yearofrelease: 1980
 era_sub: 1

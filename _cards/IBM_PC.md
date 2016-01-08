@@ -7,14 +7,14 @@ image: ibm-pc.png
 imageattribution: 'Rama & Musée Bolo'
 imagelicense: CC BY-SA 2.0 FR
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/3/3f/IMB_PC-IMG_7271.jpg'
-staffcost: 5
-qualitycost: 4
-rdcost: 5
-marketingcost: '-1'
-loyaltyscore: 3
-profitscore: 6
+staffcost: 1
+qualitycost: 1
+rdcost: 1
+marketingcost: null
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 5
+longevityscore: 2
 legal: IBM is Copyright the IBM Corporation
 approved: 'Y'
 yearofrelease: 1981

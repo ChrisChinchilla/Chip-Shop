@@ -8,18 +8,18 @@ image: gavilan-cs.jpg
 imageattribution: Vintagecomputer.net
 imagelicense: '© Degnan, Co. 2001 - 2015'
 imagelink: 'http://www.vintagecomputer.net/gavilan/SC/'
-staffcost: 3
-qualitycost: 3
-rdcost: 3
-marketingcost: '-2'
+staffcost: null
+qualitycost: null
+rdcost: null
+marketingcost: -2
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
-profitscore: 2
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: 2
 rdscore: null
 specialscore: null
 legal: null

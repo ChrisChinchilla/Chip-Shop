@@ -7,14 +7,14 @@ image: atarilynx.jpg
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/Atari_Lynx#/media/File:Atari-Lynx-I-Handheld.jpg'
-staffcost: 3
-qualitycost: 4
-rdcost: 5
+staffcost: null
+qualitycost: null
+rdcost: 1
 marketingcost: null
-loyaltyscore: 4
-profitscore: 3
-profitlength: 5
-longevityscore: null
+loyaltyscore: null
+profitscore: null
+profitlength: null
+longevityscore: 1
 legal: 'Atari and Atari Lynx are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1989

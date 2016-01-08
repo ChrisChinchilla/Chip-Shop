@@ -10,7 +10,7 @@ loyaltyscore: -1
 profitscore: -1
 profitlength: 1
 approved: 'Y'
-concepts: 'latestconsolerelease, public'
+concepts: 'latestconsolerelease, public, current_player'
 ---
 
 You receive a bad review in Computer Gaming World, all your rivals are pointing and laughing and your investors are restless.

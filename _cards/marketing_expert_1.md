@@ -8,7 +8,7 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
+staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
@@ -19,14 +19,14 @@ specialcost: null
 loyaltyscore: 1
 profitscore: null
 profitlength: null
-longevityscore: 1
+longevityscore: null
 rdscore: null
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn'
+concepts: 'perturn, marketing_resourcegain_perturn, loyaltyscore_perturn'
 ---
 
 A Marketing expert helps you get more people excited about your products.

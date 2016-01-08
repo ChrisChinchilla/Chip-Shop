@@ -20,13 +20,13 @@ loyaltyscore: null
 profitscore: null
 profitlength: null
 longevityscore: null
-rdscore: 3
+rdscore: 2
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, perproduct, rd_resourcegain'
+concepts: 'choice, choicetype, rd_per_turn'
 ---
 
 An Engineering expert has experience to draw upon to solve complex engineering decisions.

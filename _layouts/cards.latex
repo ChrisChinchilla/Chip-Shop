@@ -24,6 +24,37 @@
   \raggedright
   \tiny{$body$}
   \tiny
+  \begin{flushleft}
+    Extra Costs:
+    $if(staffcost)$
+    Staff: {$staffcost$}
+    $endif$
+    $if(rdcost)$
+    RandD: {$rdcost$}
+    $endif$
+    $if(marketingcost)$
+    Marketing: {$marketingcost$}
+    $endif$
+    $if(longevitycost)$
+    Longevity: {$longevitycost$}
+    $endif$
+    $if(moneycost)$
+    Money: {$moneycost$}
+    $endif$
+
+    Extra Scores:
+    $if(loyaltyscore)$
+    Loyalty: {$loyaltyscore$}
+    $endif$
+    $if(profitscore)$
+    Profit: {$profitscore$}
+    $if(profitlength)$ for {$profitlength$} turns
+    $endif$
+    $endif$
+    $if(longevityscore)$
+    Longevity: {$longevityscore$}
+    $endif$
+  \end{flushleft}
   $if(concepts)$
   \begin{flushleft}
     Concepts: \tiny{$concepts$}\tiny

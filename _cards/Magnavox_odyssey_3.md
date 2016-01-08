@@ -6,14 +6,14 @@ imageattribution: Evan Amos
 imagelicense: CC by SA 3.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey-Console-Set.jpg'
 cardtype: product
-staffcost: 2
-rdcost: 3
-marketingcost: '+1'
-qualitycost: 2
-loyaltycost: 2
-profitscore: -2
+staffcost: null
+rdcost: null
+marketingcost: -1
+qualitycost: null
+loyaltycost: null
+profitscore: -1
 profitlength: null
-longevityscore: 4
+longevityscore: null
 legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips Corporation
 approved: 'Y'
 yearofrelease: 1983

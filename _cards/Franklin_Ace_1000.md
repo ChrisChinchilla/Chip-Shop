@@ -2,17 +2,18 @@
 title: Franklin Ace 1000
 realtitle: Franklin Ace 1000
 cardtype: product
+hardwaretype: computer
 image: franklin-ace-1000.png
 imageattribution: Eric E Johnson / Konomark
 imagelicense: Copyright Eric E Johnson / Konomark
 imagelink: 'http://www.museumofintellectualproperty.org/exhibits/evolution_of_copyright.html'
-staffcost: 2
-qualitycost: 2
-rdcost: 2
-loyaltyscore: 1
-profitscore: 1
+staffcost: null
+qualitycost: null
+rdcost: null
+loyaltyscore: -1
+profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: -1
 rdscore: null
 specialscore: null
 legal: Franklin Ace 1000 is a Trademark of Saunders Acquisition Corp

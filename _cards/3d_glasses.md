@@ -7,13 +7,13 @@ image: 3d-glasses.png
 imageattribution: Evan Amos
 imagelicense: Public domain
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Sega-Masters-Sys-3D-Glasses.jpg'
-staffcost: 1
-rdcost: 2
-marketingcost: -3
-qualitycost: 1
-loyaltyscore: 1
-profitscore: 2
-longevityscore: 3
+staffcost: null
+rdcost: null
+marketingcost: -2
+qualitycost: null
+loyaltyscore: null
+profitscore: null
+longevityscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null

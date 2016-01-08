@@ -7,13 +7,12 @@ image: intellivoice.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Intellivoice.jpg'
-staffcost: 1
-rdcost: 3
+staffcost: null
+rdcost: null
 marketingcost: null
-loyaltyscore: 1
+loyaltyscore: null
 profitscore: null
-longevityscore: 1
-specialscore: Console Accessory
+longevityscore: null
 legal: 'The Intellivoice is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'
 concepts: 'accessory, choiceconsole'
@@ -21,4 +20,4 @@ yearofrelease: 1982
 originalprice: $100
 ---
 
-A Voice Sythneziser adds a new level of engagement to games, allowing them to talk to players.
+A Voice Synthesizer adds a new level of engagement to games, allowing them to talk to players.

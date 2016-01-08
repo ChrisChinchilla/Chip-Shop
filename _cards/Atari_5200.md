@@ -7,14 +7,14 @@ image: atari-5200.png
 imageattribution: Evan Amos
 imagelicense: Public Domain
 imagelink: 'https://en.wikipedia.org/wiki/File:Atari-5200-4-Port-wController-L.jpg'
-staffcost: 4
-rdcost: 3
-qualitycost: 3
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 3
-profitscore: 4
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 1
+longevityscore: null
 legal: 'Atari and Atari 5200 are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1982

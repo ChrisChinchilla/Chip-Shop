@@ -8,24 +8,24 @@ image: kaypro2.jpg
 imageattribution: Four Dots Blog
 imagelicense: null
 imagelink: 'http://www.potenziani.com/2013_05_01_archive.html'
-staffcost: 2
-qualitycost: 4
-rdcost: 3
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 4
-profitscore: 4
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 1
+longevityscore: null
 rdscore: null
 specialscore: null
 legal: Kaypro 2 is a registered Trademarks of Non-Linear Systems
 approved: 'Y'
 yearofrelease: 1982
-era_sub: 2
+era_sub: 1
 era: 80s
 region: usa
 originalprice: $1795
