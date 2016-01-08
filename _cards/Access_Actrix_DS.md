@@ -17,6 +17,9 @@ profitlength: null
 longevityscore: 2
 legal: null
 yearofrelease: 1984
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $3090
 approved: 'Y'
 ---

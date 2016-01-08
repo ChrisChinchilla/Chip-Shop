@@ -24,6 +24,9 @@ specialscore: null
 legal: NeXT Computer and NeXT are Trademarks of Apple Inc
 approved: 'Y'
 yearofrelease: 1988
+era_sub: 5
+era: 80s
+region: usa
 originalprice: $6500
 concepts: null
 ---

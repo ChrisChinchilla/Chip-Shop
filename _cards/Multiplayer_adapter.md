@@ -13,7 +13,7 @@ marketingcost: '+1'
 loyaltyscore: 2
 profitscore: 1/5
 approved: 'Y'
-concepts: choice_console
+concepts: choice_console, accessory
 ---
 
 The multiplayer Adapter is perfect for gatherings of friends to join you playing the latest games.

@@ -18,6 +18,9 @@ specialscore: null
 legal: Franklin Ace 1000 is a Trademark of Saunders Acquisition Corp
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $1349
 concepts: 'apple_clone, choice_test'
 ---

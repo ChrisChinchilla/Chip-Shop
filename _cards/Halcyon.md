@@ -17,6 +17,9 @@ profitscore: -2
 profitlength: null
 approved: 'Y'
 yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $2500
 ---
 

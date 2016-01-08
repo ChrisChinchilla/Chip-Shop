@@ -17,6 +17,9 @@ profitlength: null
 longevityscore: 2
 legal: null
 yearofrelease: 1980
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $149
 approved: 'Y'
 concepts: zx80_clone

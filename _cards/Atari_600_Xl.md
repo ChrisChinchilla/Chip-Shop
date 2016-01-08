@@ -18,6 +18,9 @@ profitlength: null
 legal: 'Atari and Atari 600XL are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $495
 ---
 

@@ -18,6 +18,9 @@ longevityscore: 2
 legal: null
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 4
+era: 80s
+region: usa
 originalprice: $3000
 concepts: ibm_pc_clone
 ---

@@ -17,6 +17,9 @@ longevityscore: 4
 legal: The Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
 approved: 'Y'
 yearofrelease: 1981
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $1800
 ---
 

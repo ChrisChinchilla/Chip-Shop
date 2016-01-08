@@ -15,7 +15,10 @@ profitscore: 2
 profitlength: null
 longevityscore: 5
 legal: Lisa and Apple are trademarks of Apple Inc.
-yearofrelease: 'January 19, 1983'
+yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $9995
 ---
 

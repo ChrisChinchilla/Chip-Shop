@@ -16,7 +16,10 @@ profitlength: null
 longevityscore: 4
 legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips Corporation
 approved: 'Y'
-yearofrelease: null
+yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: null
 ---
 

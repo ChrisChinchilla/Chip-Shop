@@ -24,6 +24,9 @@ specialscore: null
 legal: Copyright Acer Inc
 approved: 'Y'
 yearofrelease: 1980
+era_sub: 1
+era: 80s
+region: usa
 originalprice: null
 ---
 

@@ -17,6 +17,9 @@ longevityscore: 4
 legal: Coleco and ColecoVision are registered Trademarks of River West Brands LLC
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $170
 ---
 

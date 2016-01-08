@@ -16,7 +16,10 @@ profitlength: null
 longevityscore: 1
 legal: 'Atari and Atari 1200XL are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
-yearofrelease: March 1983
+yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $899
 ---
 

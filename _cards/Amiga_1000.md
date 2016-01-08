@@ -17,7 +17,10 @@ profitlength: null
 longevityscore: 3
 legal: 'Amiga and Amiga 1000 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
-yearofrelease: 'July 23, 1985'
+yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $1295
 ---
 

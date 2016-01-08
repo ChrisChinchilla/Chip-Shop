@@ -96,10 +96,10 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        width: 200
+        width: 600
         # height: 200
       source_default:
-        width: 200
+        width: 600
     listings:
       ppi: [1, 1.5, 2]
       attr:
@@ -107,9 +107,9 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        height: 45
+        height: 90
       source_default:
-        height: 45
+        height: 90
 
 # Build settings
 markdown: redcarpet

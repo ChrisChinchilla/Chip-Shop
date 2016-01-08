@@ -18,6 +18,9 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Vectrex-Console-Set.jpg'
 hardwaretype: console
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $199
 ---
 

@@ -18,6 +18,9 @@ longevityscore: 6
 legal: 'The Intellivision is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'
 yearofrelease: 1980
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $299
 ---
 

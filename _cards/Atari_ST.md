@@ -18,6 +18,9 @@ longevityscore: 5
 legal: 'Atari and Atari ST are registered Trademarks of Atari Interactive, Inc.'
 approved: 'Y'
 yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $800
 ---
 
