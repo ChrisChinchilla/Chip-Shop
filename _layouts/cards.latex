@@ -1,63 +1,32 @@
 \documentclass{article}
-\usepackage[paperheight=9.0cm,paperwidth=5.7cm,margin=0.5cm]{geometry}
+\usepackage[paperheight=6.3cm,paperwidth=4.1cm,margin=0.25cm]{geometry}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
 \usepackage{float}
 \usepackage[utf8]{inputenc}
-\usepackage{fontspec}
 \usepackage[export]{adjustbox}
 \usepackage{csquotes}
 % TODO: How to use this font with missing symbols? Or replace?
 % \setmainfont{VT323}
-\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
+\setlength{\textfloatsep}{6.0pt plus 1.0pt minus 2.0pt}
+\setlength{\floatsep}{6.0pt plus 1.0pt minus 2.0pt}
+\setlength{\intextsep}{6.0pt plus 1.0pt minus 1.0pt}
 \begin{document}
-  \begin{flushright}
-    {$title$}
-  \end{flushright}
+  \raggedleft
+  {$title$}
   $if(image)$
-  \begin{figure}[htp]
+  \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth,height=3cm,keepaspectratio]{$image$}
   \end{figure}
   $endif$
-  \scriptsize{$body$}
-  \scriptsize
-  % \begin{flushleft}
-  %   Costs:
-  %   $if(staffcost)$
-  %   Staff: {$staffcost$}
-  %   $endif$
-  %   $if(rdcost)$
-  %   RandD: {$rdcost$}
-  %   $endif$
-  %   $if(marketingcost)$
-  %   Marketing: {$marketingcost$}
-  %   $endif$
-  %   $if(longevitycost)$
-  %   Longevity: {$longevitycost$}
-  %   $endif$
-  %   $if(moneycost)$
-  %   Money: {$moneycost$}
-  %   $endif$
-
-  %   Scores:
-  %   $if(loyaltyscore)$
-  %   Loyalty: {$loyaltyscore$}
-  %   $endif$
-  %   $if(profitscore)$
-  %   Profit: {$profitscore$}
-  %   $if(profitlength)$ for {$profitlength$} turns
-  %   $endif$
-  %   $endif$
-  %   $if(longevityscore)$
-  %   Longevity: {$longevityscore$}
-  %   $endif$
-  % \end{flushleft}
+  \raggedright
+  \tiny{$body$}
+  \tiny
+  $if(concepts)$
   \begin{flushleft}
-    $if(concepts)$
-    Concepts: {$concepts$}
-    $endif$
+    Concepts: \tiny{$concepts$}\tiny
   \end{flushleft}
-$cardtype$
+  $endif$
 \end{document}
