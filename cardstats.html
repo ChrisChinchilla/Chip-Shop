@@ -1,0 +1,29 @@
+---
+layout: default
+title: Card Stats
+permalink: /cardstats/
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Card Stats</h1>
+  </header>
+
+  <article class="post-content">
+    Admin page for measuring things
+  </article>
+
+  {% assign subEraDeck1 = site.cards | where:"era_sub", 1 %}
+  <p>Sub Era 1: {{ subEraDeck1.size }}</p>
+  {% assign subEraDeck2 = site.cards | where:"era_sub", 2 %}
+  <p>Sub Era 2: {{ subEraDeck2.size }}</p>
+  {% assign subEraDeck3 = site.cards | where:"era_sub", 3 %}
+  <p>Sub Era 3: {{ subEraDeck3.size }}</p>
+  {% assign subEraDeck4 = site.cards | where:"era_sub", 4 %}
+  <p>Sub Era 4: {{ subEraDeck4.size }}</p>
+  {% assign subEraDeck5 = site.cards | where:"era_sub", 5 %}
+  <p>Sub Era 5: {{ subEraDeck5.size }}</p>
+  {% assign accessoryCards = site.cards | where:"hardwaretype", 'accessory' %}
+  <p>Accessories: {{ accessoryCards.size }}</p>
+</div>

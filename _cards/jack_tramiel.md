@@ -7,7 +7,7 @@ image: jack-tramiel.jpg
 imageattribution: Commodore
 imagelicense: Commodore
 imagelink: 'http://www.bild.de/digital/computer/commodore-64/commodore-gruender-jack-tramiel-tot-23559480.bild.html'
-staffcost: 2
+staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null

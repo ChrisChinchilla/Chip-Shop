@@ -7,13 +7,12 @@ imageattribution: taylorhatmaker
 imagelicense: CC BY 2.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Atari_E.T._Dig-_Alamogordo,_New_Mexico_(14036097792).jpg'
 cardtype: Event
-loyaltycost: -1
-longevity cost: -1
+loyaltycost: -2
+longevitycost: -2
 profitscore: 1/2
-profitlength: 2
+profitlength: 1/2
 staffcost: 1/4
-specialcost: Only affects console products produced or in production
-concepts: 'public, any_console_release, immediate, x_inproduction, reduce'
+concepts: 'allplayers, public, immediate, any_console_release, inproduction_x, reduce'
 approved: 'Y'
 ---
 

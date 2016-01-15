@@ -8,9 +8,9 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-staffcost: 1
-qualitycost: -1
-rdcost: -1
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
 longevitycost: null
 moneycost: 2
@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, perproduct'
+concepts: advanced_rd
 ---
 
 An Engineering genius has experience to draw upon and a spark to try crazy ideas that might just work.

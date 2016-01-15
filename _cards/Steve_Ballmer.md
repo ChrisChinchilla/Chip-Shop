@@ -8,7 +8,7 @@ image: steve-ballmer.jpg
 imageattribution: Circa
 imagelicense: '2015 © CIRCA 1605, INC'
 imagelink: 'http://circanews.com/news/steve-ballmers-tenure-at-microsoft'
-staffcost: 2
+staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: anyrelease
+concepts: null
 ---
 
 Steve is a skilled business manager know for his energy and exuberance.

@@ -7,12 +7,12 @@ image: console-adapter.jpg
 imageattribution: AtariAge
 imagelicense: null
 imagelink: 'http://atariage.com/forums/topic/167048-atari-7800-adaptor-for-atari-5200-at-pax-east/'
-staffcost: 2
-rdcost: 2
-qualitycost: 1
-marketingcost: '+1'
-loyaltyscore: 1
-profitscore: 1/4
+staffcost: null
+rdcost: null
+qualitycost: null
+marketingcost: null
+loyaltyscore: null
+profitscore: null
 profitlength: null
 approved: 'Y'
 concepts: 'search_discard_console, accessory, mutualbenefit_loyaltyscore, mutualbenefit_profitscore'

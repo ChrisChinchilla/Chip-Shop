@@ -7,17 +7,20 @@ image: atari-600xl.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari-600XL-PC.jpg'
-staffcost: 3
-rdcost: 3
-qualitycost: 3
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 4
-longevityscore: 2
-profitscore: 4
+loyaltyscore: null
+longevityscore: null
+profitscore: null
 profitlength: null
 legal: 'Atari and Atari 600XL are registered Trademarks of Atari Interactive, Inc'
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $495
 ---
 

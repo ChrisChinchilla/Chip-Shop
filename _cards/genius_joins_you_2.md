@@ -6,10 +6,10 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-longevityscore: 4
+longevityscore: null
 specialscore: null
-concepts: 'immediate, optional, search_staff_genius, resourcesneeded'
+concepts: 'immediate, highest_longevity, search_staff_Genius, resourcesneeded'
 approved: 'Y'
 ---
 
-A Genius decides to join your team! It is a great day!
+An Genius decides to join your team! It is a great day!

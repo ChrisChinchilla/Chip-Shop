@@ -3,4 +3,4 @@ layout: concept
 title: X Resource Gain
 ---
 
-Gain the indicated value of resource 'x'.
+Gain one resource of type 'x'. In some cases, this is per turn and will be indicated accordingly.

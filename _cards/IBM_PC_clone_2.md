@@ -7,17 +7,20 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-staffcost: 3
-qualitycost: 4
-rdcost: 2
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
-loyaltyscore: 3
-profitscore: 3
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: null
 legal: null
 approved: 'Y'
 yearofrelease: 1983
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $3000
 concepts: ibm_pc_clone
 ---

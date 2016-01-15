@@ -2,13 +2,13 @@
 title: Vectrex
 realtitle: Vectrex
 cardtype: product
-staffcost: 3
-rdcost: 2
+staffcost: null
+rdcost: null
 marketingcost: null
-qualitycost: 2
-loyaltyscore: 3
-longevityscore: 4
-profitscore: 5
+qualitycost: null
+loyaltyscore: null
+longevityscore: null
+profitscore: null
 profitlength: null
 legal: null
 approved: 'Y'
@@ -18,6 +18,9 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Vectrex-Console-Set.jpg'
 hardwaretype: console
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $199
 ---
 

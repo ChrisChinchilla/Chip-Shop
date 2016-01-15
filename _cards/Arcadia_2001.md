@@ -7,16 +7,19 @@ image: emersonarcadia2001.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'
-staffcost: 3
-qualitycost: 3
-rdcost: 3
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
-loyaltyscore: 3
-profitscore: 5
+loyaltyscore: null
+profitscore: null
 profitlength: null
 legal: Emerson and Emerson Arcadia are registered Trademarks of Emerson Radio Corporation
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $199
 ---
 

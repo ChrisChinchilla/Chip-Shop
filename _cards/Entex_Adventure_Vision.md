@@ -2,21 +2,25 @@
 title: Entex Adventure Vision
 realtitle: Entex Adventure Vision
 cardtype: product
+hardwaretype: console
 image: entex-adventure-vision.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-staffcost: 2
-rdcost: 3
-qualitycost: 2
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-loyaltyscore: 2
-profitscore: 2
+loyaltyscore: null
+profitscore: null
 profitlength: null
 longevityscore: 2
 legal: null
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: null
 ---
 

@@ -10,7 +10,7 @@ imagelicense: Public Domain
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Space_Laser_Satellite_Defense_System_Concept.jpg'
 staffcost: 2
 qualitycost: null
-rdcost: 2
+rdcost: 1
 marketingcost: null
 longevitycost: null
 moneycost: null
@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'optional, choice, anycomputerrelease'
+concepts: 'highest_longevity, public, resources_needed'
 ---
 
 A representative of the American military visits your company and offers a lucrative contract in helping defend the country against an unseen threat.

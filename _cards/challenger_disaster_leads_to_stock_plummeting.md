@@ -1,6 +1,6 @@
 ---
-title: Challenger disaster leads to stock plummeting
-realtitle: Challenger disaster leads to stock plummeting
+title: Challenger disaster leads to confidence loss
+realtitle: Challenger disaster leads to confidence loss
 cardtype: event
 image: challenger-photo-montage.jpg
 imageattribution: Galdrad
@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'immediate, all, public'
+concepts: 'immediate, all, public, latestrelease'
 ---
 
-A catastrophic space shuttle diaster leads to a reduction of confidence in computer technology.
+A catastrophic space shuttle disaster leads to a reduction of confidence in computer technology.

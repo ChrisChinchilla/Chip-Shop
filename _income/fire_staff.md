@@ -13,7 +13,7 @@ longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: -2
+loyaltyscore: '-2 per staff'
 profitscore: null
 profitlength: null
 longevityscore: null

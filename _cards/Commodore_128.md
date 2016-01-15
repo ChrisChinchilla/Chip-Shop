@@ -6,17 +6,20 @@ image: c128.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Commodore-128.png'
-staffcost: 4
-rdcost: 6
-qualitycost: 2
+staffcost: null
+rdcost: 1
+qualitycost: -1
 marketingcost: null
-loyaltyscore: 6
-profitscore: 6
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: null
 legal: 'Commodore and Commodore 128 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
 yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $300
 ---
 

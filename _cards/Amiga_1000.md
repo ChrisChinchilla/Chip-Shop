@@ -7,17 +7,20 @@ image: amiga1000.png
 imageattribution: null
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Amiga_1000DP.jpg'
-staffcost: 4
-rdcost: 6
-qualitycost: 4
+staffcost: null
+rdcost: 1
+qualitycost: null
 marketingcost: null
-loyaltyscore: 4
-profitscore: 4
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 3
+longevityscore: null
 legal: 'Amiga and Amiga 1000 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
-yearofrelease: 'July 23, 1985'
+yearofrelease: 1985
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $1295
 ---
 

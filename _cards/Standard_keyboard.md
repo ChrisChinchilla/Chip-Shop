@@ -7,11 +7,11 @@ image: standard-keyboard.jpg
 imageattribution: "Vetronic's Apple World"
 imagelicense: "Copyright Vetronic's Apple World"
 imagelink: 'http://www.vectronicsappleworld.com/archives/vintage/0017.php'
-staffcost: 1
-rdcost: 1
-qualitycost: 1
+staffcost: null
+rdcost: null
+qualitycost: null
 marketingcost: null
-profitscore: 1/5
+profitscore: null
 concepts: 'accessory, choicecomputer'
 approved: 'Y'
 ---

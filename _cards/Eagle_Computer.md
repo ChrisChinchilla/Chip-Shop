@@ -1,28 +1,31 @@
 ---
-title: Eagle Computer
-realtitle: Eagle Computer
+title: Eagle PC
+realtitle: Eagle PC
 cardtype: product
 hardwaretype: computer
 image: eagle-computer.jpg
 imageattribution: Mark Richards
 imagelicense: © Mark Richards
 imagelink: 'http://www.computerhistory.org/revolution/personal-computers/17/302/1186'
-staffcost: 3
-qualitycost: 4
-rdcost: 4
+staffcost: null
+qualitycost: null
+rdcost: null
 marketingcost: null
-longevitycost: 3
+longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 3
-profitscore: 3
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: null
 rdscore: null
 legal: null
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $2385
 concepts: ibm_pc_clone
 ---

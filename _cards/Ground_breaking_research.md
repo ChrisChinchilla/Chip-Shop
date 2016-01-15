@@ -7,7 +7,7 @@ imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
 rdscore: 2
-concepts: 'immediate, rd_resourcegain'
+concepts: 'immediate, rd_resourcegain, highest_longevity'
 approved: 'Y'
 ---
 

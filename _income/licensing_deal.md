@@ -13,10 +13,10 @@ longevitycost: null
 moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: -1
-profitscore: null
+loyaltyscore: -3
+profitscore: qualitycost x rdcost
 profitlength: null
-longevityscore: null
+longevityscore: 1
 rdscore: null
 specialscore: null
 legal: Blah is a Trademark of Blah Inc

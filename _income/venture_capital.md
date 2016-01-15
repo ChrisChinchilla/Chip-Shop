@@ -10,13 +10,13 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 1/5
+moneycost: 10% of profitscore
 loyaltycost: null
 specialcost: null
-loyaltyscore: 3
+loyaltyscore: 4
 profitscore: loyaltyscore x longevityscore
 profitlength: null
-longevityscore: 2
+longevityscore: 3
 rdscore: null
 specialscore: null
 legal: null

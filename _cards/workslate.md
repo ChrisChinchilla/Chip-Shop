@@ -6,16 +6,19 @@ image: convergent-workslate.jpg
 imageattribution: vintagecomputer.net
 imagelicense: '© Degnan, Co.'
 imagelink: 'http://www.vintagecomputer.net/convergent/?sort=size'
-staffcost: 3
-rdcost: 3
-qualitycost: 2
-marketingcost: '-1'
-loyaltyscore: 2
-profitscore: 1
+staffcost: null
+rdcost: null
+qualitycost: null
+marketingcost: 1
+loyaltyscore: null
+profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: null
 legal: null
 yearofrelease: 1982
+era_sub: 1
+era: 80s
+region: usa
 originalprice: $895
 approved: 'Y'
 ---

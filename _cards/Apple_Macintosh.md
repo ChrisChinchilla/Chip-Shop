@@ -7,17 +7,20 @@ image: applemac.png
 imageattribution: allaboutapple.com
 imagelicense: CC BY-SA 2.5 IT
 imagelink: 'https://en.wikipedia.org/wiki/File:Macintosh_128k_transparency.png'
-staffcost: 4
-qualitycost: 4
-rdcost: 6
+staffcost: 1
+qualitycost: null
+rdcost: 1
 marketingcost: null
-loyaltyscore: 5
-profitscore: 4
+loyaltyscore: 1
+profitscore: null
 profitlength: null
-longevityscore: 7
+longevityscore: 2
 legal: Macintosh and Apple are trademarks of Apple Inc.
 approved: 'Y'
 yearofrelease: 1984
+era_sub: 3
+era: 80s
+region: usa
 originalprice: $2000
 concepts: 'defunct_lisa, lisa_reduce'
 ---

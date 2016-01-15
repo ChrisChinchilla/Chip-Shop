@@ -6,17 +6,20 @@ image: colecovision.png
 imageattribution: Wikipedia
 imagelicense: CC Wikipedia
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/ColecoVision-wController-L.jpg'
-staffcost: 4
-rdcost: 4
-qualitycost: 3
-marketingcost: 5
-loyaltyscore: 4
-profitscore: 6
-profitlength: 3
-longevityscore: 4
+staffcost: null
+rdcost: null
+qualitycost: null
+marketingcost: -1
+loyaltyscore: null
+profitscore: 1
+profitlength: null
+longevityscore: null
 legal: Coleco and ColecoVision are registered Trademarks of River West Brands LLC
 approved: 'Y'
 yearofrelease: 1982
+era_sub: 2
+era: 80s
+region: usa
 originalprice: $170
 ---
 

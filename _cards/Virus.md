@@ -8,7 +8,7 @@ image: elkcloner.png
 imageattribution: The Virus Encyclopedia
 imagelicense: CC BY-NC-SA 3.0
 imagelink: 'http://virus.wikidot.com/'
-concepts: immediate
+concepts: 'immediate, public, current_player'
 approved: 'Y'
 ---
 

@@ -11,7 +11,7 @@ qualitycost: null
 rdcost: null
 marketingcost: 2
 longevitycost: null
-moneycost: 4
+moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
