@@ -22,7 +22,7 @@ for filename in _cards/*.md; do
 
 done
 
-pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 3x3 --suffix complete --outfile ./cards.pdf
+pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./cards.pdf
 
 mv ./cards.pdf pod/cards_complete.pdf
 
@@ -34,7 +34,7 @@ for filename in _income/*.md; do
   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/income/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 done
 
-pdfjam pod/pdf/income/*.pdf --no-landscape --frame true --nup 3x3 --suffix complete --outfile ./income.pdf
+pdfjam pod/pdf/income/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./income.pdf
 
 mv ./income.pdf pod/income_complete.pdf
 

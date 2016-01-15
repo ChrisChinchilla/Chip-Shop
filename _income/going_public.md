@@ -6,13 +6,13 @@ image: stock-board.jpg
 imageattribution: Katrina.Tuliao
 imagelicense: CC BY 2.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg'
-staffcost: 2
-longevitycost: 4
+staffcost: 1
+longevitycost: 6
 moneycost: 4
-concepts: 'optional, resources_needed, maintenance'
-loyaltyscore: '-1 / -1'
-longevityscore: 0 / -1
-profitscore: 3/4 (Total)
+concepts: 'minimum_longevity, staff_perturn'
+loyaltyscore: -3
+longevityscore: null
+profitscore: longevityscore
 profitlength: ∞
 approved: 'Y'
 ---
