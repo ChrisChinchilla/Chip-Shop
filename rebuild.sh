@@ -8,6 +8,7 @@ jekyll build
 
 # Process Cards
 mkdir -p pod/pdf/cards
+mkdir -p pod/png/cards
 mkdir -p pod/pdf/income
 mkdir -p pod/pdf/legal
 
@@ -16,10 +17,14 @@ for filename in _cards/*.md; do
   echo $filename
   # TODO: Counter of progress
 
+  # Create PDFs
+
   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
+  # Create PNGs
+  convert -density 300 -depth 8 -quality 85 pod/pdf/cards/"$(basename "$filename" .md)".pdf pod/png/cards/"$(basename "$filename" .md)".png
 done
 
 pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./cards.pdf
