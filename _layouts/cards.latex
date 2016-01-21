@@ -29,7 +29,7 @@
     Staff: {$staffcost$}
     $endif$
     $if(rdcost)$
-    R&D: {$rdcost$}
+    R\&D: {$rdcost$}
     $endif$
     $if(marketingcost)$
     Marketing: {$marketingcost$}
