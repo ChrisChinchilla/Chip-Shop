@@ -26,4 +26,10 @@ permalink: /cardstats/
   <p>Sub Era 5: {{ subEraDeck5.size }}</p>
   {% assign accessoryCards = site.cards | where:"hardwaretype", 'accessory' %}
   <p>Accessories: {{ accessoryCards.size }}</p>
+  {% assign productDeck = site.cards | where:"cardtype", "product" %}
+  <p>Products: {{ productDeck.size }}</p>
+  {% assign eventDeck = site.cards | where:"cardtype", "event" %}
+  <p>Events: {{ eventDeck.size }}</p>
+  {% assign personalityDeck = site.cards | where:"cardtype", "staff" %}
+  <p>Personality: {{ personalityDeck.size }}</p>
 </div>
