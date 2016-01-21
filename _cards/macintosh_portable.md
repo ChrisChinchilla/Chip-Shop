@@ -4,7 +4,7 @@ realtitle: Macintosh Portable
 cardtype: product
 hardwaretype: computer
 stafftype: null
-image: macintosh-portable.jpg
+image: macintosh-portable.png
 imageattribution: Rama
 imagelicense: SA 2.0 fr
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_Portable-IMG_7541.jpg/1280px-Macintosh_Portable-IMG_7541.jpg'

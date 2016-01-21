@@ -3,7 +3,7 @@ title: Atari XEGS
 realtitle: Atari XEGS
 cardtype: product
 hardwaretype: 'console, computer'
-image: atarixegs.jpg
+image: atarixegs.png
 imageattribution: Bilby
 imagelicense: CC BY 3.0
 imagelink: 'https://en.wikipedia.org/wiki/Atari_XEGS#/media/File:Atari_XEGS.jpg'

@@ -1,6 +1,6 @@
 ---
-title: Bad Review in Computer Gaming World
-realtitle: Bad Review in Computer Gaming World
+title: Review in Computer Gaming World
+realtitle: Review in Computer Gaming World
 cardtype: event
 image: bad-review-cgw.jpg
 imageattribution: Computer Gaming World

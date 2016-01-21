@@ -3,7 +3,7 @@ title: Atari Lynx
 realtitle: Atari Lynx
 cardtype: Product
 hardwaretype: console
-image: atarilynx.jpg
+image: atarilynx.png
 imageattribution: Evan Amos
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/Atari_Lynx#/media/File:Atari-Lynx-I-Handheld.jpg'
