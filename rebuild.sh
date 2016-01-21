@@ -9,9 +9,11 @@ jekyll build
 
 mkdir -p pod/pdf/cards
 mkdir -p pod/pdf/cards/events
+mkdir -p pod/pdf/cards/personalities
 mkdir -p pod/pdf/income
 mkdir -p pod/pdf/legal
 mkdir -p simulators/tabletop_simulator/cards/events
+mkdir -p simulators/tabletop_simulator/cards/personalities
 # mkdir -p simulators/tabletop_simulator/cards/events/png
 
 
@@ -25,7 +27,7 @@ for filename in _cards/events/*.md; do
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # Create Individual PNGs
-  convert -density 300 -depth 8 -quality 85 pod/pdf/cards/events/"$(basename "$filename" .md)".pdf simulators/tabletop_simulator/cards/events/"$(basename "$filename" .md)".png
+  convert -density 72 -depth 8 -quality 85 pod/pdf/cards/events/"$(basename "$filename" .md)".pdf simulators/tabletop_simulator/cards/events/"$(basename "$filename" .md)".png
 done
 
 pdfjam pod/pdf/cards/events/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./events_cards.pdf
