@@ -18,19 +18,18 @@
   $if(image)$
   \begin{figure}[H]
     \centering
-    \includegraphics[width=\textwidth,height=3cm,keepaspectratio]{$image$}
+    \includegraphics[width=\textwidth,height=2.5cm,keepaspectratio]{$image$}
   \end{figure}
   $endif$
   \raggedright
   \tiny{$body$}
   \tiny
   \begin{flushleft}
-    Extra Costs:
     $if(staffcost)$
     Staff: {$staffcost$}
     $endif$
     $if(rdcost)$
-    RandD: {$rdcost$}
+    R\&D: {$rdcost$}
     $endif$
     $if(marketingcost)$
     Marketing: {$marketingcost$}
@@ -42,7 +41,6 @@
     Money: {$moneycost$}
     $endif$
 
-    Extra Scores:
     $if(loyaltyscore)$
     Loyalty: {$loyaltyscore$}
     $endif$

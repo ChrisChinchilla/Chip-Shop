@@ -3,7 +3,7 @@ title: Atari ST
 realtitle: Atari ST
 cardtype: product
 hardwaretype: computer
-image: atarist.jpg
+image: atarist.png
 imageattribution: Bill Bertram
 imagelicense: CC-BY-2.5
 imagelink: 'https://commons.wikimedia.org/wiki/File:Atari_1040STf.jpg'
