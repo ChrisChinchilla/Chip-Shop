@@ -1,4 +1,5 @@
-\documentclass[a4paper,landscape]{article}
+\documentclass{article}
+\usepackage[paperwidth=297mm,paperheight=137mm]{geometry}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/boards/}}
