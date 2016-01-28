@@ -7,4 +7,8 @@ scp -r * deployer@46.101.5.26:/var/www/chipshop
 
 cd ../pod
 
-scp -r * deployer@46.101.5.26:/var/www/chipshop
+scp -r * deployer@46.101.5.26:/var/www/chipshop/pod
+
+cd ../simulators
+
+scp -r * deployer@46.101.5.26:/var/www/chipshop/simulators
