@@ -142,6 +142,9 @@ mv ./products_sub_era_5_cards.pdf pod/products_sub_era_5_cards.pdf
 # Create Card Sheets for Tabletop Simulator
 montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simulators/tabletop_simulator/cards/products/sub_era_5/*.png simulators/tabletop_simulator/cards/products_sub_era_5_card_sheet.png
 
+cp assets/print/products_card_back.png simulators/tabletop_simulator/cards/products_card_back.png
+
+
 
 echo "Processing Events Cards…"
 for filename in _cards/events/*.md; do
@@ -162,6 +165,8 @@ mv ./events_cards.pdf pod/events_cards.pdf
 # Create Card Sheets for Tabletop Simulator
 montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simulators/tabletop_simulator/cards/events/*.png simulators/tabletop_simulator/cards/events_card_sheet.png
 
+cp assets/print/events_card_back.png simulators/tabletop_simulator/cards/events_card_back.png
+
 
 echo "Processing Personality Cards…"
 for filename in _cards/personalities/*.md; do
@@ -181,6 +186,8 @@ mv ./personalities_cards.pdf pod/personalities_cards.pdf
 
 # Create Card Sheets for Tabletop Simulator
 montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simulators/tabletop_simulator/cards/personalities/*.png simulators/tabletop_simulator/cards/personalities_card_sheet.png
+
+cp assets/print/personalities_card_back.png simulators/tabletop_simulator/cards/personalities_card_sheet.png
 
 
 
