@@ -7,7 +7,7 @@ image: applemac.png
 imageattribution: allaboutapple.com
 imagelicense: CC BY-SA 2.5 IT
 imagelink: 'https://en.wikipedia.org/wiki/File:Macintosh_128k_transparency.png'
-staffcost: 1
+staffcost: null
 qualitycost: null
 rdcost: 1
 marketingcost: null

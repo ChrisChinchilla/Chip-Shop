@@ -8,12 +8,12 @@ image: military-contract.jpg
 imageattribution: 'U.S. Air Force - ID:DFSC8503352'
 imagelicense: Public Domain
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Space_Laser_Satellite_Defense_System_Concept.jpg'
-staffcost: 2
+staffcost: null
 qualitycost: null
 rdcost: 1
 marketingcost: null
 longevitycost: null
-moneycost: null
+moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: -2
@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'highest_longevity, public, resources_needed'
+concepts: 'choice, highest_longevity, resources_needed'
 ---
 
 A representative of the American military visits your company and offers a lucrative contract in helping defend the country against an unseen threat.

@@ -23,7 +23,7 @@ rdscore: null
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'search_ibm_pc, all_reduce_half, minimum_longevity'
+concepts: 'search_ibm_pc, all_reduce_half'
 ---
 
 Philip is a product manager with an engineering background who believes that third-parties are the key to low cost production and mainstream success.

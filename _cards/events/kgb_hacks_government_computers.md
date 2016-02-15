@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'immediate, allplayers, public'
+concepts: 'allplayers'
 ---
 
 A KGB led attack targets US government computers, causing a lack of consumer confidence in US computer companies.

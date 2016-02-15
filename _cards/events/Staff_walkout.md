@@ -7,7 +7,7 @@ imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
 staffcost: null
-concepts: 'immediate, lowest_loyalty, 1_staff_loss'
+concepts: 'lowest_loyalty, 1_staff_loss'
 approved: 'Y'
 ---
 

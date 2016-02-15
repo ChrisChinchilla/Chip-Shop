@@ -23,7 +23,7 @@ rdscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'search_macintosh, rd_reduce_macintosh, moneycost_perturn'
+concepts: 'search_macintosh, rd_reduce_macintosh'
 ---
 
 Adele is a computer scientist working on replacing traditional computer interfaces with a graphical version.

@@ -9,7 +9,7 @@ imagelink: Where did this image come from?
 profitscore: 2
 profitlength: 1
 longevityscore: 1
-concepts: 'choice, public, highest_loyalty'
+concepts: 'highest_loyalty'
 approved: 'Y'
 ---
 

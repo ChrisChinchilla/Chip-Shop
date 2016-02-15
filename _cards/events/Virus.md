@@ -2,13 +2,14 @@
 title: Virus
 realtitle: Virus
 cardtype: Event
-loyaltycost: -1
 yearofrelease: 1982
 image: elkcloner.png
 imageattribution: The Virus Encyclopedia
 imagelicense: CC BY-NC-SA 3.0
 imagelink: 'http://virus.wikidot.com/'
-concepts: 'immediate, public, current_player'
+concepts: highest_longevity
+loyaltyscore: -2
+longevityscore: -2
 approved: 'Y'
 ---
 

@@ -8,7 +8,7 @@ imagelicense: License type
 imagelink: Where did this image come from?
 staffcost: null
 rdcost: null
-concepts: 'immediate, loyalty_test, staff_loss'
+concepts: 'loyalty_test, staff_transfer'
 approved: 'Y'
 ---
 

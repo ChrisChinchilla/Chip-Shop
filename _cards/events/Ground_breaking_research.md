@@ -6,8 +6,8 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-rdscore: 2
-concepts: 'immediate, rd_resourcegain, highest_longevity'
+rdscore: null
+concepts: '2_rd_resourcegain, highest_longevity'
 approved: 'Y'
 ---
 

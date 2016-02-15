@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn, moneycost_perturn'
+concepts: 'choice'
 ---
 
 A business genius helps you focus and perfect a particular product line.

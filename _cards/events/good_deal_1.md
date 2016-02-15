@@ -8,7 +8,7 @@ imagelicense: License type
 imagelink: Where did this image come from?
 rdcost: null
 approved: 'Y'
-concepts: 'immediate, choice, rd_resourcegain'
+concepts: 'rd_resourcegain, in_production'
 ---
 
-After weeks of negotiation you got a good deal on parts or distribution.
+After weeks of negotiation you receive a good deal on parts for a product in development.

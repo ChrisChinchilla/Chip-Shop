@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn, quality_resourcegain_perturn'
+concepts: 'quality_resource_perturn'
 ---
 
 A product expert helps make a product that little bit better.

@@ -7,7 +7,7 @@ image: test.png
 imageattribution: null
 imagelicense: null
 imagelink: null
-staffcost: -1
+staffcost: null
 qualitycost: -1
 rdcost: null
 marketingcost: 1

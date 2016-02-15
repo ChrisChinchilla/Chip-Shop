@@ -9,7 +9,7 @@ imagelink: 'http://www.vintagecomputing.com/wp-content/images/retroscan/piracy_b
 profitscore: 1/4
 profitlength: 1/2
 legal: null
-concepts: 'immediate, public, highest_loyalty, reduce, latestrelease'
+concepts: 'highest_longevity, reduce, latest_release'
 approved: 'Y'
 ---
 

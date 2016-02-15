@@ -7,8 +7,8 @@ image: partsshortage.jpg
 imageattribution: Shieldforyoureyes Dave Fischer - Own work
 imagelicense: Cc-by-sa-10.0
 imagelink: Where did this image come from?
-profitlength: -1
-concepts: 'immediate, inproduction, allplayers'
+rdcost: -1
+concepts: 'in_production, current_player'
 approved: 'Y'
 ---
 

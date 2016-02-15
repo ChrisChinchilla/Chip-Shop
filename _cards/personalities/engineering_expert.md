@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, rd_per_turn'
+concepts: 'rd_per_turn'
 ---
 
 An Engineering expert has experience to draw upon to solve complex engineering decisions.

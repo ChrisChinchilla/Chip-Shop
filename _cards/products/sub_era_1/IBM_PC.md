@@ -7,7 +7,7 @@ image: ibm-pc.png
 imageattribution: 'Rama & Musée Bolo'
 imagelicense: CC BY-SA 2.0 FR
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/3/3f/IMB_PC-IMG_7271.jpg'
-staffcost: 1
+staffcost: 
 qualitycost: 1
 rdcost: 1
 marketingcost: null

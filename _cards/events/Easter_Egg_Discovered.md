@@ -10,7 +10,7 @@ loyaltyscore: 2
 profitscore: 1
 profitlength: 1
 approved: 'Y'
-concepts: 'immediate, choice, public, current_player'
+concepts: 'current_player, latest_release'
 ---
 
 Despite your best efforts, an itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

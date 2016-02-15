@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, moneycost_perturn'
+concepts: 'choice'
 ---
 
 A business expert helps you focus a particular product line.

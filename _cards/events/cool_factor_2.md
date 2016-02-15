@@ -8,7 +8,7 @@ imagelicense: null
 imagelink: null
 loyaltyscore: 1
 approved: 'Y'
-concepts: 'immediate, public, highest_loyalty'
+concepts: 'highest_loyalty'
 ---
 
 Some companies, products and personalities have just got something a little special that the public love.

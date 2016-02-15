@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice, choicetype, perturn, 2_quality_resourcegain_perturn'
+concepts: '2_quality_resource_perturn'
 ---
 
 A product genius helps make a product that little bit better, increasing quality and loyalty.

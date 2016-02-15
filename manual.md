@@ -16,7 +16,7 @@ What about your competitors? Will they be working on something bigger, better an
 ## Object of the game
 The aim of Chip Shop is to survive a decade, building and releasing products to match your ideals for the company. There are three score tracks in the game: profit, longevity and loyalty and you can choose which path(s) you wish to follow.
 
-By spending money you will need to gain resources for staff, quality, R&D and marketing to build products that will then affect your scores. Players are generally working on their products in secret, with only personalities and scores public to other players.
+By spending money you will need to gain resources for quality, R&D and marketing to build products that will then affect your scores. Players are generally working on their products in secret, with only personalities and scores public to other players.
 
 During the course of the game certain personalities and specialists may be attracted to your company and will bring certain positive and negative effects. Every turn (a year) players draw event cards and these will also affect a player or players.
 
@@ -50,7 +50,7 @@ Profit is made from selling products, the more you sell for more time, the more 
 
 ## Setup
 ### Main Board
-Place the main board in the middle of the table. Add a score marker for each player at 0 to the Longevity and Loyalty tracks.
+Place the main board in the middle of the table. Add a score marker for each player at 3 to the Longevity and Loyalty tracks.
 
 Add marker to square 1 on the turn track.
 
@@ -68,7 +68,7 @@ Separate remaining products into their matching 'sub era' piles, indicated by a 
 Shuffle the events deck and place it near the main game board, ideally at the bottom edge to follow turn phase order.
 
 ### Players Start a New Company
-Players start as a new company with 10 Money.
+Players start as a new company with 20 Money.
 
 Each player takes counters for a colour of their choosing, a 'factory' play board, places it in front of them and places a player screen in front of the play board.
 
@@ -87,7 +87,7 @@ Each turn consists of 6 short phases, these happen with all players undertaking 
 
 #### 1. Start of the Year
 ##### Advance Turn marker and Sub-eras
-Move the turn marker one spot to the right. If the new turn square has an arrow above it, then move all product card decks one square to the left. The left most card deck should be placed into the product discard pile, face up.
+Move the turn marker one spot to the right (Not in 1st turn). If the new turn square has an arrow above it, then move all product card decks one square to the left. The left most card deck should be placed into the product discard pile, face up.
 
 ##### Receive Money from cards
 In this phase players receive money for any products built (or other sources), removing one pile of money from the card and adding it to the bank account space.
@@ -107,24 +107,21 @@ Resources may be saved in a players factory for later or assigned to a product i
 ##### Quality
 Allocating more quality to a product in production will result in a higher longevity or loyalty score when the product is built. When the product is built a player may decide how they want to split the score between the two scores.
 
-##### Staff
-Staff represent your companies ability to undertake any other kind of action. When purchasing staff they may be kept as generic staff (some events may require spare staff) or moved into specialist roles within marketing or Research & Development. Bear in mind that all staff resources in any department will need payment in the End of Year phase. Players always need at least one staff resource available or allocated elsewhere. If a player runs out of staff they are declared [bankrupt](concepts/bankrupt) and must start the game again as a new company (as in setup phase).
-
 ### Marketing
 There's no point having a great idea and product if no one hears about it. Marketing resources represent an investment in the promotion of a product. It can also represent how familiar people are with the concepts behind a product.
 
 The marketing value you assign to a product equals the amount of turns it will make profit for, i.e.
 
 #### Marketing department
-Staff moved into the marketing department may be saved for later use, some events, or moved to products in development. Allocating more marketing resources to a product in production will dictate the number of turns the product will make profit for. The amount of profit per turn is dictated by a players current loyalty score
+Resources in the marketing department may be saved for later use, some events, or moved to products in development. Allocating more marketing resources to a product in production will dictate the number of turns the product will make profit for. The amount of profit per turn is dictated by a players current loyalty score
 
 **Product potential for profit = Current loyalty score for amount of marketing resources allocated turns**
 
 #### Research & Development department
-Staff moved into the R&D department are generally saved to be used to draw a product card from the product area of the main board. Once they have been used to draw a product, the resources are discarded.
+Resources in the R&D department are generally saved to be used to draw a product card from the product area of the main board. Once they have been used to draw a product, the resources are discarded.
 
 #### 3. Take Actions
-Each turn a player has three actions per turn that can be any combination of the below.
+Each turn a player has up to three actions per turn that can be any combination of the below.
 
 ##### Hire Specialist Staff
 These are special individuals who players may want to recruit to their company. Specialist staff all have skills and traits that will positively affect statistics and chances of winning the game.
@@ -157,25 +154,23 @@ Whilst products are roughly split into their respective sub-eras and most are fa
 ##### Use income stream
 There are times when you need a cash injection into your company to keep wages paid or push forward for a big release. If you decide to make use of an income stream, place a counter representing your colour into your income stream of choice and follow the instructions written there. Players may only take advantage of income streams **three** times in the game and all will have some kind of negative affect on your company, in the short or long term. If a player has already taken three income streams then they may take no more.
 
-#### 4. Update products and scores
+#### 4. Update products and scores (Not in 1st turn)
 In this phase the status of products are updated and scores adjusted.
 
 In current turn order players take the following steps:
 
 1. If a player is ready to build a product, **add all the resources allocated to it back to the counter store** (Better to add back to Factory?) and move the product card from the player factory into the public playing area.
-2. Add piles of money tokens equal to the number of turns the product will remain in play, with each pile containing tokens equal to the profits per turn score.
+2. Add piles of money tokens equal to the number of turns the product will remain in play (marketing resources allocated), with each pile containing tokens equal to the profits per turn score (players current loyalty score).
 3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
 
 #### 5. Draw and play events
 Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.
 
-Every player draws one cards in current turn order. If an event card is [public](concepts/public), the drawing player must show it to all players and then follow where and when it should be played.
-
-If an event is marked as [immediate](concepts/immediate), play it immediately.
+Every player draws one cards in current turn order. Most event cards are drawn and played publicly and immediately. If a card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish. Unless otherwise stated a card applies to the player drawing it.
 
 If an effect of the card is to draw more cards or other actions, play them immediately.
 
-If an event card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish.
+Reason of the players should apply when drawing and playing event cards. For example, if a player is yet to build anything, then some cards may not yet apply and should be discarded. Likewise if a card implies it should be attached or allocated to a product, then do so, bearing in mind any constraints on the type of product.
 
 #### 6. End of the Year
 This final phase is an admin phase, with players checking that various rules are still in check, paying wages, checking products are still current and other tasks.
@@ -183,19 +178,20 @@ This final phase is an admin phase, with players checking that various rules are
 In current turn order, players should undertake these tasks:
 
 1. If an already built product has no remaining piles of money, move it to the discard pile. If the product has accessories attached to it, then also move those to the discard pile.
-2. Pay staff and specialist staff by counting the number of resource tokens in the 'Staff and Wages', 'Marketing', 'Research & Development' departments and on product and speciality staff cards. Total these amounts and pay it to the bank.
-3. Determine turn order for the next turn. This is in order of longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins.
+2. Pay staff and specialist staff by counting the number of resource tokens in the 'Marketing', 'Research & Development' departments and on product and speciality staff cards. Total these amounts and pay it to the bank.
+3. Ensure you have at least one resource on your player mat or on a product. If not, you are immediately declared bankrupt.
+3. Determine turn order for the next turn. This is in order of longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins, if this ties, then use the turn order from last turn.
 
-**Note**: If a player is unable to pay for staff, they must take an immediate income stream action in order to cover their costs.
+**Note**: If a player is unable to pay costs, they must take an immediate income stream action in order to cover their costs. If this isn't possible, they are immediately declared bankrupt.
 
 ## Ending the game
 After ten turns the game is over!
 
 If at the end of the end of year phase of the final turn a player has products still in production then there are negative affects to scores.
 
-For each product or staff a player discards they lose half of the loyalty and longevity scores of each card.
+For each product, staff or specialist staff member a player discards they lose half of the loyalty and longevity scores of each card.
 
-For each outstanding loan, players lose five points of Longevity Score.
+If a player doesn't have the money left over to pay it back, for each outstanding loan, players lose five points of Longevity Score.
 
 Players score 1 point for every five money they still have. Longevity and Loyalty scores remain at their original value.
 

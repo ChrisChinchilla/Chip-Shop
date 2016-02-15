@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'perturn, marketing_resourcegain_perturn, loyaltyscore_perturn'
+concepts: 'marketing_per_turn, loyalty_perturn'
 ---
 
 A Marketing expert helps you get more people excited about your products.

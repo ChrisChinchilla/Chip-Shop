@@ -29,7 +29,7 @@ era_sub: null
 era: null
 region: null
 originalprice: $xx
-concepts: 'immediate, public, marketing_resourcegain'
+concepts: 'marketing_resourcegain'
 ---
 
 Your products have gained enough popularity for a publisher to consider creating a magazine in your honor.

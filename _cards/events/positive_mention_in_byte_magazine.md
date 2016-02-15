@@ -23,7 +23,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'immediate, public, highest_loyalty'
+concepts: 'highest_loyalty'
 ---
 
 Byte magazine mentions you on a list of great companies and products to watch out for.

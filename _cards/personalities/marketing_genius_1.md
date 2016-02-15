@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'perturn, 2_marketing_resourcegain_perturn, loyaltyscore_perturn'
+concepts: '2_marketing_resourcegain_perturn, loyaltyscore_perturn'
 ---
 
 A Marketing genius helps make the public think your products are really special.

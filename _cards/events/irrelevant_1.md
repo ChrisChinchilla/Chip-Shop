@@ -6,7 +6,7 @@ image: test.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-concepts: 'irrelevant, public, lowest_loyaty'
+concepts: 'irrelevant, lowest_loyalty'
 approved: 'Y'
 ---
 

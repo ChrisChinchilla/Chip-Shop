@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: profitscore_perturn, rd_resourcegain_perturn
+concepts: profitscore_perturn, rd_resource_perturn
 ---
 
 Michael is a young business upstart who believes that manufacturers directly selling their computers is the future. Only time will tell if he is right.

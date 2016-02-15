@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'immediate, all, public, latestrelease'
+concepts: 'all_players, latestrelease'
 ---
 
 A catastrophic space shuttle disaster leads to a reduction of confidence in computer technology.
