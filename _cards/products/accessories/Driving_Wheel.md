@@ -15,7 +15,8 @@ loyaltyscore: null
 longevityscore: null
 profitscore: null
 approved: 'Y'
-concepts: 'choice_console, accessory'
+concepts: 'choice_console'
+era_sub: accessory
 ---
 
 For fans of driving based games, a realistic car wheel is the ultimate accessory.

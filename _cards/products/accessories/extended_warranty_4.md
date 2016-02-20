@@ -12,6 +12,7 @@ marketingcost: null
 longevityscore: null
 profitscore: null
 approved: 'Y'
+era_sub: accessory
 ---
 
 A simple and easy way to make money from paranoid consumers.

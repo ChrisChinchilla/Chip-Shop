@@ -12,8 +12,9 @@ rdcost: null
 marketingcost: null
 qualitycost: null
 profitscore: null
-concepts: 'accessory, choicecomputer'
+concepts: 'choicecomputer'
 approved: 'Y'
+era_sub: accessory
 ---
 
 A mouse is an input device ideal for interacting with the new wave of graphical user interfaces.

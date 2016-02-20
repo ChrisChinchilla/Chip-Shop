@@ -12,8 +12,9 @@ rdcost: null
 qualitycost: null
 marketingcost: null
 profitscore: null
-concepts: 'accessory, choicecomputer'
+concepts: 'choicecomputer'
 approved: 'Y'
+era_sub: accessory
 ---
 
 A keyboard helps you be more productive when typing notes, calculating spreadsheets or programming the next hit.

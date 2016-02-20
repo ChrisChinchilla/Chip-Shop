@@ -23,8 +23,9 @@ specialscore: null
 legal: The Compact Disc is a Trademark of Koninklijke Philips Electronics N.V.
 approved: 'Y'
 yearofrelease: 1983
+era_sub: accessory
 originalprice: $675
-concepts: 'anycomputerproduct, accessory'
+concepts: 'anycomputerproduct'
 ---
 
 Compact disc (CD) is a digital optical disc data storage format.

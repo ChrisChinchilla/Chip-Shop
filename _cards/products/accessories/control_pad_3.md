@@ -13,7 +13,8 @@ qualitycost: null
 marketingcost: null
 profitscore: null
 profitlength: '+1'
-concepts: 'choice_console, accessory'
+concepts: 'choice_console'
+era_sub: accessory
 approved: 'Y'
 ---
 

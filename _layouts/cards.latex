@@ -58,4 +58,9 @@
     Concepts: \tiny{$concepts$}\tiny
   \end{flushleft}
   $endif$
+    $if(era_sub)$
+    \begin{flushleft}
+      Era: \tiny{$era_sub$}\tiny
+    \end{flushleft}
+    $endif$
 \end{document}

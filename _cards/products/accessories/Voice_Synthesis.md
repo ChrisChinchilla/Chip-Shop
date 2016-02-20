@@ -15,9 +15,10 @@ profitscore: null
 longevityscore: null
 legal: 'The Intellivoice is a registered Trademarks of Mattel, Inc.'
 approved: 'Y'
-concepts: 'accessory, choiceconsole'
+concepts: 'choiceconsole'
 yearofrelease: 1982
 originalprice: $100
+era_sub: accessory
 ---
 
 A Voice Synthesizer adds a new level of engagement to games, allowing them to talk to players.

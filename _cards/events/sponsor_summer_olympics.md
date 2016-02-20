@@ -1,6 +1,6 @@
 ---
-title: You sponsor the Summer Olympics
-realtitle: You sponsor the Summer Olympics
+title: Sponsor the Summer Olympics
+realtitle: Sponsor the Summer Olympics
 cardtype: event
 image: us-olympics-team-1984.jpg
 imageattribution: 'Ken Hackman, U.S. Air Force'

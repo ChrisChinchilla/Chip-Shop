@@ -15,7 +15,8 @@ loyaltyscore: null
 profitscore: null
 profitlength: null
 approved: 'Y'
-concepts: 'search_discard_console, accessory, mutualbenefit_loyaltyscore, mutualbenefit_profitscore'
+era_sub: accessory
+concepts: 'search_discard_console, mutualbenefit_loyaltyscore, mutualbenefit_profitscore'
 ---
 
 Console adapters make old games available to play on newer consoles.
