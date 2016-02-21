@@ -60,7 +60,7 @@ for filename in _cards/products/sub_era_1/*.md; do
   convert -density 72 -depth 8 -quality 85 pod/pdf/cards/products/sub_era_1/"$(basename "$filename" .md)".pdf simulators/tabletop_simulator/cards/products/sub_era_1/"$(basename "$filename" .md)".png
 done
 
-pdfjam pod/pdf/cards/products/accessories/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./products_sub_era_1_cards.pdf
+pdfjam pod/pdf/cards/products/sub_era_1/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./products_sub_era_1_cards.pdf
 mv ./products_sub_era_1_cards.pdf pod/products_sub_era_1_cards.pdf
 
 # Create Card Sheets for Tabletop Simulator
