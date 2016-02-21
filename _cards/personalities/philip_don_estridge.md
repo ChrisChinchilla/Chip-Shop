@@ -3,7 +3,7 @@ title: Philip Don Estridge
 realtitle: Philip Don Estridge
 cardtype: staff
 stafftype: giant
-image: philip-don-estridge.gif
+image: donestridge.png
 imageattribution: The History of Computing
 imagelicense: Fair Use
 imagelink: 'https://en.wikipedia.org/wiki/Philip_Don_Estridge#/media/File:DonEstridge.png'
