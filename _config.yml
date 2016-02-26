@@ -21,8 +21,6 @@ collections:
   concepts:
     output: true
     layout: concept
-  income:
-    output: true
 
 defaults:
   -
