@@ -59,7 +59,7 @@ Shuffle the events deck and place it near the main game board, ideally at the bo
 ### Players Start a New Company
 Players start as a new company with 20 money.
 
-Each player takes counters for a colour of their choosing, a 'factory' play board, places it in front of them and places a player screen in front of the play board.
+Each player takes counters for a colour of their choosing, a player board, places it in front of them and places a player screen in front of the play board.
 
 ## Playing the game
 Use your favorite method for randomly selecting a starting player and play lasts for ten turns.
@@ -121,12 +121,14 @@ Resources in the marketing department may be saved for later use, some events, o
 _Product potential for profit = Current loyalty score for amount of marketing resources allocated turns_
 
 **Research & Development**
-Resources in the R&D department are generally saved to be used to allocate to a product card drawn from the product area of the main board. Once the product has been built, the resources are discarded.
+R&D Resources are generally saved to be used to allocate to a product card drawn from the product area of the main board. Once the product has been built, the resources are discarded. Spare R&D resources can also be used to draw additional cards from the products track in the action phase.
 
 ##### Draw a Product
-Products are the main focus of Chip Shop and players main aims are to build them.
+Products are the main focus of Chip Shop and players main aim should be to build them.
 
 When taking this action, players decide from which slot on the products track of the main board they wish to draw a card from. These represent sub-eras of the 80s, and one square is roughly equal to 2 years, there is also a square for accessories.
+
+**Note**: Players may discard spare R&D resources to draw additional cards equal to the resources discarded. Players may retain any number of the cards they draw.
 
 The costs and scores for cards drawn from each space are printed below the card slot and on each card for reference. The costs indicated must be acquired and allocated before the product is released to the public. You may also draw products from the product discard pile to the left of the board, these cost no R&D but lose loyalty and longevity. Whilst resources are still being acquired, keep the product behind your player screen in the matching square on the player board. When it's built, move it in front of your screen.
 
@@ -141,12 +143,12 @@ Whilst products are roughly split into their respective sub-eras and most are fa
 ##### Use income stream
 There are times when you need a cash injection into your company to keep wages paid or push forward for a big release. If you decide to make use of an income stream, place a counter representing your colour into the income stream of choice and follow the instructions written there. Players may only take advantage of income streams **three** times in the game and all will have some kind of negative affect on your company in the short or long term. If a player has already taken three income streams then they may take no more.
 
-#### 3. Update products and scores (Not in 1st turn)
+#### 3. Update products and scores
 In this phase the status of products are updated and scores adjusted.
 
 In current turn order players take the following steps:
 
-1. If a player is ready to build a product, **add all the resources allocated to it back to the counter store** and move the product card from the player factory into the public playing area.
+1. If a player is ready to build a product, **discard all the resources allocated to it** and move the product card from the player factory into the public playing area.
 2. Add piles of money tokens equal to the number of turns the product will remain in play (marketing resources allocated), with each pile containing tokens equal to the profits per turn score (players current loyalty score).
 3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
 
@@ -157,7 +159,7 @@ Every player draws one cards in current turn order. Most event cards are drawn a
 
 If an effect of the card is to draw more cards or take other actions, play them immediately or when you decide to play the card.
 
-Common sense should apply when drawing and playing event cards. For example, if a player is yet to build anything, then some cards may not yet apply and should be discarded. Likewise if a card implies it should be attached or allocated to a product, then do so, bearing in mind any constraints on the type of product.
+**Note**: Common sense should apply when drawing and playing event cards. For example, if a player is yet to build anything, then some cards may not yet apply and should be discarded. Likewise if a card implies it should be attached or allocated to a product, then do so, bearing in mind any constraints on the type of product.
 
 #### 5. End of the Year
 This final phase is an admin phase, with players checking that various rules are still in check, paying wages, checking products are still current and other tasks.
@@ -165,7 +167,7 @@ This final phase is an admin phase, with players checking that various rules are
 In current turn order, players should undertake these tasks:
 
 1. If an already built product has no remaining piles of money, move it to the discard pile. If the product has accessories attached to it, then also move those to the discard pile.
-2. Pay staff and specialist staff by counting the number of resource tokens in the 'Marketing', 'Research & Development' departments and on product and speciality staff cards. Total these amounts and pay it to the bank.
+2. Pay for your companies upkeep to the bank. This is equal to your current longevity score.
 3. Ensure you have at least one resource on your player mat or on a product. If not, you are declared bankrupt.
 4. Determine turn order for the next turn. This is in order of longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins, if this ties, then use the turn order from last turn.
 
