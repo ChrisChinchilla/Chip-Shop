@@ -2,6 +2,7 @@
 layout: manualpage
 title: Manual
 permalink: /manual/
+private: false
 ---
 
 ## Introduction

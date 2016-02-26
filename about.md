@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+private: false
 ---
 
 It is the dawn of a new era, with computers becoming affordable and desirable enough that millions now want them in their homes.
