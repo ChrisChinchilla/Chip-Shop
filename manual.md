@@ -4,6 +4,9 @@ title: Manual
 permalink: /manual/
 private: false
 ---
+{% assign productDeck = site.cards | where:"cardtype", "product" %}
+{% assign eventDeck = site.cards | where:"cardtype", "event" %}
+{% assign personalityDeck = site.cards | where:"cardtype", "staff" %}
 
 ## Introduction
 It is the dawn of a new era, with computers becoming affordable and desirable enough that millions now want them in their homes.
@@ -36,7 +39,12 @@ Gained from how you decide to build your products, who you hire and certain even
 Profit is made from selling products, the more you sell for more time, the more profit, it's simple.
 
 ## Components
-_Will return._
+
+- {{ productDeck.size }} product cards
+- {{ eventDeck.size }} event cards
+- {{ personalityDeck.size }} personality cards
+- Player Boards
+- Main Game Board
 
 ## Setup
 ### Main Board
@@ -192,3 +200,10 @@ After this all scores are combined, any special cards considered and applied and
 Accessory products are always attached to a built non-accessory product. Each accessory will specify what it can be attached to and any other requirements. Unless specified, an accessory remains in play for as long as the product it is attached to is in play. Some accessories increase the number of turns a product will be in play for.
 
 Generally all accessories make one money per turn for the life of the product they are attached to, however, cards and specialist staff may change this.
+
+## Game Concepts
+
+{% for concept in site.concepts %}
+  <h3>{{ concept.title }}</h3>
+  {{ concept.content }}
+{% endfor %}
