@@ -12,7 +12,7 @@ layout: default
 
   <article class="card-content">
     {% if page.image %}
-    {% picture mediumscreen {{page.image}} alt="{{page.title}}" %}
+    {% picture mediumscreen cards/{{page.image}} alt="{{page.title}}" %}
     {% endif %}
     <span class="flavour">
       {{ content }}
