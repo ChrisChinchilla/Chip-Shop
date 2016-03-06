@@ -34,7 +34,7 @@ for filename in _cards/products/accessories/*.md; do
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/accessories/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/accessory.latex -o pod/pdf/cards/products/accessories/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
