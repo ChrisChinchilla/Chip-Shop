@@ -11,6 +11,7 @@
 \usepackage{fontspec}
 \usepackage{pagecolor, xcolor}
 \usepackage[none]{hyphenat}
+\usepackage[document]{ragged2e}
 \setmainfont{DS-Digital}
 \definecolor{console_color}{cmyk}{1,1,1,1}
 \definecolor{console_font}{cmyk}{0.63,0,1,0}
