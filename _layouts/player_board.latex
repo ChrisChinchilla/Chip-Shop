@@ -8,7 +8,7 @@
 \usepackage[export]{adjustbox}
 \usepackage{csquotes}
 % TODO: How to use this font with missing symbols? Or replace?
-% \setmainfont{VT323}
+% \setmainfont{Pet}
 \setlength{\textfloatsep}{6.0pt plus 1.0pt minus 2.0pt}
 \setlength{\floatsep}{6.0pt plus 1.0pt minus 2.0pt}
 \setlength{\intextsep}{6.0pt plus 1.0pt minus 1.0pt}
