@@ -2,7 +2,7 @@
 title: Good Deal
 realtitle: Good Deal
 cardtype: event
-image: test.png
+image: img-placeholder.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?

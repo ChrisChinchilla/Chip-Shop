@@ -2,7 +2,7 @@
 title: Multiplayer Adapter
 realtitle: Multiplayer Adapter
 cardtype: accessory
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null

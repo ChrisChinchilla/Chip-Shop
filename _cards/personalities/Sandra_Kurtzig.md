@@ -3,7 +3,7 @@ title: Sandra Kurtzig
 realtitle: Sandra Kurtzig
 cardtype: staff
 stafftype: giant
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null

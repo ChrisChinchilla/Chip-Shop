@@ -37,7 +37,7 @@ defaults:
       region: USA
       era: 80s
       approved: N
-      image: test.png
+      image: img-placeholder.png
     scope:
       path: ""
       type: "income"
@@ -46,7 +46,7 @@ defaults:
       region: USA
       era: 80s
       approved: N
-      image: test.png
+      image: img-placeholder.png
 #
 # defaults:
 #   -
@@ -58,7 +58,7 @@ defaults:
 #       region: USA
 #       era: 80s
 #       approved: N
-#       image: test.png
+#       image: img-placeholder.png
 #     scope:
 #       type: income
 #     values:
@@ -66,7 +66,7 @@ defaults:
 #       region: USA
 #       era: 80s
 #       approved: N
-#       image: test.png
+#       image: img-placeholder.png
 
 picture:
   source: /assets/images
