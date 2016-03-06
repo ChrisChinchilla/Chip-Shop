@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '2.5.3'
+gem 'jekyll', '~> 3.0.0'
 
-gem 'html-proofer'
+gem 'mini_magick', '~> 3.8.0'
+gem 'fastimage', '~> 1.6.4'
+gem 'redcarpet'
 
 group :jekyll_plugins do
-  gem 'jekyll-picture-tag', '~> 0.2.3'
-  gem 'redcarpet', '~> 3.1'
+
+  gem 'jekyll-picture-tag', '~> 0.3.0'
 end
