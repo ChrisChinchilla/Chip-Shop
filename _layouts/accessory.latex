@@ -23,7 +23,7 @@
   \raggedleft
   \normalsize {$title$}\normalsize
   \\
-  \tiny Era {$era_sub$}\tiny
+  \tiny{$era_sub$}\tiny
 
   $if(image)$
   \begin{figure}[H]

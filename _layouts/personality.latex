@@ -31,6 +31,7 @@
   $endif$
 
   \begin{mdframed}[skipabove = 0cm, skipbelow = 0cm, roundcorner=0.2cm, innerleftmargin = 0.2cm, innerrightmargin = 0.2cm, innertopmargin = 0.2cm, innerbottommargin = 0.2cm]
+    \sloppy
     \setmainfont{VT323}
     \scriptsize{$body$}
     \scriptsize
