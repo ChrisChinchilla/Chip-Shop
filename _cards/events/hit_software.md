@@ -9,7 +9,7 @@ imagelink: 'http://underratedretro.com/2015/03/is-pac-man-atari-2600-that-bad/'
 loyaltyscore: 1
 profitscore: 1
 profitlength: 2
-concepts: 'latest_computer, latest_console, highest_loyalty'
+concepts: 'latest_release, highest_loyalty'
 approved: 'Y'
 ---
 

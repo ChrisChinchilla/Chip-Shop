@@ -1,6 +1,6 @@
 ---
-title: KGB hacks government computers
-realtitle: KGB hacks government computers
+title: KGB Hack
+realtitle: KGB Hack
 cardtype: event
 image: kgb-logo.png
 imageattribution: jgaray

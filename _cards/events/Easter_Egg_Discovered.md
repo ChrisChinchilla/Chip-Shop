@@ -13,4 +13,4 @@ approved: 'Y'
 concepts: 'current_player, latest_release'
 ---
 
-Despite your best efforts, an itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.
+An itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

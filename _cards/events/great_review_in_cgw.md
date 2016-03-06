@@ -1,6 +1,6 @@
 ---
-title: Review in Computer Gaming World
-realtitle: Review in Computer Gaming World
+title: Review in CGW
+realtitle: Review in CGW
 cardtype: event
 image: great-review-cgw.jpg
 imageattribution: CGW Museum

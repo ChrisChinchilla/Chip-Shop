@@ -1,6 +1,6 @@
 ---
-title: Challenger disaster leads to confidence loss
-realtitle: Challenger disaster leads to confidence loss
+title: Challenger Disaster
+realtitle: Challenger Disaster
 cardtype: event
 image: challenger-photo-montage.jpg
 imageattribution: Galdrad
