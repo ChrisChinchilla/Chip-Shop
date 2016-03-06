@@ -30,10 +30,11 @@ mkdir -p simulators/tabletop_simulator/cards/products/sub_era_5
 
 echo "Processing Product Accessory Cards…"
 for filename in _cards/products/accessories/*.md; do
+  echo $filename
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/accessories/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/accessories/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -49,10 +50,12 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 
 echo "Processing Product Sub Era 1 Cards…"
 for filename in _cards/products/sub_era_1/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/sub_era_1/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/sub_era_1/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -68,10 +71,12 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 
 echo "Processing Product Sub Era 2 Cards…"
 for filename in _cards/products/sub_era_2/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/sub_era_2/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/sub_era_2/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -87,10 +92,12 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 
 echo "Processing Product Sub Era 3 Cards…"
 for filename in _cards/products/sub_era_3/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/sub_era_3/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/sub_era_3/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -106,10 +113,12 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 
 echo "Processing Product Sub Era 4 Cards…"
 for filename in _cards/products/sub_era_4/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/sub_era_4/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/sub_era_4/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -125,10 +134,12 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 
 echo "Processing Product Sub Era 5 Cards…"
 for filename in _cards/products/sub_era_5/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/products/sub_era_5/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/cards/products/sub_era_5/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -148,10 +159,12 @@ cp assets/print/products_card_back.png simulators/tabletop_simulator/cards/produ
 
 echo "Processing Events Cards…"
 for filename in _cards/events/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/events/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/event.latex -o pod/pdf/cards/events/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -170,10 +183,12 @@ cp assets/print/events_card_back.png simulators/tabletop_simulator/cards/events_
 
 echo "Processing Personality Cards…"
 for filename in _cards/personalities/*.md; do
+  echo $filename
+
   # TODO: Counter of progress
 
   # Create PDFs
-  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/cards/personalities/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/personality.latex -o pod/pdf/cards/personalities/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
   # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 
@@ -198,7 +213,7 @@ cp assets/print/personalities_card_back.png simulators/tabletop_simulator/cards/
 #   echo $filename
 #   # TODO: Counter of progress
 #
-#   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/cards.latex -o pod/pdf/income/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+#   pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/product.latex -o pod/pdf/income/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
 # done
 #
 # pdfjam pod/pdf/income/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./income.pdf
