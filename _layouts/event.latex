@@ -31,14 +31,15 @@
   \end{figure}
   $endif$
 
-  \begin{mdframed}[skipabove = 0cm, skipbelow = 0cm, roundcorner=0.2cm, innerleftmargin = 0.2cm, innerrightmargin = 0.2cm, innertopmargin = 0.2cm, innerbottommargin = 0.2cm]
-    \sloppy
-    \setmainfont{Pet Me 128 2Y}
-    \scriptsize{$body$}
-    \scriptsize
-  \end{mdframed}
+  \raggedright
+  \sloppy
+  \setmainfont{Pet Me 2Y}
+  \tiny{$body$}
+  \tiny
 
-  \setmainfont{Pet Me 128 2Y}
+  \vspace*{2 mm}
+
+  \setmainfont{Pet Me 2Y}
   \scriptsize
   \raggedright
   $if(staffcost)$
