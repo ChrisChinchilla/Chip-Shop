@@ -9,7 +9,7 @@ private: false
 {% assign eventDeck = site.cards | where:"cardtype", "event" %}
 {% assign personalityDeck = site.cards | where:"cardtype", "staff" %}
 
-{% picture mediumscreen posts/card_previews.png alt="" %}
+{% picture mediumscreen posts/card_previews.png alt="Cards Preview" %}
 
 Chip Shop begins in the American 1980s, but expansions are planned to allow for game play in different eras, regions and markets.
 
@@ -27,8 +27,17 @@ Chip Shop consists of:
 - Player Boards
 - Main Game Board
 
-All available for purchase at 'pay-what-you-feel', from a minimum of $1 (a restriction of the service we use, sorry).
+All [available for purchase at 'pay-what-you-feel'](/buy), from a minimum of $1 (a restriction of the service we use, sorry).
 
-{% picture mediumscreen posts/player_mat.png alt="" %}
+{% picture mediumscreen posts/player_mat.png alt="Player Board Preview" %}
 
-{% picture mediumscreen posts/main_board_a3.png alt="" %}
+{% picture mediumscreen posts/main_board_a3.png alt="Main Board Preview" %}
+
+## Updates and Fixes
+The Print-at-Home version of Chip Shop will be constantly improved and fixed and all buyers will be notified of new versions as they are made available. At the moment the game is in a 'beta' state, so is likely to have several updates over the next months.
+
+We would like to thank all our play testers so far!
+
+{% picture mediumscreen posts/cs_playtest_1.jpg alt="Play Testing" %}
+{% picture mediumscreen posts/cs_playtest_2.jpg alt="Play Testing" %}
+{% picture mediumscreen posts/cs_playtest_3.jpg alt="Play Testing" %}
