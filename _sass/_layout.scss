@@ -122,7 +122,23 @@
 */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit/2 0 0 0;
+  font-family: 'Atari B I';
+  color: $base-text;
+  color: #000;
+  width: 50%;
+  margin: auto;
+  h2 {
+    display:block;
+    width:25%;
+    float:left;
+    margin-bottom:0;
+  }
+  a {
+    display:block;
+    width:25%;
+    float:left;
+  }
 }
 
 .footer-heading {
