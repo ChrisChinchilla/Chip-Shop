@@ -3,6 +3,9 @@
   display: inline;
   p {
   }
+  @include media-query($on-palm) {
+    font-size: $base-font-size * 0.75;
+  }
 }
 
 .typed-cursor{

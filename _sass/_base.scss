@@ -17,10 +17,6 @@ dl, dd, ol, ul, figure {
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
-  @include media-query($on-palm) {
-    font-size: $base-font-size *0.75;
-
-  }
   line-height: $base-line-height;
   font-weight: 300;
   color: $text-color;
@@ -32,6 +28,11 @@ body {
   -o-background-size: cover; /* Opera*/
   background-size: cover; /* Generic*/
   padding: 4vw 14vw 4vw 14vw;
+
+  @include media-query($on-palm) {
+    font-size: $base-font-size * 0.75;
+    padding: 2vw 6vw 2vw 6vw;
+  }
 }
 
 
@@ -57,9 +58,9 @@ img {
 }
 
 img.medium-screen {
-    display:block;
-    margin: auto;
-  }
+  display:block;
+  margin: auto;
+}
 
 
 
