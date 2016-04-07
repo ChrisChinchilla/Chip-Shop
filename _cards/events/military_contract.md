@@ -29,4 +29,4 @@ originalprice: null
 concepts: 'choice, highest_longevity, resources_needed'
 ---
 
-A representative of the American military visits your company and offers a lucrative contract in helping defend the country against an unseen threat.
+You are offered a lucrative contract in helping defend the country against an unseen threat.

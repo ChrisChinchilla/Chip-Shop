@@ -25,4 +25,4 @@ originalprice: $1200
 concepts: ibm_pc_clone
 ---
 
-The Tandy 1000 is an IBM compatible computer that incorporates a complete set of basic peripherals on the motherboard using proprietary technologies.
+An IBM compatible computer that incorporates a complete set of basic peripherals on the motherboard.

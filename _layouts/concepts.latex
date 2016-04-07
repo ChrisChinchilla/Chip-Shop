@@ -9,7 +9,7 @@
 \usepackage{hyperref}
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
-% \setmainfont{VT323}
+% \setmainfont{Pet}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \begin{document}

@@ -2,21 +2,26 @@
 layout: default_js
 ---
 <script>
+var introText = "It is the dawn of a new era, computers are affordable enough that millions want them in their homes.<br/><br/>In Chip Shop you play the head of a fledgling computer company in 80s America fighting for a piece of that action.<br/><br/>You have a decade to make your mark, will it be for longevity, loyalty, units shifted or a balance between them all?<br/><br/>Do you want to continue (y)?";
+
+if ($( window ).width() > 600) {
   $(function(){
     $("#intro_text").typed({
-      strings: ["It is the dawn of a new era, computers are affordable enough that millions want them in their homes.<br/><br/>In Chip Shop you play the head of a fledgling computer company in 80s America fighting for a piece of that action.<br/><br/>You have a decade to make your mark, will it be for longevity, loyalty, units shifted or a balance between them all?<br/><br/>Do you want to continue (y)?"],
+      strings: [introText],
       contentType: 'html',
       typeSpeed: 0,
       showCursor: true,
       cursorChar: "|",
     });
   });
+} else {
+  $(function(){
+    $("#intro_text").html(introText);
+  });
+}
 </script>
 
 <div class="home">
-
   <div id="intro_text">
-
   </div>
-
 </div>

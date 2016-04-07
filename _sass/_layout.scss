@@ -5,6 +5,7 @@
   border-bottom-left-radius: $content-radius;
   border-top-left-radius: $content-radius;
   padding: $spacing-unit;
+  padding-bottom: $spacing-unit * 2;
   @include media-query($on-palm) {
     padding: $spacing-unit / 2;
   }
@@ -121,13 +122,43 @@
 * Site footer
 */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
-}
+  #contact {
+    float:left;
+  }
 
-.footer-heading {
-  font-size: 18px;
-  margin-bottom: $spacing-unit / 2;
+  #social {
+    float:right;
+  }
+
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit/2 0 0 0;
+  font-family: 'Atari B I';
+  font-size: $base-text * 0.75;
+  color: $base-text;
+  color: #000;
+  /*width: 50%;*/
+  margin: auto;
+  @include media-query($on-palm) {
+    display: none;
+  }
+  b {
+    display:block;
+    /*width:25%;*/
+    float:left;
+    margin-bottom:0;
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    margin-right: $spacing-unit / 2;
+  }
+  a {
+    display:block;
+    /*width:25%;*/
+    float:left;
+    margin-right: $spacing-unit / 2;
+    img {
+      max-height: 35px;
+    }
+  }
 }
 
 .contact-list,
@@ -197,7 +228,7 @@
   border-bottom-left-radius: $content-radius;
   border-top-left-radius: $content-radius;
   background-color: $screen-background;
-  font-family: 'VT323';
+  font-family: 'Pet';
   // font-size: 18px;
   // TODO: Var this
   color: $text-color;
@@ -269,7 +300,7 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    font-size: 32px;
+    font-size: 34px;
 
     @include media-query($on-laptop) {
       font-size: 28px;
@@ -277,18 +308,26 @@
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 28px;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 26px;
     }
   }
 
   h4 {
-    font-size: 20px;
+    font-size: 26px;
 
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 24px;
+    }
+  }
+
+  h5 {
+    font-size: 24px;
+
+    @include media-query($on-laptop) {
+      font-size: 20px;
     }
   }
 }

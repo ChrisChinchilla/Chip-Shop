@@ -3,10 +3,8 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family:  'VT323';
+$base-font-family:  'Pet';
 //TODO: Is this enough, how big on smaller screens?
 $base-font-size:   20px;
 $small-font-size:  0.75em;
@@ -41,8 +39,8 @@ $on-laptop:        800px;
 }
 
 @font-face {
-  font-family: 'VT323';
-  src: url('../fonts/VT323-Regular.ttf');
+  font-family: 'Pet';
+  src: url('../fonts/PetMe2Y.ttf');
   font-style: regular;
   font-weight: 400;
 }

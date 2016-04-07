@@ -2,7 +2,7 @@
 title: Chip Shop
 email: info@gregariousmammal.com
 description: > # this means to ignore newlines until "baseurl:"
-  Build your Silicon Empire.
+  Build your Silicon Empire
 #baseurl: ".." # the subpath of your site, e.g. /blog/
 # url: "http://chipshopgame.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
@@ -21,8 +21,6 @@ collections:
   concepts:
     output: true
     layout: concept
-  income:
-    output: true
 
 defaults:
   -
@@ -39,7 +37,7 @@ defaults:
       region: USA
       era: 80s
       approved: N
-      image: test.png
+      image: img-placeholder.png
     scope:
       path: ""
       type: "income"
@@ -48,7 +46,7 @@ defaults:
       region: USA
       era: 80s
       approved: N
-      image: test.png
+      image: img-placeholder.png
 #
 # defaults:
 #   -
@@ -60,7 +58,7 @@ defaults:
 #       region: USA
 #       era: 80s
 #       approved: N
-#       image: test.png
+#       image: img-placeholder.png
 #     scope:
 #       type: income
 #     values:
@@ -68,10 +66,10 @@ defaults:
 #       region: USA
 #       era: 80s
 #       approved: N
-#       image: test.png
+#       image: img-placeholder.png
 
 picture:
-  source: /assets/images/cards
+  source: /assets/images
   output: generated
   markup: picture
   presets:

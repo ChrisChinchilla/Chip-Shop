@@ -17,11 +17,11 @@ longevityscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
-era_sub: null
+era_sub: accessory
 era: 80s
 region: 'usa, japan'
 originalprice: $xx
-concepts: 'accessory, any_console_product'
+concepts: 'any_console_product'
 ---
 
 3D glasses enable players to experience games in another dimension.

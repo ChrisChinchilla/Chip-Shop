@@ -1,6 +1,6 @@
 ---
-title: MTV exposure increases sales
-realtitle: MTV exposure increases sales
+title: MTV exposure
+realtitle: MTV exposure
 cardtype: event
 hardwaretype: computer
 image: mtv-logo.png

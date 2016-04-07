@@ -3,7 +3,7 @@ title: Sandra Kurtzig
 realtitle: Sandra Kurtzig
 cardtype: staff
 stafftype: giant
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null
@@ -16,8 +16,8 @@ moneycost: 2
 loyaltycost: 2
 specialcost: null
 loyaltyscore: null
-profitscore: 5
-profitlength: 2
+profitscore: 2
+profitlength: ∞
 longevityscore: 3
 rdscore: null
 specialscore: null

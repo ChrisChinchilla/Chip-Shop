@@ -25,4 +25,4 @@ approved: 'Y'
 concepts: 'choice_test, allplayers, minimum_rd, rd_resourcegain_perturn'
 ---
 
-Bill is a computer programmer with a good eye for business. Sometimes reckless and unscrupulous, he has a knack for getting what he wants.
+Bill is a computer programmer with a good eye for business.

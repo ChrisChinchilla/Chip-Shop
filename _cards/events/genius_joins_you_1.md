@@ -2,7 +2,7 @@
 title: Genius joins you
 realtitle: Genius joins you
 cardtype: event
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null

@@ -13,8 +13,9 @@ qualitycost: null
 marketingcost: null
 profitscore: null
 profitlength: '+1'
-concepts: 'choice_console, accessory'
+concepts: 'choice_console'
 approved: 'Y'
+era_sub: accessory
 ---
 
 A perfect replacement for a worn out controller, or buy a spare to play with friends.

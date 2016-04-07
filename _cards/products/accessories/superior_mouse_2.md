@@ -3,7 +3,7 @@ title: Superior Mouse
 realtitle: Superior Mouse
 cardtype: product
 hardwaretype: accessory
-image: test.png
+image: img-placeholder.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
@@ -12,8 +12,9 @@ rdcost: null
 qualitycost: 1
 marketingcost: null
 profitscore: 1
-concepts: 'accessory, choice_computer'
+concepts: 'choice_computer'
 approved: 'Y'
+era_sub: accessory
 ---
 
 A mouse is an input device ideal for interacting with the new wave of graphical user interfaces.

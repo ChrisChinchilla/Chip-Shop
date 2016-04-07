@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage[paperheight=6.3cm,paperwidth=4.1cm,margin=0.25cm]{geometry}
+\usepackage{amsthm,amsmath,amssymb}
+\usepackage{graphicx}
+\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage[export]{adjustbox}
+\usepackage{csquotes}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{fontspec}
+\usepackage{pagecolor, xcolor}
+\usepackage[none]{hyphenat}
+\usepackage[document]{ragged2e}
+\setmainfont{DS-Digital}
+\definecolor{console_color}{cmyk}{1,1,1,1}
+\definecolor{console_font}{cmyk}{0.63,0,1,0}
+
+\setlength{\textfloatsep}{6.0pt plus 1.0pt minus 2.0pt}
+\setlength{\floatsep}{6.0pt plus 1.0pt minus 2.0pt}
+\setlength{\intextsep}{6.0pt plus 1.0pt minus 1.0pt}
+
+\begin{document}
+  \raggedleft
+  \normalsize {$title$}\normalsize
+  \\
+  \tiny{$era_sub$}\tiny
+
+  $if(image)$
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth,height=2.25cm,keepaspectratio]{$image$}
+  \end{figure}
+  $endif$
+
+  \raggedright
+  \sloppy
+  \setmainfont{Pet Me 2Y}
+  \tiny{$body$}
+  \tiny
+
+  \vspace*{2 mm}
+
+  \setmainfont{Pet Me 2Y}
+  \scriptsize
+  \raggedright
+  $if(staffcost)$
+  Staff: {$staffcost$}
+  $endif$
+  $if(rdcost)$
+  R\&D: {$rdcost$}
+  $endif$
+  $if(marketingcost)$
+  Marketing: {$marketingcost$}
+  $endif$
+  $if(longevitycost)$
+  Longevity: {$longevitycost$}
+  $endif$
+  $if(moneycost)$
+  Money: {$moneycost$}
+  $endif$
+
+  $if(loyaltyscore)$
+  Loyalty: {$loyaltyscore$}
+  $endif$
+  $if(profitscore)$
+  Profit: {$profitscore$}
+  $if(profitlength)$ for {$profitlength$} turns
+  $endif$
+  $endif$
+  $if(longevityscore)$
+  Longevity: {$longevityscore$}
+  $endif$
+
+  $if(concepts)$
+  Concepts: \scriptsize{$concepts$}\scriptsize
+  $endif$
+
+\end{document}

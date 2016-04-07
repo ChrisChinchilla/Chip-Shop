@@ -3,7 +3,7 @@ title: IBM PC Clone
 realtitle: IBM PC Clone
 cardtype: product
 hardwaretype: computer
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null

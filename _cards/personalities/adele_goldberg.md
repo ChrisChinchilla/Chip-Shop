@@ -3,7 +3,7 @@ title: Adele Goldberg
 realtitle: Adele Goldberg
 cardtype: staff
 stafftype: genius
-image: test.png
+image: img-placeholder.png
 imageattribution: null
 imagelicense: null
 imagelink: null

@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'current_player'
+concepts: 'current_player, resources_needed'
 ---
 
 Byte magazine mention your company and products, but unfortunately in a negative light.
