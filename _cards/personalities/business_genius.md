@@ -12,12 +12,12 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
+moneycost: 4
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
-profitscore: 2
-profitlength: null
+profitscore: null
+profitlength: 2
 longevityscore: null
 rdscore: null
 specialscore: null
@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice'
+concepts: null
 ---
 
 A business genius helps you focus and perfect a particular product line.

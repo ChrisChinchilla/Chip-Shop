@@ -13,20 +13,20 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
+moneycost: 4
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
 profitscore: null
 profitlength: null
 longevityscore: null
-rdscore: null
+rdscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: advanced_rd
+concepts: null
 ---
 
 An Engineering genius has experience to draw upon and a spark to try crazy ideas that might just work.

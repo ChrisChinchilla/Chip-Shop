@@ -3,7 +3,7 @@ title: Product Genius
 realtitle: Product Genius
 cardtype: staff
 hardwaretype: null
-stafftype: expert
+stafftype: genius
 image: img-placeholder.png
 imageattribution: Name of person or company
 imagelicense: License type
@@ -13,20 +13,21 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
+moneycost: 4
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
+loyaltyscore: null
 profitscore: null
 profitlength: null
 longevityscore: null
 rdscore: null
+qualityscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: '2_quality_resource_perturn'
+concepts: null
 ---
 
 A product genius helps make a product that little bit better, increasing quality and loyalty.

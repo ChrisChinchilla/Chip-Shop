@@ -13,20 +13,20 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 1
+moneycost: 2
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
+loyaltyscore: null
 profitscore: null
 profitlength: null
 longevityscore: null
-rdscore: null
+rdscore: 2
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'quality_resource_perturn'
+concepts: null
 ---
 
 A product expert helps make a product that little bit better.

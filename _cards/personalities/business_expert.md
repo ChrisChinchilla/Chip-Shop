@@ -12,12 +12,12 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 1
+moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
-profitscore: 1
-profitlength: null
+profitscore: null
+profitlength: 1
 longevityscore: null
 rdscore: null
 specialscore: null
@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'choice'
+concepts: null
 ---
 
 A business expert helps you focus a particular product line.

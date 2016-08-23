@@ -13,7 +13,7 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 1
+moneycost: 2
 loyaltycost: null
 specialcost: null
 loyaltyscore: null
@@ -26,7 +26,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'rd_per_turn'
+concepts: null
 ---
 
 An Engineering expert has experience to draw upon to solve complex engineering decisions.
