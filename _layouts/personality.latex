@@ -58,6 +58,16 @@
   Money: {$moneycost$}
   $endif$
 
+  $if(qualityscore)$
+  Quality: {$qualityscore$}
+  $endif$
+  $if(marketingscore)$
+  Marketing: {$marketingscore$}
+  $endif$
+  $if(rdscore)$
+  R\&D: {$rdscore$}
+  $endif$
+
   $if(loyaltyscore)$
   Loyalty: {$loyaltyscore$}
   $endif$

@@ -1,8 +1,8 @@
 ---
 title: Adele Goldberg
 realtitle: Adele Goldberg
-cardtype: staff
-stafftype: genius
+cardtype: personality
+stafftype: null
 image: img-placeholder.png
 imageattribution: null
 imagelicense: null
@@ -12,18 +12,18 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 1
+moneycost: 3
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
 profitscore: null
 profitlength: null
 longevityscore: null
-rdscore: 4
+rdscore: 3
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'search_macintosh, rd_reduce_macintosh'
+concepts: 'reduce_era_3, reduce_era_4, reduce_era_5'
 ---
 
 Adele is a computer scientist working on replacing traditional computer interfaces with a graphical version.

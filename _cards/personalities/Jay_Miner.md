@@ -13,20 +13,20 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
+moneycost: 3
 loyaltycost: null
 specialcost: null
-loyaltyscore: 4
-profitscore: 1
+loyaltyscore: 3
+profitscore: null
 profitlength: null
-longevityscore: 3
-rdscore: null
+longevityscore: 1
+rdscore: 3
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'search_you_gain_a_user_group, search_you_gain_a_user_magazine'
+concepts: reduce_amiga_1000
 ---
 
 Jay is an integrated circuit designer with a penchant for designing chips perfect for multimedia applications.

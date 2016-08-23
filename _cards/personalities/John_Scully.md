@@ -12,21 +12,22 @@ staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
-longevitycost: 3
-moneycost: 3
+longevitycost: null
+moneycost: 4
 loyaltycost: null
 specialcost: null
-loyaltyscore: 1
-profitscore: 2
-profitlength: ∞
-longevityscore: 2
+loyaltyscore: 2
+profitscore: null
+profitlength: null
+longevityscore: 4
 rdscore: null
+marketingscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: if_x_giant
+concepts: null
 ---
 
 John is a business and marketing expert with many years experience in selling sugared water.

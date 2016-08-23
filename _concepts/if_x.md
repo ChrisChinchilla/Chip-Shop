@@ -1,10 +1,12 @@
 ---
 layout: concept
-title: "If 'x'"
+title: If X
 ---
 
-The card applies to players that currently have 'x' applied to them or have taken an 'x' action.
+The card may apply to players that currently have X applied to them, have taken X action, have X product in production / released, or have X staff member active.
 
-i.e. 'if_public' applies to you if your company has gone public.
+Examples:
 
-If x is a staff, then a staff of that type or higher is required.
+- 'if_public' applies if your company has gone public.
+- 'if_engineer' applies if you have an engineer active.
+- 'if_lisa' applies if you have the Lisa product in production or released.

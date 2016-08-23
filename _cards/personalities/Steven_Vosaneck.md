@@ -1,32 +1,31 @@
 ---
 title: Steven Vosaneck
 realtitle: Steve Wozniak
-cardtype: staff
-hardwaretype: null
-stafftype: giant
+cardtype: personality
+stafftype: null
 image: img-placeholder.png
-imageattribution: Alan Light
-imagelicense: CC BY 2.0
-imagelink: 'https://en.wikipedia.org/wiki/File:Steve_Wozniak,_1983.jpg'
+imageattribution: null
+imagelicense: null
+imagelink: null
 staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
-loyaltycost: 4
+moneycost: 3
+loyaltycost: null
 specialcost: null
-loyaltyscore: 4
+loyaltyscore: 2
 profitscore: null
 profitlength: null
-longevityscore: 2
-rdscore: 3
+longevityscore: null
+rdscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'if_business_genius, rd_resourcegain, free'
+concepts: reduce_lisa
 ---
 
 Steven is a visionary inventor, hardware engineer and programmer, passionate about computer education.

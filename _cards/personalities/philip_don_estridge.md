@@ -11,19 +11,20 @@ staffcost: null
 qualitycost: null
 rdcost: null
 marketingcost: null
-longevitycost: 2
+longevitycost: null
 moneycost: 3
 loyaltycost: null
 specialcost: null
-loyaltyscore: 2
+loyaltyscore: 1
 profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: 3
 rdscore: null
+qualityscore: 2
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: 'search_ibm_pc, all_reduce_half'
+concepts: reduce_ibm_pc
 ---
 
 Philip is a product manager with an engineering background who believes that third-parties are the key to low cost production and mainstream success.
