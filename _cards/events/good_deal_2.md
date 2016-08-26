@@ -7,8 +7,9 @@ imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
 rdcost: null
+qualityscore: 1
 approved: 'Y'
-concepts: 'rd_resourcegain, in_production'
+concepts: null
 ---
 
 After weeks of negotiation you receive a good deal on parts for a product in development.

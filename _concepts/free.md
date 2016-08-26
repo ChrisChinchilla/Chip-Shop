@@ -3,4 +3,4 @@ layout: concept
 title: Free
 ---
 
-Certain events and personalities will allow you to build a product or staff for free. In this case, initial resource costs do not need to be paid for the round after they enter play, they will need to be paid for in subsequent rounds.
+Certain events and personalities allow you to undertake an action for 'free'. This means you may place a spare staff counter onto a board space or card before every other players token.

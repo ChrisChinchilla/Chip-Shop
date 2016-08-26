@@ -7,9 +7,9 @@ imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
 profitscore: 2
-profitlength: 1
+profitlength: null
 longevityscore: 1
-concepts: 'highest_loyalty'
+concepts: highest_loyalty
 approved: 'Y'
 ---
 

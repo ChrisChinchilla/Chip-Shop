@@ -3,4 +3,4 @@ layout: concept
 title: Staff Loss
 ---
 
-Discard x resources from R&D or Marketing. A player can also chose to discard a specialist staff member.
+Remove the staff token of a player from a staff card, is token is that players choice.

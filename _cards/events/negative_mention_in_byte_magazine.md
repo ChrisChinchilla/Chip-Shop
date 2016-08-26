@@ -6,7 +6,7 @@ hardwaretype: null
 image: 198512-byte-10-13-computer-conferencing-0000.jpg
 imageattribution: TBC
 imagelicense: TBC
-imagelink: 'https://archive.org/stream/byte-magazine-1985-12/1985_12_BYTE_10-13_Computer_Conferencing#page/n0/mode/2up'
+imagelink: https://archive.org/stream/byte-magazine-1985-12/1985_12_BYTE_10-13_Computer_Conferencing#page/n0/mode/2up
 staffcost: null
 rdcost: null
 marketingcost: 1
@@ -16,7 +16,7 @@ loyaltycost: null
 specialcost: null
 loyaltyscore: -1
 profitscore: -1
-profitlength: 1
+profitlength: null
 longevityscore: null
 rdscore: null
 specialscore: null
@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'current_player, resources_needed'
+concepts: if_resources
 ---
 
 Byte magazine mention your company and products, but unfortunately in a negative light.

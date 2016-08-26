@@ -6,8 +6,8 @@ image: img-placeholder.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-rdscore: null
-concepts: '2_rd_resourcegain, highest_longevity'
+rdscore: 2
+concepts: highest_longevity
 approved: 'Y'
 ---
 

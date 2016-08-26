@@ -10,14 +10,14 @@ imagelink: 'https://upload.wikimedia.org/wikipedia/commons/7/76/MTV_Logo.svg'
 staffcost: null
 qualitycost: null
 rdcost: null
-marketingcost: 4
+marketingcost: 2
 longevitycost: null
-moneycost: 1
+moneycost: null
 loyaltycost: null
 specialcost: null
-loyaltyscore: 2
+loyaltyscore: 1
 profitscore: 3
-profitlength: 1
+profitlength: null
 longevityscore: 1
 rdscore: null
 specialscore: null
@@ -25,7 +25,7 @@ legal: MTV is a Trademark of Viacom International
 approved: 'Y'
 yearofrelease: 1981
 originalprice: null
-concepts: 'highest_loyalty, choice'
+concepts: highest_loyalty
 ---
 
 An advertisement for your products appears on MTV. Sales increase dramatically!

@@ -7,9 +7,9 @@ imageattribution: Underrated Retro
 imagelicense: null
 imagelink: 'http://underratedretro.com/2015/03/is-pac-man-atari-2600-that-bad/'
 loyaltyscore: 1
-profitscore: 1
-profitlength: 2
-concepts: 'latest_release, highest_loyalty'
+profitscore: 2
+profitlength: null
+concepts: highest_loyalty
 approved: 'Y'
 ---
 

@@ -6,11 +6,11 @@ image: easter-egg.png
 imageattribution: John Everett
 imagelicense: Copyright John Everett
 imagelink: 'http://freecomputerviruses.blogspot.de/2011/09/adventure-1979-atari-vcs.html'
-loyaltyscore: 2
-profitscore: 1
-profitlength: 1
+loyaltyscore: 1
+profitscore: 2
+profitlength: null
 approved: 'Y'
-concepts: 'current_player, latest_release'
+concepts: current_player
 ---
 
 An itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

@@ -15,8 +15,8 @@ moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: -1
-profitscore: -2
-profitlength: 2
+profitscore: -3
+profitlength: null
 longevityscore: -1
 rdscore: null
 specialscore: null
@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'all_players, latestrelease'
+concepts: all_players
 ---
 
 A catastrophic space shuttle disaster leads to a reduction of confidence in computer technology.

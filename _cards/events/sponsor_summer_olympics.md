@@ -9,14 +9,14 @@ imagelink: 'https://commons.wikimedia.org/wiki/File:US_Olympics_Team_1984.JPEG'
 staffcost: null
 qualitycost: null
 rdcost: null
-marketingcost: 2
+marketingcost: 4
 longevitycost: null
-moneycost: 2
+moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 2
 profitscore: 4
-profitlength: 1
+profitlength: null
 longevityscore: 2
 rdscore: null
 specialscore: null

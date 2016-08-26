@@ -17,6 +17,7 @@ moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 1
+marketingscore: 1
 profitscore: null
 profitlength: null
 longevityscore: null
@@ -29,7 +30,7 @@ era_sub: null
 era: null
 region: null
 originalprice: $xx
-concepts: 'marketing_resourcegain'
+concepts: null
 ---
 
 Your products have gained enough popularity for a publisher to consider creating a magazine in your honor.
