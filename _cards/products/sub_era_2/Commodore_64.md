@@ -8,8 +8,8 @@ imagelicense: CC BY-SA 2.5
 imagelink: 'https://commons.wikimedia.org/wiki/File%3AC64c_system.jpg'
 staffcost: null
 rdcost: 1
-marketingcost: null
-qualitycost: -1
+marketingcost: -1
+qualitycost: null
 profitscore: null
 profitlength: null
 loyaltyscore: null

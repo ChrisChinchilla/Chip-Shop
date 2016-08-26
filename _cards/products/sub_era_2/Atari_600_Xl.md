@@ -12,7 +12,7 @@ rdcost: null
 qualitycost: null
 marketingcost: null
 loyaltyscore: null
-longevityscore: null
+longevityscore: 1
 profitscore: null
 profitlength: null
 legal: 'Atari and Atari 600XL are registered Trademarks of Atari Interactive, Inc'

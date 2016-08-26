@@ -9,7 +9,7 @@ imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Intellivoice.jpg'
 staffcost: null
 rdcost: null
-marketingcost: null
+marketingcost: -1
 loyaltyscore: null
 profitscore: null
 longevityscore: null

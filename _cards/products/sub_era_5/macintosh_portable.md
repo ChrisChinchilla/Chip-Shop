@@ -7,7 +7,7 @@ stafftype: null
 image: macintosh-portable.png
 imageattribution: Rama
 imagelicense: SA 2.0 fr
-imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_Portable-IMG_7541.jpg/1280px-Macintosh_Portable-IMG_7541.jpg'
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Macintosh_Portable-IMG_7541.jpg/1280px-Macintosh_Portable-IMG_7541.jpg
 staffcost: null
 qualitycost: null
 rdcost: null

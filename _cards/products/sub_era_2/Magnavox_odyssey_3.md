@@ -4,7 +4,7 @@ realtitle: Magnavox Odyssey 3
 image: odyssey-3.png
 imageattribution: Evan Amos
 imagelicense: CC by SA 3.0
-imagelink: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey-Console-Set.jpg'
+imagelink: https://upload.wikimedia.org/wikipedia/commons/9/99/Magnavox-Odyssey-Console-Set.jpg
 cardtype: product
 staffcost: null
 rdcost: null
@@ -14,7 +14,8 @@ loyaltycost: null
 profitscore: -1
 profitlength: null
 longevityscore: null
-legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips Corporation
+legal: Magnavox and Magnavox Odyssey 3 are registered Trademarks of Phillips
+  Corporation
 approved: 'Y'
 yearofrelease: 1983
 era_sub: 2

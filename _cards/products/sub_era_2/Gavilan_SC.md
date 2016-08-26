@@ -11,7 +11,7 @@ imagelink: 'http://www.vintagecomputer.net/gavilan/SC/'
 staffcost: null
 qualitycost: null
 rdcost: null
-marketingcost: -2
+marketingcost: 1
 longevitycost: null
 moneycost: null
 loyaltycost: null
@@ -19,7 +19,7 @@ specialcost: null
 loyaltyscore: null
 profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: 1
 rdscore: null
 specialscore: null
 legal: null

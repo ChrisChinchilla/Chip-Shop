@@ -12,7 +12,7 @@ rdcost: null
 marketingcost: null
 qualitycost: null
 profitscore: null
-concepts: 'choicecomputer'
+concepts: choicecomputer
 approved: 'Y'
 era_sub: accessory
 ---

@@ -9,9 +9,9 @@ imagelicense: null
 imagelink: null
 staffcost: null
 qualitycost: null
-rdcost: null
+rdcost: -1
 marketingcost: null
-loyaltyscore: null
+loyaltyscore: -1
 profitscore: null
 profitlength: null
 longevityscore: null

@@ -12,10 +12,10 @@ rdcost: null
 qualitycost: null
 marketingcost: null
 profitscore: null
-profitlength: '+1'
-concepts: 'choice_console'
-approved: 'Y'
+profitlength: 1
 era_sub: accessory
+concepts: choice_console
+approved: 'Y'
 ---
 
 A perfect replacement for a worn out controller, or buy a spare to play with friends.

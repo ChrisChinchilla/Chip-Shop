@@ -8,7 +8,7 @@ imagelicense: CC by SA 3.0
 imagelink: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Osborne_1_open.jpg/800px-Osborne_1_open.jpg'
 staffcost: null
 qualitycost: null
-rdcost: null
+rdcost: 1
 marketingcost: 1
 loyaltyscore: null
 profitscore: null
@@ -17,7 +17,7 @@ longevityscore: 1
 legal: The Osborne 1 and Osborne are registered Trademarks of Mikrolog Ltd
 approved: 'Y'
 yearofrelease: 1981
-era_sub: 1
+era_sub: 2
 era: 80s
 region: usa
 originalprice: $1800

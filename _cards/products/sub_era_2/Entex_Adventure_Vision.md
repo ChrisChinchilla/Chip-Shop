@@ -14,7 +14,7 @@ marketingcost: null
 loyaltyscore: null
 profitscore: null
 profitlength: null
-longevityscore: 2
+longevityscore: null
 legal: null
 approved: 'Y'
 yearofrelease: 1982

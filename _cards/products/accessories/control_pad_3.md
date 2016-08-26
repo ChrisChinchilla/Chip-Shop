@@ -12,9 +12,9 @@ rdcost: null
 qualitycost: null
 marketingcost: null
 profitscore: null
-profitlength: '+1'
-concepts: 'choice_console'
+profitlength: 1
 era_sub: accessory
+concepts: choice_console
 approved: 'Y'
 ---
 
