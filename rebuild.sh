@@ -5,7 +5,7 @@ rm -dfr _site
 rm -dfr pod
 rm -dfr simulators
 
-jekyll build
+bundle exec jekyll build
 
 mkdir -p pod/pdf/cards
 mkdir -p pod/pdf/cards/events
@@ -205,7 +205,28 @@ montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simul
 cp assets/print/personalities_card_back.png simulators/tabletop_simulator/cards/personalities_card_sheet.png
 
 
+echo "Processing Staff Cards…"
+for filename in _cards/staff/*.md; do
+  echo $filename
 
+  # TODO: Counter of progress
+
+  # Create PDFs
+  pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/staff.latex -o pod/pdf/cards/staff/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+
+  # pandoc --from=markdown+yaml_metadata_block --smart --template _layouts/legal.latex -o pod/pdf/legal/"$(basename "$filename" .md)".pdf --latex-engine=xelatex $filename
+
+  # Create Individual PNGs
+  convert -density 300 -depth 8 -quality 85 pod/pdf/cards/staff/"$(basename "$filename" .md)".pdf simulators/tabletop_simulator/cards/staff/"$(basename "$filename" .md)".png
+done
+
+pdfjam pod/pdf/cards/staff/*.pdf --no-landscape --frame true --nup 5x4 --suffix complete --outfile ./staff_cards.pdf
+mv ./staff_cards.pdf pod/staff_cards.pdf
+
+# Create Card Sheets for Tabletop Simulator
+montage -verbose -define png:size=484x744 -geometry 484x744+2+2 -tile 10x7 simulators/tabletop_simulator/cards/staff/*.png simulators/tabletop_simulator/cards/staff_card_sheet.png
+
+cp assets/print/staff_card_back.png simulators/tabletop_simulator/cards/staff_card_sheet.png
 
 
 # echo "Processing Income…"
