@@ -10,6 +10,7 @@ bundle exec jekyll build
 mkdir -p pod/pdf/cards
 mkdir -p pod/pdf/cards/events
 mkdir -p pod/pdf/cards/personalities
+mkdir -p pod/pdf/cards/staff
 mkdir -p pod/pdf/cards/products/accessories
 mkdir -p pod/pdf/cards/products/sub_era_1
 mkdir -p pod/pdf/cards/products/sub_era_2
@@ -20,6 +21,7 @@ mkdir -p pod/pdf/income
 mkdir -p pod/pdf/legal
 mkdir -p simulators/tabletop_simulator/cards/events
 mkdir -p simulators/tabletop_simulator/cards/personalities
+mkdir -p simulators/tabletop_simulator/cards/staff
 mkdir -p simulators/tabletop_simulator/cards/products/accessories
 mkdir -p simulators/tabletop_simulator/cards/products/sub_era_1
 mkdir -p simulators/tabletop_simulator/cards/products/sub_era_2
