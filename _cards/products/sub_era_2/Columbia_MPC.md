@@ -22,7 +22,7 @@ era: 80s
 region: usa
 originalprice: $3000
 approved: 'Y'
-concepts: ibm_pc_clone
+concepts: null
 ---
 
-The Columbia MPC is the first clone of the IBM PC at a significantly lower price.
+The Columbia MPC is a flexible personal computer at a significantly lower price.

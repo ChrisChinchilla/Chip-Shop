@@ -23,7 +23,7 @@ era_sub: 2
 era: 80s
 region: usa
 originalprice: $1349
-concepts: apple_clone
+concepts: null
 ---
 
-The Franklin Ace 1000 is a clone of the Apple II that are nearly 100% compatible.
+The Franklin Ace 1000 is a familiar computer at a lower price.

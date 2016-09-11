@@ -22,7 +22,7 @@ era_sub: 3
 era: 80s
 region: usa
 originalprice: $1200
-concepts: ibm_pc_clone
+concepts: null
 ---
 
-An IBM compatible computer that incorporates a complete set of basic peripherals on the motherboard.
+A flexible computer that incorporates a complete set of basic peripherals on the motherboard.

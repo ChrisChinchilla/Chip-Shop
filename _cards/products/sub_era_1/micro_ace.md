@@ -22,7 +22,7 @@ era: 80s
 region: usa
 originalprice: $149
 approved: 'Y'
-concepts: zx80_clone
+concepts: null
 ---
 
-The MicroAce is a self-assembly computer kit and clone of the Sinclair ZX80
+The Micro Ace is a self-assembly computer kit.
