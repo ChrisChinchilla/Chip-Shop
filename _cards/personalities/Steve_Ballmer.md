@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: null
+concepts: free_business_genius
 ---
 
 Steve is a skilled business manager know for his energy and exuberance.

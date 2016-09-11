@@ -16,7 +16,7 @@ moneycost: 4
 loyaltycost: null
 specialcost: null
 loyaltyscore: 1
-profitscore: 1
+profitscore: 2
 profitlength: null
 longevityscore: 3
 rdscore: null
@@ -25,7 +25,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'any_computer_product, profitscore_perturn'
+concepts: 'block, free_clone'
 ---
 
 Michael is a young business upstart who believes that manufacturers directly selling their computers is the future.

@@ -22,7 +22,7 @@ rdscore: 3
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: null
+concepts: extra_income_stream, block
 ---
 
 Bill is a computer programmer with a good eye for business.
