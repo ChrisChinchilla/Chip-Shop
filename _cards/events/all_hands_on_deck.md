@@ -1,6 +1,6 @@
 ---
-title: Expert joins you
-realtitle: Expert joins you
+title: All Hands on Deck
+realtitle: All Hands on Deck
 cardtype: event
 image: img-placeholder.png
 imageattribution: null
@@ -8,8 +8,8 @@ imagelicense: null
 imagelink: null
 longevityscore: null
 specialscore: null
-concepts: 'highest_longevity, if_expert, free'
+concepts: highest_loyalty, extra_staff
 approved: 'Y'
 ---
 
-An expert decides to join your team! It is a great day!
+Your staff pull a week of all nighters to meet a tight deadline.
