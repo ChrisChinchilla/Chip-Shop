@@ -1,4 +1,4 @@
-\documentclass[a4paper]{book}
+\documentclass[a4paper]{article}
 \usepackage{graphicx}
 \graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/manual/}}
 \usepackage{float}
