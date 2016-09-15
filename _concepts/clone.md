@@ -1,6 +1,0 @@
----
-layout: concept
-title: X Clone
----
-
-A clone can only be built if product 'x' has already been built or you know it is in active development.

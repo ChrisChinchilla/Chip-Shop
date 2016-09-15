@@ -15,8 +15,8 @@ moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: -1
-profitscore: -1
-profitlength: 1
+profitscore: -2
+profitlength: null
 longevityscore: -1
 rdscore: null
 specialscore: null
@@ -24,7 +24,7 @@ legal: null
 approved: 'Y'
 yearofrelease: 1986
 originalprice: null
-concepts: 'allplayers'
+concepts: all_players
 ---
 
 A KGB led attack targets US government computers, causing a lack of consumer confidence in US computer companies.

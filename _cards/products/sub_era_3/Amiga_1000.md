@@ -11,7 +11,7 @@ staffcost: null
 rdcost: 1
 qualitycost: null
 marketingcost: null
-loyaltyscore: null
+loyaltyscore: 1
 profitscore: null
 profitlength: null
 longevityscore: null

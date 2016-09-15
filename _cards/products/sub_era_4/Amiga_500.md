@@ -17,7 +17,7 @@ profitlength: null
 longevityscore: null
 legal: 'Amiga and Amiga 500 are registered Trademarks of Amiga, Inc.'
 approved: 'Y'
-concepts: amiga1000_reduce
+concepts: amiga_1000_reduce
 yearofrelease: 1987
 era_sub: 4
 era: 80s

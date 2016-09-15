@@ -7,10 +7,10 @@ imageattribution: Unsure
 imagelicense: 'http://www.theverge.com/'
 imagelink: 'http://assets.sbnation.com/assets/1946051/1985SCES01.jpg'
 marketingcost: 1
-profitscore: -1
-profitlength: 2
+profitscore: -4
+profitlength: null
 legal: CES is Copyright 2003 to 2015 CEA. All rights reserved.
-concepts: 'latest_release'
+concepts: latest_release
 approved: 'Y'
 ---
 

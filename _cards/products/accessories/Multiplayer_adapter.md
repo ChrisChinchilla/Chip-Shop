@@ -13,7 +13,7 @@ marketingcost: null
 loyaltyscore: null
 profitscore: null
 approved: 'Y'
-concepts: 'choice_console'
+concepts: choice_console
 era_sub: accessory
 ---
 

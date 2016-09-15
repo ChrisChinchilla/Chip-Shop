@@ -27,7 +27,7 @@ era_sub: 1
 era: 80s
 region: usa
 originalprice: $2385
-concepts: ibm_pc_clone
+concepts: null
 ---
 
 The Eagle Computer is an IBM compatible machine that is well made and easily expandable.

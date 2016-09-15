@@ -10,7 +10,9 @@ imagelink: Where did this image come from?
 rdcost: null
 marketingcost: null
 longevityscore: null
+loyaltyscore: -1
 profitscore: null
+profitlength: 1
 approved: 'Y'
 era_sub: accessory
 ---

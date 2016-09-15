@@ -14,8 +14,8 @@ moneycost: null
 loyaltycost: null
 specialcost: null
 loyaltyscore: 1
-profitscore: 2
-profitlength: 1
+profitscore: 1
+profitlength: null
 longevityscore: null
 rdscore: null
 specialscore: null
@@ -23,7 +23,7 @@ legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'current_player, resources_needed'
+concepts: if_resources
 ---
 
 Byte magazine mentions you on a list of great companies and products to watch out for.

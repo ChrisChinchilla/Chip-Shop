@@ -6,14 +6,14 @@ image: applelisa.png
 imageattribution: null
 imagelicense: CC BY-SA 3.0
 imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'
-staffcost: 1
+staffcost: null
 qualitycost: null
 rdcost: 1
-marketingcost: 1
+marketingcost: null
 loyaltyscore: null
-profitscore: null
+profitscore: -1
 profitlength: null
-longevityscore: 1
+longevityscore: 2
 legal: Lisa and Apple are trademarks of Apple Inc.
 yearofrelease: 1983
 era_sub: 1

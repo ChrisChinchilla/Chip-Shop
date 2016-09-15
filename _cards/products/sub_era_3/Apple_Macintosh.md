@@ -12,7 +12,7 @@ qualitycost: null
 rdcost: 1
 marketingcost: null
 loyaltyscore: 1
-profitscore: null
+profitscore: -1
 profitlength: null
 longevityscore: 2
 legal: Macintosh and Apple are trademarks of Apple Inc.

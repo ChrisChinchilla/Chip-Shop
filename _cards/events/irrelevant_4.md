@@ -6,7 +6,7 @@ image: img-placeholder.png
 imageattribution: Name of person or company
 imagelicense: License type
 imagelink: Where did this image come from?
-concepts: 'irrelevant, highest_longevity'
+concepts: 'irrelevant, highest_longevity, oldest_release'
 approved: 'Y'
 ---
 

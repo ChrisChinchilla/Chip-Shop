@@ -1,7 +1,7 @@
 ---
 title: Steve Jobs
 realtitle: Steve Jobs
-cardtype: staff
+cardtype: personality
 stafftype: null
 image: steve-jobs.jpg
 imageattribution: null
@@ -12,20 +12,21 @@ qualitycost: null
 rdcost: null
 marketingcost: null
 longevitycost: null
-moneycost: 2
-loyaltycost: 3
+moneycost: 4
+loyaltycost: null
 specialcost: null
 loyaltyscore: 3
-profitscore: 2
+profitscore: null
 profitlength: null
-longevityscore: 4
+longevityscore: 1
 rdscore: null
+qualityscore: 4
 specialscore: null
 legal: null
 approved: 'Y'
 yearofrelease: null
 originalprice: null
-concepts: 'if_genius_engineer, search_mac_lisa_nextcomputer'
+concepts: 'reduce_macintosh, reduce_lisa, reduce_next_computer'
 ---
 
-Steve is opinionated, single focussed and an expert at motivating those around him to do what he wants.
+Steve is an entrepreneur, opinionated, single focussed and an expert at motivating those around him to do what he wants.

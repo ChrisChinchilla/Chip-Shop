@@ -6,10 +6,10 @@ hardwaretype: computer
 image: franklin-ace-1000.png
 imageattribution: Eric E Johnson / Konomark
 imagelicense: Copyright Eric E Johnson / Konomark
-imagelink: 'http://www.museumofintellectualproperty.org/exhibits/evolution_of_copyright.html'
+imagelink: http://www.museumofintellectualproperty.org/exhibits/evolution_of_copyright.html
 staffcost: null
 qualitycost: null
-rdcost: null
+rdcost: -1
 loyaltyscore: -1
 profitscore: null
 profitlength: null
@@ -23,7 +23,7 @@ era_sub: 2
 era: 80s
 region: usa
 originalprice: $1349
-concepts: 'apple_clone, choice_test'
+concepts: null
 ---
 
-The Franklin Ace 1000 is a clone of the Apple II that are nearly 100% compatible.
+The Franklin Ace 1000 is a familiar computer at a lower price.

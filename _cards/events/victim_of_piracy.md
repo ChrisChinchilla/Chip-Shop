@@ -5,11 +5,11 @@ cardtype: Event
 image: piracy.jpg
 imageattribution: vintagecomputing.com
 imagelicense: null
-imagelink: 'http://www.vintagecomputing.com/wp-content/images/retroscan/piracy_byte_large.jpg'
-profitscore: 1/4
-profitlength: 1/2
+imagelink: http://www.vintagecomputing.com/wp-content/images/retroscan/piracy_byte_large.jpg
+profitscore: -2
+profitlength: null
 legal: null
-concepts: 'highest_longevity, reduce, latest_release'
+concepts: highest_longevity
 approved: 'Y'
 ---
 

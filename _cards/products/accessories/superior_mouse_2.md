@@ -11,8 +11,8 @@ staffcost: null
 rdcost: null
 qualitycost: 1
 marketingcost: null
-profitscore: 1
-concepts: 'choice_computer'
+loyaltyscore: 1
+concepts: choice_computer
 approved: 'Y'
 era_sub: accessory
 ---

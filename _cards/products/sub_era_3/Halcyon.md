@@ -6,7 +6,7 @@ hardwaretype: console
 image: halcyon.jpg
 imageattribution: null
 imagelicense: null
-imagelink: 'http://www.reddit.com/r/gaming/comments/1u1p5z/the_rarest_game_console_the_rdi_halcyon_it_cost/'
+imagelink: http://www.reddit.com/r/gaming/comments/1u1p5z/the_rarest_game_console_the_rdi_halcyon_it_cost/
 staffcost: null
 rdcost: 1
 qualitycost: null

@@ -8,7 +8,7 @@ imageattribution: Shieldforyoureyes Dave Fischer - Own work
 imagelicense: Cc-by-sa-10.0
 imagelink: Where did this image come from?
 rdcost: -1
-concepts: 'in_production, current_player'
+concepts: in_production
 approved: 'Y'
 ---
 

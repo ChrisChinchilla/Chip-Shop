@@ -3,4 +3,4 @@ layout: concept
 title: Irrelevant
 ---
 
-Products deemed as irrelevant make half profits for one final turn and is then removed from the game.
+A product is deemed irrelevant by an event card or a sub-era moving off the board. When  this happens, place an _irrelevant_ token on the card and for every turn (including current) it remains in play, lose 1 loyalty point and 1 money.

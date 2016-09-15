@@ -8,7 +8,7 @@ imagelicense: null
 imagelink: null
 longevityscore: null
 specialscore: null
-concepts: 'choice, highest_longevity, search_staff_expert, resources_needed'
+concepts: 'highest_longevity, if_expert, free'
 approved: 'Y'
 ---
 

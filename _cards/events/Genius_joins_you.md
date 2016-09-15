@@ -8,8 +8,8 @@ imagelicense: null
 imagelink: null
 longevityscore: null
 specialscore: null
-concepts: 'choice, highest_longevity, search_staff_genius, resources_needed'
+concepts: 'highest_longevity, if_genius, free'
 approved: 'Y'
 ---
 
-An genius decides to join your team! It is a great day!
+A genius decides to join your team! It is a great day!
