@@ -22,7 +22,7 @@ era_sub: 3
 era: 80s
 region: usa
 originalprice: $2000
-concepts: 'defunct_lisa, lisa_reduce'
+concepts: lisa_reduce
 ---
 
 The first mass-market personal computer to feature a graphical user interface and mouse.

@@ -41,12 +41,7 @@ defaults:
     scope:
       path: ""
       type: "income"
-    values:
-      layout: card
-      region: USA
-      era: 80s
-      approved: N
-      image: img-placeholder.png
+
 #
 # defaults:
 #   -

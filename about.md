@@ -17,7 +17,7 @@ Aside from official expansions or 'updates', the tools and processes used to cre
 
 ## Print at Home
 
-Currently, Chip Shop is available in a Print-at-Home version and you will also need some generic counters for scoring. Boxed and Tabletop Simulator versions are coming soon.
+Currently, Chip Shop is available in a Print-at-Home version and you will also need generic counters for scoring. Boxed and Tabletop Simulator versions are coming soon.
 
 Chip Shop consists of:
 

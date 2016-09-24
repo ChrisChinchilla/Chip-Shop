@@ -10,7 +10,7 @@ loyaltyscore: 1
 profitscore: 2
 profitlength: null
 approved: 'Y'
-concepts: current_player
+concepts: lowest_longevity
 ---
 
 An itinerant programmer has snuck in a hidden feature. Thankfully, your customers love it.

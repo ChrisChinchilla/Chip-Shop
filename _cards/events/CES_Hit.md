@@ -10,7 +10,7 @@ marketingcost: 1
 profitscore: 4
 loyaltyscore: 1
 legal: CES is Copyright 2003 to 2015 CEA. All rights reserved.
-concepts: latestrelease
+concepts: highest_loyalty
 approved: 'Y'
 ---
 
