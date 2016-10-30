@@ -55,7 +55,7 @@
   Longevity: {$longevitycost$}
   $endif$
   $if(moneycost)$
-  Money: {$moneycost$}
+  Salary: {$moneycost$}
   $endif$
 
   $if(qualityscore)$
