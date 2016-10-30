@@ -44,8 +44,8 @@
   \setmainfont{Pet Me 2Y}
   \scriptsize
   \raggedright
-  $if(staffcost)$
-  Staff: {$staffcost$}
+  $if(qualitycost)$
+  Quality: {$qualitycost$}
   $endif$
   $if(rdcost)$
   R\&D: {$rdcost$}
