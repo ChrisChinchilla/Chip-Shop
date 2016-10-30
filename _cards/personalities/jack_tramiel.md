@@ -23,7 +23,7 @@ rdscore: null
 specialscore: null
 legal: null
 approved: 'Y'
-concepts: block
+concepts: block, block
 ---
 
 Jack is a businessman with a history in typewriters and calculators. Often know as a micromanager he believes in cutting out middlemen.
