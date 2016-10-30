@@ -55,13 +55,13 @@ Players make profit from selling products, the more you sell for more time, the 
 
 ### Choose Starting Personalities
 
-Determine who will go first by your favourite random method, and let them pick first from the personality deck, continue clockwise until the last player, then choose the second counter clockwise, i.e. the last player picks twice in a row and whoever picked the first personality first picks their second last.
+Determine who will choose first by your favourite random method, and let them pick first from the personality deck, continue clockwise until the last player, then choose the second counter clockwise, i.e. the last player picks twice in a row and whoever picked the first personality first picks their second last.
 
 You can either select personalities randomly or manually, they are reasonably balanced, for your first game, random is best.
 
 #### Personality Special Skills
 
-In addition to their starting Longevity and Loyalty values some personalities also have special abilities listed, you can use **one** of these abilities, **once** per game. Details of these are listed under the **Concepts** section.
+In addition to their starting Longevity and Loyalty values, personalities also have special abilities listed, some can be used one per game, and others once per round. Details of these are listed under the **Concepts** section.
 
 #### Personality Starting Resources
 
@@ -69,7 +69,7 @@ In addition to their starting Longevity and Loyalty values some personalities br
 
 #### Personality Payment
 
-You start Chip Shop as a young startup company and your starting personalities are willing to chase this dream, but this wont last for ever, when your company reaches a Longevity value of **12**, they will expect to be paid per turn the money value listed on their card. This continues from this point on-wards, if you lose Longevity after reaching this point, they still expect to be paid. The only way to stop paying personalities is to use one of the income stream actions or an event card to remove them from your company. Another option is to declare bankruptcy, starting as a new company with the same personalities as when starting the game.
+You start Chip Shop as a young startup company and your starting personalities are willing to chase this dream, but this wont last for ever, when your company reaches a Longevity value of **12**, they will expect to be paid per turn the salary value listed on their card. This continues from this point onward, if you lose Longevity after reaching this point, they still expect to be paid. The only way to stop paying personalities is to use one of the income stream actions or an event card to remove them from your company. Another option is to declare bankruptcy, starting as a new company with the same personalities as when starting the game.
 
 ### Main Board
 
@@ -79,13 +79,13 @@ Add marker to square 1 on the turn track.
 
 Put all resource tokens in easy reach of players.
 
-Players start as a new company with 10 money.
+Players start as a new company with 5 money.
 
 Each player takes counters for a colour of their choosing, a player board, places it in front of them and places a player screen in front of the play board.
 
 ### Create The Specialist Staff Deck
 
-Shuffle the specialist staff deck and place it on the left hand side of the main board, ideally next to the specialist staff track. There will always be specialist staff available equal to the number of played minus one.
+Shuffle the specialist staff deck and place it on the left hand side of the main board, ideally next to the specialist staff track. There will always be specialist staff available equal to the number of players minus one.
 
 ### Create The Products Deck
 
@@ -95,15 +95,15 @@ Separate remaining products into their matching 'sub era' piles, indicated by a 
 
 ### Create The Events Deck
 
-Shuffle the events deck and place it near the main game board, ideally at the bottom edge to follow turn phase order.
+Shuffle the events deck and place it near the main game board.
 
 ## Playing the game
 
-Use your favorite method for randomly selecting a starting player and play lasts for ten turns.
+Determine player order. This is in order of starting longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins, if this ties, then use the turn order from last turn. Play lasts for ten turns.
 
 ### Phases per Turn
 
-Each turn consists of 5 short phases, these happen with all players undertaking each in sequence, clockwise. A turn ends after the last player has completed phase 5.
+Each turn consists of 6 short phases, these happen with all players undertaking each in sequence, in current turn order. A turn ends after the last player has completed phase 6.
 
 1. Start of the Year
 2. Place Staff
@@ -126,7 +126,7 @@ In this phase players receive money for any products built (or other sources), r
 
 You will need money for many things in Chip Shop, but you should make sure to keep some in reserve for unforeseen circumstances.
 
-If a player runs out of money they are declared bankrupt and must start the game again as a new company (as in setup phase). A player retains their remaining personalities, their loyalty score along with any other cards that state they remain with bankrupt players.
+If a player runs out of money they are declared bankrupt and must start the game again as a new company (as in setup phase). A player retains their remaining personalities, and begins a new company with their current loyalty score, the starting combined longevity score of your personalities, and any other cards that state they remain with bankrupt players.
 
 ##### Refresh Specialist Staff on Offer
 
@@ -134,15 +134,19 @@ Shuffle the specialist cards back into the deck, draw and place new cards, layin
 
 #### 2\. Place Staff Tokens
 
-Each turn a player has up to three staff tokens per turn they can place on the game board, the actions triggered by placing these staff happen in phase 4\. Place tokens from top to bottom in the order players place them, this will reflect the order that actions happen in phase 4\. Certain personalities an events may change the placing of these tokens.
+Each turn a player has up to three staff tokens per turn they can place on the game board, the actions triggered by placing these staff happen in phase 4\. Place tokens one at a time, in turn order from top to bottom in the order players place them, this will reflect the order that actions happen in phase 4\. Certain personalities and events may change the placing of these tokens.
 
-There is no limit as to how many staff tokens can be placed on each square, but the resulting actions must happen in order.
+Some squares have limited space available, these are marked by the staff spaces on or underneath the square. Squares without staff spaces can have unlimited workers placed on them.
 
 #### 3\. Draw and play events
 
 Despite best efforts in planning and strategy, life has a habit of throwing random occurrences that help or hinder plans. This is represented by the events deck which contains varying positive and negative affects for individual players, all players and the game.
 
-Every player draws one cards in current turn order. Most event cards are drawn and played publicly and immediately. If a card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish, or discard it. Unless otherwise stated a card applies to the player drawing it, but many cards apply to the player with the lowest or highest value of a certain score. If a an event requires resources to be paid that you don't have, then discard the card.
+Every player draws one cards in turn order. Most event cards are drawn and played publicly and immediately. If a card is marked as '[choice](concepts/choice)' a player may hold on to the card to play when they wish, or discard it. Unless otherwise stated a card applies to the player drawing it, but many cards apply to the player with the lowest or highest value of a certain score.
+
+If you decide (or have) to play an event that requires resources to be paid, then you may decide to use the relevant specialist staff action now and remove your worker token. If you cannot meet the resources, the card passes to the next player in relevant score order, or turn order. You cannot use this to force an event on another player, this will happen if you are forced to play a card but have no resources available.
+
+If an event forces you to lose resources that you will be producing in phase 4, then draw one less resource at that time.
 
 If an effect of the card is to draw more cards or take other actions, play them immediately or when you decide to play the card.
 
@@ -150,7 +154,11 @@ If an effect of the card is to draw more cards or take other actions, play them 
 
 #### 4\. Take Actions
 
-Actions are taken in from left to right, bottom to top (**reorder board.**) in the order of staff token placement.
+Actions are taken in turn order, one at a time, in the order a player wishes. You cannot take an action on a square if there is another players worker token ahead of you.
+
+Any special actions that allow you to interrupt another players action should be played when relevant.
+
+If for some reason you can no longer take advantage of where a worker token is placed, then you can remove it and forfeit your action.
 
 ##### Use Specialist Staff
 
@@ -170,6 +178,10 @@ _Product potential for profit = Current loyalty score for amount of marketing re
 
 **Research & Development** R&D Resources are used to draw a product card from the product area of the main board and move it into your factory.
 
+##### Use General specialist
+
+If you don't have enough money or there are no worker spaces available on the specialist you need, you can use the general specialist to exchange one money for one resource of your choice.
+
 ##### Draw a Product
 
 Products are the main focus of Chip Shop and players main aim should be to build them.
@@ -184,11 +196,11 @@ If there are extra R&D building costs printed on the card (reflecting a more adv
 
 Some personalities reduce the building costs of certain products, if you are going to use the ability of a personality, then declare it and pay the appropriate reduced cost.
 
-You may also draw products from the product discard pile to the left of the board, these cost no R&D but you lose 1 loyalty and 1 longevity .
+You may also draw products from the product discard pile to the left of the board, these cost one R&D but you lose 1 loyalty and 1 longevity .
 
 Whilst the resources needed for release are still being acquired, keep the product behind your player screen in the matching square on the player board. When it's built, move it in front of your screen.
 
-Whilst products are roughly split into their respective sub-eras and most are fairly equal, there are some cards that have slight advantages and disadvantages over others.
+Whilst products are roughly split into their respective sub-eras and most are fairly equal, there are some cards that have slight advantages and disadvantages over others. Some products cost extra resources to build and this noted on the card. Some cost less resources to build and these are noted with a '-' symbol, i.e. one less resource. Some products score more or less points when you build them, products that score more have a positive number, products that lose you resources indicated with a '-' symbol.
 
 **Note**: Products that are never completed will negatively affect scores at the end of the game, so don't take on too much at once.
 
@@ -198,26 +210,33 @@ Whilst products are roughly split into their respective sub-eras and most are fa
 
 There are times when you need a cash injection into your company to keep wages paid or push forward for a big release. If you decide to make use of an income stream, place a counter representing your colour into the income stream of choice and follow the instructions written there. Players may only take advantage of income streams **three** times in the game and all will have some kind of negative affect on your company in the short or long term. If a player has already taken three income streams then they may take no more.
 
+##### Release product(s)
+
+If you are ready to release a product then one staff token needs to be placed in the 'release specialist' square. You can use this action to release any number of products.
+
 #### 5\. Update products and scores
 
 In this phase the status of products are updated and scores adjusted.
 
-In current turn order players take the following steps:
+In turn order players take the following steps:
 
-1. If a player is ready to build a product, **discard all the resources allocated to it** and move the product card from the player factory into the public playing area.
-2. Add piles of money tokens equal to the number of turns the product will remain in play (marketing resources allocated), with each pile containing tokens equal to the profits per turn score (players current loyalty score).
-3. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
+1. If a player no longer has enough resources available for an intended action, before release they can exchange **three money for one resource** of their choice.
+2. If a player is ready to build a product, **discard all the resources allocated to it** and move the product card from the player factory into the public playing area. You need to have a **minimum of one of each resource**.
+3. Add piles of money tokens equal to the number of turns the product will remain in play (marketing resources allocated), with each pile containing tokens equal to the profits per turn score (players current loyalty score).
+4. Adjust scores based on the product(s) built. Any revenue the product brings doesn't occur until the beginning of the next turn.
 
 #### 6\. End of the Year
 
 This final phase is an admin phase, with players checking that various rules are still in check, paying wages, checking products are still current and other tasks.
 
-In current turn order, players should undertake these tasks:
+In turn order, players should undertake these tasks:
 
 1. If an already built product has no remaining piles of money, move it to the game discard pile. If the product has accessories attached to it, then also move those to the discard pile.
-2. If your longevity score is 12 or more, from the current turn onward, you need to pay your personalities wages. Discard the money to the bank.
-3. Ensure you have at least one money available, if not, you are declared bankrupt.
-4. Determine turn order for the next turn. This is in order of longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins, if this ties, then use the turn order from last turn.
+2. If any products are irrelevant, then lose one loyalty point and one money per product.
+3. If your longevity score is **12** or more, from the current turn onward, you need to pay your personalities wages. Discard the money to the bank.
+4. Ensure you have at least one money available, if not, you are declared bankrupt.
+5. Ensure you have at least one personalty, if not, you are out of the game.
+6. Determine turn order for the next turn. This is in order of longevity score, from lowest to highest. In the event of a tie for longevity score, then highest loyalty score wins, if this ties, then use the turn order from last turn.
 
 **Note**: If a player is unable to pay costs, they must take an immediate income stream action to cover their costs. If this isn't possible, they are declared bankrupt.
 
@@ -277,7 +296,7 @@ Certain events and personalities allow you to undertake an action for 'free'. Th
 
 ### Highest, Lowest, Maximum and Minimum 'X'
 
-The card affects the player with the highest or lowest value in 'X'. Ties are broken by current turn order.
+The card affects the player with the highest or lowest value in 'X'. Ties are broken by turn order.
 
 Some cards (especially events, personalities and income streams) can only be played by players with a specific minimum or maximum score(s). The value(s) required will be noted in the respective score fields.
 
@@ -304,20 +323,20 @@ A product is deemed irrelevant by an event card or a sub-era moving off the boar
 
 This applies to the latest product of type 'X' released by a player.
 
-### Oldest Release
+### Oldest x
 
 Your oldest release is any current release from the earliest sub era, if there is more then one, then you decide.
 
 ### X Reduce
 
-X Reduce is applied to potential products still in the products track, and generally triggered by personalities or events. It allows the player holding the card to build a product at an R&D cost one era lower than the product is in. This results in reduced R&D costs, but the benefits of the era it originally came from. As R&D costs are paid immediately, this means you can still place the product in its original era on your factory to keep track of the scores gained when you release it.
+X Reduce is applied to potential products still in the products track, and generally triggered by personalities or events. It allows the player holding the card to build a product at an R&D cost one era lower than the product is in. This results in reduced R&D costs, but the benefits of the era it originally came from. As R&D costs are paid immediately, this means you can still place the product in its original era on your factory to keep track of the scores gained when you release it. If you find a product with 'x_reduce', this means that this product is reduced if any player has built 'x'.
 
 If the product is in era 1, then R&D cost is 1.
 
 ### Staff Loss
 
-Remove the staff token of a player from a staff card, the token is target players choice.
+Remove the staff token of a player from a staff card.
 
 ### Staff Transfer
 
-Exchange your staff token on one staff card with another players staff token.
+Exchange your staff token on one staff card with another players staff token on another.
