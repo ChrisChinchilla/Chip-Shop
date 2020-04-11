@@ -1,0 +1,35 @@
+title: Amiga 500
+realtitle: Amiga 500
+cardtype: product
+hardwaretype: computer
+image: amiga500.png
+imageattribution: Bill Bertram 2006
+imagelicense: CC-BY-2.5 — Attribution
+imagelink: 'https://en.wikipedia.org/wiki/File:Amiga500_system.jpg'
+staffcost: null
+rdcost: null
+marketingcost: -1
+qualitycost: null
+loyaltyscore: 1
+profitscore: null
+profitlength: null
+longevityscore: null
+legal: 'Amiga and Amiga 500 are registered Trademarks of Amiga, Inc.'
+approved: 'Y'
+concepts: amiga_1000_reduce
+yearofrelease: 1987
+era:
+  decade: 80s
+  value: 5
+region: usa
+originalprice: $699
+description: A low-end, mass market machine with advanced graphics, sound and expansion potential.
+provides:
+  home: 3
+  office: 2
+  gaming: 3
+upgrades:
+  expandable:
+    loyalty: 1  
+  affordable:
+    loyalty: 1  

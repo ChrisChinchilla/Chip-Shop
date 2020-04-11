@@ -1,0 +1,28 @@
+title: Tandy 1000
+realtitle: Tandy 1000
+cardtype: idea
+hardwaretype: computer
+image: tandy1000.jpg
+imageattribution: Craig Howell
+imagelicense: CC BY 2.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Sabu_with_his_Tandy_1000_Computer.jpg'
+legal: Tandy and the Tandy 1000 is a Trademark of The RadioShack Corporation
+approved: 'Y'
+yearofrelease: 1984
+era:
+  decade: 80s
+  value: 2
+region: usa
+originalprice: $1200
+description: A flexible computer that incorporates a complete set of basic peripherals on the motherboard.
+provides:
+  home: 2
+  office: 2
+  gaming: 2
+upgrades:
+  clone:
+    home: 1
+    office: 1
+    gaming: 1
+  affordable:
+    loyalty: 1  

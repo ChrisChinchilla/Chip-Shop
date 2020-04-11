@@ -1,0 +1,23 @@
+title: Eagle PC
+realtitle: Eagle PC
+cardtype: idea
+image: eagle-computer.png
+imageattribution: Mark Richards
+imagelicense: © Mark Richards
+imagelink: 'http://www.computerhistory.org/revolution/personal-computers/17/302/1186'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $2385
+description: The Eagle Computer is an IBM compatible machine that is well made and easily expandable.
+provides:
+  home: 1
+  office: 1
+upgrades:
+  series:
+    home: 1
+    office: 1
+  well_made:  
+    quality: 1

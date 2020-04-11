@@ -1,0 +1,26 @@
+title: HP 80
+realtitle: The HP 80
+cardtype: idea
+hardwaretype: computer
+image: hp85.jpg
+imageattribution: David G. Hicks
+imagelicense: Copyright David G. Hicks
+imagelink: 'http://www.hpmuseum.org/hp85.htm'
+legal: Hewlett-Packard and HP 85 are registered Trademarks of Hewlett-Packard Development Company, L.P.
+yearofrelease: 1980
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $3250
+description: The HP-80 series is an all-in-one portable computer system with a built-in keyboard, 5" screen, printer, tape storage unit, and the BASIC programming language.
+provides:
+  office: 1
+  portable: 1
+upgrades:
+  printer:
+    home: 1
+    office: 1
+  series:
+    home: 1
+    office: 1

@@ -1,0 +1,26 @@
+title: Hyperion
+realtitle: Hyperion
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 2
+region: canada
+originalprice: $4995
+description: An early portable computer that vied with the Compaq Portable to be the first portable IBM PC compatible.
+provides:
+  portable: 2
+  office: 2
+upgrades:
+  clone:
+    office: 1
+    portable: 1
+  innovative:
+    loyatly: 1  

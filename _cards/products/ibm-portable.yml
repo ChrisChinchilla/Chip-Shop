@@ -1,0 +1,23 @@
+title: IBM Portable
+realtitle: IBM Portable
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1986
+era:
+  decade: 80s
+  value: 4
+region: usa
+originalprice:
+description: An early portable computer developed by IBM after the success of the suitcase-size Compaq Portable.
+provides:
+  portable: 3
+  office: 3
+upgrades:
+  innovative:
+    longevity: 2

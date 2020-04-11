@@ -1,0 +1,25 @@
+title: Franklin Ace 1000
+realtitle: Franklin Ace 1000
+cardtype: product
+hardwaretype: computer
+image: franklin-ace-1000.png
+imageattribution: Eric E Johnson / Konomark
+imagelicense: Copyright Eric E Johnson / Konomark
+imagelink: http://www.museumofintellectualproperty.org/exhibits/evolution_of_copyright.html
+legal: Franklin Ace 1000 is a Trademark of Saunders Acquisition Corp
+approved: 'Y'
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $1349
+concepts: null
+description: The Franklin Ace 1000 is a familiar computer at a lower price.
+provides:
+  home: 1
+  office: 1
+upgrades:
+  clone:
+    home: 1
+    office: 1

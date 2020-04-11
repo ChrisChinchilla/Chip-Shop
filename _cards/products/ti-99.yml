@@ -1,0 +1,25 @@
+title: Texas Instruments 99
+realtitle: Texas Instruments 99
+cardtype: idea
+hardwaretype: computer
+image: ti99.png
+imageattribution: 'Rama & Musée Bolo'
+imagelicense: CC BY-SA 2.0 FR
+imagelink: 'https://commons.wikimedia.org/wiki/File:TI99-IMG_7143.jpg'
+legal: Texas Instruments is a Trademark of Acer Inc.
+yearofrelease: 1981
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $525
+description: The first 16-bit home computer. It has many 'plug and play' accessories available, especially speech synthesis
+provides:
+  home: 3
+  office: 1
+  gaming: 1
+upgrades:
+  ground_breaking:
+    longevity: 1
+  expandable:
+    loyalty: 1

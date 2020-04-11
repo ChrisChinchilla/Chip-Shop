@@ -1,0 +1,23 @@
+title: Grid Compass
+realtitle: Grid Compass
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $8150
+description: One of the first laptop computers, it was even used on space shuttles.
+provides:
+  portable: 2
+  office: 2
+upgrades:
+  innovative:
+    longevity: 2

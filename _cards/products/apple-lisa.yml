@@ -1,0 +1,24 @@
+title: Apple Lisa
+realtitle: Apple Lisa
+cardtype: idea
+image: applelisa.png
+imageattribution: null
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Apple_Lisa.jpg'
+legal: Lisa and Apple are trademarks of Apple Inc.
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $9995
+description: The Lisa is the first commercially available personal computer system with a graphical user interface (GUI) and other advanced features.
+provides:
+  home: 1
+  office: 1
+upgrades:
+  series:
+    home: 1
+    office: 1
+  ground_breaking:
+    longevity: 1

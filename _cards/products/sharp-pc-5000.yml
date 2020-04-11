@@ -1,0 +1,26 @@
+title: Sharp PC 5000
+realtitle: Sharp PC 5000
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 2
+region: usa
+originalprice: null
+description: A pioneering laptop computer that employed a clamshell design in which the display closes over the keyboard.
+provides:
+  portable: 2
+  office: 2
+upgrades:
+  printer:
+    office: 1
+  clone:
+    home: 1
+    office: 1

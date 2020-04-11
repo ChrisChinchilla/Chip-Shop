@@ -1,0 +1,24 @@
+title: Vectrex
+realtitle: Vectrex
+cardtype: idea
+legal: null
+approved: 'Y'
+image: vectrex.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Vectrex-Console-Set.jpg'
+hardwaretype: console
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $199
+description: Vectrex is a vector display-based home video game console that has an integrated monitor which displays vector graphics.
+provides:
+  gaming: 2
+upgrades:
+  novel:
+    loyalty: 1
+  well_made:
+    longevity: 1  

@@ -1,0 +1,23 @@
+title: Commodore Vic 20
+realtitle: Commodore Vic 20
+cardtype: idea
+image: vic20.png
+imageattribution: Evan Amos
+imagelicense: Public Domain
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Commodore-VIC-20-FL.jpg/800px-Commodore-VIC-20-FL.jpg
+legal: 'Commodore and Commodore VIC 20 are registered Trademarks of Amiga, Inc.'
+yearofrelease: 1981
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $300
+description: The Commodore VIC 20 is an affordable home computer that can be plugged into a television initially developed as a chip set for video games. It was the first computer of any description to sell one million units.
+provides:
+  home: 1
+  gaming: 1
+upgrades:
+  affordable:
+    home: 1
+  expandable:  
+    longevity: 1

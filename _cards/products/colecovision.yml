@@ -1,0 +1,21 @@
+title: Colecovision
+realtitle: Colecovision
+cardtype: idea
+image: colecovision.png
+imageattribution: Wikipedia
+imagelicense: CC Wikipedia
+imagelink: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/ColecoVision-wController-L.jpg'
+legal: Coleco and ColecoVision are registered Trademarks of River West Brands LLC
+approved: 'Y'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $170
+description: The Colecovision games console features near-arcade-quality graphics and gaming style along with the means to expand the basic hardware.
+provides:
+  gaming: 2
+upgrades:
+  influential:
+    longevity: 1

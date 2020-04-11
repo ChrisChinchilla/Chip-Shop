@@ -1,0 +1,27 @@
+title: Gavilan SC
+realtitle: Gavilan
+cardtype: product
+hardwaretype: computer
+stafftype: null
+image: gavilan-cs.jpg
+imageattribution: Vintagecomputer.net
+imagelicense: '© Degnan, Co. 2001 - 2015'
+imagelink: 'http://www.vintagecomputer.net/gavilan/SC/'
+legal: null
+approved: 'Y'
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $4000
+concepts: null
+description: The Gavilan SC is the first computer to be sold with the laptop label.
+provides:
+  home: 1
+  office: 1
+  portable: 2
+upgrades:
+  clone:
+    home: 1
+    office: 1

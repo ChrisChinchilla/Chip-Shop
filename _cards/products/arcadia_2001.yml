@@ -1,0 +1,31 @@
+
+title: Arcadia 2001
+realtitle: Arcadia 2001
+cardtype: idea
+hardwaretype: console
+image: emersonarcadia2001.png
+imageattribution: Evan Amos
+imagelicense: CC BY-SA 3.0
+imagelink: 'https://en.wikipedia.org/wiki/File:Emerson-Arcadia-2001.jpg'
+staffcost: null
+qualitycost: null
+rdcost: null
+marketingcost: null
+loyaltyscore: null
+profitscore: null
+profitlength: null
+legal: Emerson and Emerson Arcadia are registered Trademarks of Emerson Radio Corporation
+approved: 'Y'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $199
+description: A second-generation 8-bit console with a 12-volt power supply so it can be used in a boat or a vehicle. It has two controllers with a 12 button keypad and 'fire' buttons on the sides.
+provides:
+  games: 1
+upgrades:
+  clone:
+    games: 1
+    longevity: 1

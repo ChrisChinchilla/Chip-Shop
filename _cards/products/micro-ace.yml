@@ -1,0 +1,22 @@
+title: Micro Ace
+realtitle: Micro Ace
+cardtype: idea
+hardwaretype: computer
+image: microace.jpg
+imageattribution: 1000bit.net
+imagelicense: Copyright 1000bit.net
+imagelink: 'http://www.old-computers.com/museum/computer.asp?st=1&c=1179'
+legal: null
+yearofrelease: 1980
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $149
+description: The Micro Ace is a self-assembly computer kit.
+provides:
+  home: 1
+  office: 1
+upgrades:
+  affordable:
+    loyalty: 1

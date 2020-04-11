@@ -1,0 +1,25 @@
+title: Texas Instruments DS990
+realtitle: Texas Instruments DS990
+cardtype: idea
+hardwaretype: computer
+image: tids990.png
+imageattribution: The Centre for Computing History
+imagelicense: Copyright The Centre for Computing History
+imagelink: 'http://www.computinghistory.org.uk/det/14414/TI-Model-911-Video-Display-Terminal/'
+legal: Copyright Acer Inc
+yearofrelease: 1980
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: null
+description: A popular minicomputer with programmers due to unique features that made it easier to program.
+provides:
+  technical: 1
+  office: 1
+upgrades:
+  ease_of_use:
+    loyalty: 1
+  series:
+    technical: 1
+    office: 1

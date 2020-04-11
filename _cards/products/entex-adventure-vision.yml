@@ -1,0 +1,20 @@
+title: Entex Adventure Vision
+realtitle: Entex Adventure Vision
+cardtype: product
+hardwaretype: console
+image: entex-adventure-vision.png
+imageattribution: null
+imagelicense: null
+imagelink: null
+legal: null
+approved: 'Y'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: null
+description: Entex Adventure Vision is a self-contained cartridge-based video game console released with the games Defender, Super Cobra, Turtles and Space Encounter.
+provides:
+  gaming: 1
+  portable: 1

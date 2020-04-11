@@ -1,0 +1,23 @@
+title: Kaypro II
+realtitle: Kaypro II
+cardtype: idea
+hardwaretype: computer
+image: kaypro2.jpg
+imageattribution: Four Dots Blog
+imagelicense: null
+imagelink: 'http://www.potenziani.com/2013_05_01_archive.html'
+legal: Kaypro 2 is a registered Trademarks of Non-Linear Systems
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $1795
+description: The Kaypro II is a portable computer with a rugged inbuilt case.
+provides:
+  office: 1
+  home: 1
+  portable: 1
+upgrades:
+  loyal_users:
+    loyalty: 1

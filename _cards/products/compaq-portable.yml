@@ -1,0 +1,24 @@
+title: Compaq Portable
+realtitle: Compaq Portable
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1983
+era:
+  decade: 80s
+  value: 2
+region: usa
+originalprice: $3590
+description: An early portable computer which was one of the first 100% IBM PC compatible systems. It was Compaq Computer Corporation's first product.
+provides:
+  portable: 2
+  office: 2
+upgrades:
+  clone:
+    office: 1
+    portable: 1

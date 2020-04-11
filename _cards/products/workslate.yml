@@ -1,0 +1,22 @@
+title: Workslate
+realtitle: Workslate
+hardwaretype: computer
+image: convergent-workslate.jpg
+imageattribution: vintagecomputer.net
+imagelicense: '© Degnan, Co.'
+imagelink: 'http://www.vintagecomputer.net/convergent/?sort=size'
+legal: null
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $895
+description: The Workslate is an unusual device aimed at spreadsheet users. It has a built in tape drive, modem and can act as an answering machine.
+provides:
+  home: 1
+  office: 1
+upgrades:
+  flexible:
+    home: 1
+    office: 1

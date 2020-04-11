@@ -1,0 +1,20 @@
+title: Osborne Executive
+realtitle: Osborne Executive
+cardtype: product
+hardwaretype: computer
+image: osborne-executive.png
+imageattribution: The Computer Museum
+imagelicense: Copyright System Source
+imagelink: 'http://museum.syssrc.com/artifact/personal-computers/404/'
+legal: The Osborne Executive and Osborne are registered Trademarks of Mikrolog Ltd
+approved: 'Y'
+yearofrelease: 1982
+era:
+  decade: 80s
+  value: 1
+region: usa
+originalprice: $2500
+description: When working with clients, the portable Executive can provide on-the-spot answers to numerical questions.
+provides:
+  portable: 1
+  office: 1

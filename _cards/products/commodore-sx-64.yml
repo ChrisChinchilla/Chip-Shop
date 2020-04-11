@@ -1,0 +1,21 @@
+title: Commodore SX-64
+realtitle: Commodore SX-64
+cardtype: idea
+hardwaretype: portable
+image: 
+imageattribution: 
+imagelicense: 
+imagelink:
+legal: null
+approved: 'Y'
+yearofrelease: 1984
+era:
+  decade: 80s
+  value: 3
+region: usa
+originalprice: $995
+description: A portable, briefcase/suitcase-size "luggable" version of the popular Commodore 64 home computer and the first full-color portable computer.
+provides:
+  portable: 2
+  home: 1
+  office: 1
