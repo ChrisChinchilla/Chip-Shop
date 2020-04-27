@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: ChrisChinchilla/Chip-Shop # Path to your Github repository
+  branch: feature/re-work
+
+media_folder: "assets" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "ideas" # Used in routes, e.g., /admin/collections/blog
+    label: "Ideas" # Used in the UI
+    extension: yml
+    folder: "_cards/idea" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
