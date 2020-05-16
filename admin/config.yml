@@ -3,6 +3,7 @@ backend:
   repo: ChrisChinchilla/Chip-Shop # Path to your Github repository
   branch: feature/re-work
 
+publish_mode: editorial_workflow
 media_folder: "assets" # Media files will be stored in the repo under images/uploads
 
 collections:
