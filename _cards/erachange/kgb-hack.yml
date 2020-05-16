@@ -1,0 +1,13 @@
+title: KGB Hack
+realtitle: KGB Hack
+cardtype: erachange
+image: kgb-logo.png
+imageattribution: jgaray
+imagelicense: Public Domain
+imagelink: 'https://commons.wikimedia.org/wiki/File:Emblema_KGB.svg'
+legal: null
+approved: 'Y'
+yearofrelease: 1986
+description: A KGB led attack targets US government computers, causing a lack of consumer confidence in US computer companies.
+draw_bonus: One active idea card you have with a `gaming` or `home` value gains a free upgrade drawn from the top of the idea deck
+affect: All players with any active cards with a `office` value lose 2 points of loyalty

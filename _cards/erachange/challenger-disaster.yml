@@ -1,0 +1,10 @@
+title: Challenger Disaster
+realtitle: Challenger Disaster
+cardtype: erachange
+image: challenger-photo-montage.jpg
+imageattribution: Galdrad
+imagelicense: Public Domain
+imagelink: 'https://commons.wikimedia.org/wiki/File:Challenger_Photo_Montage.jpg'
+description: A catastrophic space shuttle disaster leads to a reduction of confidence in computer technology.
+draw_bonus: No affect if you have any active idea cards with a `quality` symbol
+affect: All players with any active cards with an `office`, `home`, or `education` value lose 1 point of longevity

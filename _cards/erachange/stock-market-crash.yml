@@ -1,0 +1,13 @@
+title: Stock Market Crash
+realtitle: Stock Market Crash
+cardtype: erachange
+image: stock-market-crash.png
+imageattribution: autopilot
+imagelicense: SA 3.0
+imagelink: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Black_Monday_Dow_Jones.svg/600px-Black_Monday_Dow_Jones.svg.png
+legal: null
+approved: 'Y'
+year: 1987
+description: A series of circumstances lead to a drastic overnight stock market crash, reducing the value of thousands of companies.
+draw_bonus: No affect
+affect: All other players lose a QUARTER of their money, or reduce any combination of resource tracks FOUR spaces.
