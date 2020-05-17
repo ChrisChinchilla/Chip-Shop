@@ -1,0 +1,19 @@
+title: Business Genius
+realtitle: Business Genius
+cardtype: staff
+hardwaretype: null
+stafftype: genius
+image: img-placeholder.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+legal: null
+approved: 'Y'
+cost: 2
+provides:
+  - business
+affects:
+  oneoff:
+    rand: 1
+  ongoing: Increase money reward of demand cards by 2
+description: A business genius helps you focus and perfect a particular product line.

@@ -1,0 +1,18 @@
+title: Adele Goldberg
+realtitle: Adele Goldberg
+cardtype: upgrade
+stafftype: null
+image: img-placeholder.png
+legal: null
+approved: 'Y'
+cost: 2
+provides:
+  - academic
+  - longevity
+  - research
+  - gui
+affects:
+  oneoff:
+    rand: 1
+  ongoing: Reduce idea cost of releases by 1    
+description: Adele is a computer scientist working on replacing traditional computer interfaces with a graphical version.

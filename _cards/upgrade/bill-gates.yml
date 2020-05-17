@@ -1,0 +1,19 @@
+title: Bill Gates
+realtitle: Bill Gates
+cardtype: staff
+stafftype: giant
+image: bill-gates.jpg
+imageattribution: Esther Dyson
+imagelicense: CC BY-NC 2.0
+imagelink: 'https://www.flickr.com/photos/edyson/4929529633'
+legal: null
+approved: 'Y'
+cost: 3
+provides:
+  - business
+  - lonegenius
+  - licensing
+  - ripoff
+affects:
+  ongoing: During other players release actions, may buy an upgrade card of a released idea card to use as an upgarde at a cost of 2 money
+description: Bill is a computer programmer with a good eye for business.

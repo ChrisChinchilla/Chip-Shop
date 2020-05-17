@@ -1,0 +1,17 @@
+title: Product Expert
+realtitle: Product Expert
+cardtype: staff
+hardwaretype: null
+stafftype: expert
+image: img-placeholder.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+legal: null
+approved: 'Y'
+cost: 1
+provides:
+  - quality
+affects:
+  ongoing: Reduce the cost of cards in development by 1
+description: A product expert helps make a product that little bit better.
