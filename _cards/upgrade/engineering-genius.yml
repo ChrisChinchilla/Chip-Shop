@@ -1,0 +1,21 @@
+title: Engineering Genius
+realtitle: Engineering Genius
+cardtype: staff
+hardwaretype: null
+stafftype: genius
+image: img-placeholder.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+legal: null
+approved: 'Y'
+cost: 3
+provides:
+    - longevity
+    - quality
+affects:
+    oneoff:
+        - Increase R&D by 1
+    ongoing:
+        - When taking an innovate action, draw two additional cards, and discard 1    
+description: An Engineering genius has experience to draw upon and a spark to try crazy ideas that might just work.

@@ -1,0 +1,21 @@
+title: Jay Miner
+realtitle: Jay Miner
+cardtype: staff
+hardwaretype: null
+stafftype: giant
+image: jay-miner.jpg
+imageattribution: Copyright 1990 Michael C. Battilana and Cloanto Italia srl
+imagelicense: CC BY 2.0
+imagelink: 'https://en.wikipedia.org/wiki/File:JayMiner1990.jpg'
+legal: null
+approved: 'Y'
+cost: 2
+provides:
+    - loyalty
+affects:
+    choose:
+        oneoff:
+            - Increase R&D by 2
+        ongoing:
+            - Increase loyalty by 1 on every era change        
+description: Jay is an integrated circuit designer with a penchant for designing chips perfect for multimedia applications.

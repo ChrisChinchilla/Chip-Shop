@@ -1,0 +1,18 @@
+title: John Scully
+realtitle: John Scully
+cardtype: staff
+hardwaretype: null
+stafftype: giant
+image: john-sculley.jpg
+imageattribution: Inc.com
+imagelicense: © Mansueto Ventures
+imagelink: 'http://www.inc.com/geoffrey-james/why-apple-won-john-sculley_1.html'
+legal: null
+approved: 'Y'
+cost: 3
+affects:
+    oneoff:
+        - Increase marketing by 1
+    ongoing:
+        - Reduce costs of addiotnl marketing actions by 1    
+description: John is a business and marketing expert with many years experience in selling sugared water.

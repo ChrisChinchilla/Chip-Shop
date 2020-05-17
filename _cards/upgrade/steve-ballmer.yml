@@ -1,0 +1,18 @@
+title: Steve Ballmer
+realtitle: Steve Ballmer
+cardtype: personality
+stafftype: null
+image: steve-ballmer.jpg
+imageattribution: Circa
+imagelicense: '2015 © CIRCA 1605, INC'
+imagelink: 'http://circanews.com/news/steve-ballmers-tenure-at-microsoft'
+approved: 'Y'
+yearofrelease: null
+cost: 3
+provides:
+    - business
+    - longevity
+affects:
+    ongoing:
+        - Every turn take either 2 money, 1 idea card, 1 R&D, or 1 marketing        
+description: Steve is a skilled business manager know for his energy and exuberance.

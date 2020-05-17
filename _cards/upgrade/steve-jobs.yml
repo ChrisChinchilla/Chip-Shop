@@ -1,0 +1,21 @@
+title: Steve Jobs
+realtitle: Steve Jobs
+cardtype: personality
+stafftype: null
+image: steve-jobs.jpg
+imageattribution: null
+imagelicense: null
+imagelink: null
+legal: null
+approved: 'Y'
+cost: 2
+provides:
+    - lone genius
+    - loyalty
+affects:
+    oneoff:
+        - Increase marketing by 1
+    ongoing: 
+        - Further upgrades cost 1 less
+        - Increase loyalty by 1 pn every era change    
+description: Steve is an entrepreneur, opinionated, single focussed and an expert at motivating those around him to do what he wants.

@@ -1,0 +1,18 @@
+title: Engineering Expert
+realtitle: Engineering Expert
+cardtype: staff
+hardwaretype: null
+stafftype: expert
+image: img-placeholder.png
+imageattribution: Name of person or company
+imagelicense: License type
+imagelink: Where did this image come from?
+cost: 2
+provides:
+    - quality
+affects:
+    ongoing:
+        - When taking the innovate action, draw an additional card
+legal: null
+approved: 'Y'
+description: An Engineering expert has experience to draw upon to solve complex engineering decisions.

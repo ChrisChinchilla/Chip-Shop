@@ -1,0 +1,20 @@
+title: Michael Dell
+realtitle: Michael Dell
+cardtype: personality
+stafftype: null
+image: michael-dell.jpg
+imageattribution: statesman.com
+imagelicense: © statesman.com
+imagelink: http://www.statesman.com/news/business/dells-big-betwith-buyout-plan-founder-of-computer-/nWKym/
+legal: null
+approved: 'Y'
+cost: 2
+provides:
+    - home
+    - business
+affects:
+    choose:
+        ongoing:
+            - Every home icon on a release gains an extra money
+            - Upgrades with a home icon are free
+description: Michael is a young business upstart who believes that manufacturers directly selling their computers is the future.

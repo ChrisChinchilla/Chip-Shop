@@ -1,0 +1,21 @@
+title: Steven Vosaneck
+realtitle: Steve Wozniak
+cardtype: personality
+stafftype: null
+image: img-placeholder.png
+imageattribution: null
+imagelicense: null
+imagelink: null
+cost: 2
+provides:
+    - loyalty
+    - longevity
+affects:
+    oneoff:
+        - Increase R&D by 1
+    ongoing:
+        - When taking develop action, may build one upgrade for free        
+legal: null
+approved: 'Y'
+yearofrelease: null
+description: Steven is a visionary inventor, hardware engineer and programmer, passionate about computer education.
